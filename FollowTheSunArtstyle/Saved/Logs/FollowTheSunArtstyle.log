@@ -1475,3 +1475,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.10-07.30.12:288][947]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.10-07.30.12:288][947]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.06.10-07.30.12:288][947]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.10-07.33.46:075][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.06.10-07.33.47:698][975]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.10-07.33.48:122][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.06.10-07.33.48:137][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.06.10-07.33.48:177][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.06.10-07.33.48:185][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.10-07.33.52:859][496]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.10-07.33.52:869][496]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.10-07.34.22:469][905]LogContentBrowser: Attempting asset rename: NewFolder -> Alpha_Brushes
+[2021.06.10-07.34.22:470][905]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.10-07.34.29:172][315]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\NIRAH STUDIOS\Seamless_Dirt\Textures_Ground\TEX_Dirt_Alpha_01.png)
+[2021.06.10-07.34.29:607][315]LogTexture: Display: Building textures: TEX_Dirt_Alpha_01 (AutoDXT, 1024X1024)
+[2021.06.10-07.34.29:912][315]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\NIRAH STUDIOS\Seamless_Dirt\Textures_Ground\TEX_Dirt_Alpha_02.png)
+[2021.06.10-07.34.29:936][315]LogTexture: Display: Building textures: TEX_Dirt_Alpha_02 (AutoDXT, 1024X1024)
+[2021.06.10-07.34.37:803][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.06.10-07.34.37:884][979]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/ThirdPersonExampleMapDC52846645877A4A3EC3FE8C5C1C819B.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.10-07.34.37:980][979]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/ThirdPersonExampleMap_BuiltDataDC5AE90D4C8A30C4C75AB38E962B9022.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.06.10-07.34.37:992][979]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-07.34.37:992][979]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.06.10-07.34.37:992][979]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
