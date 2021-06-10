@@ -3495,3 +3495,1098 @@ Script Stack (0 frames):
 [2021.06.10-09.30.37:610][672]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.10-09.30.37:610][672]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.06.10-09.30.37:610][672]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.10-09.37.37:786][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.06.10-09.37.39:108][331]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.10-09.37.39:143][331]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Albedo_01.TEX_Trunk_Albedo_01
+	Asset Name: /Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_alpha_01.TEX_Trunk_alpha_01
+	Asset Name: /Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_AO_01.TEX_Trunk_AO_01
+	Asset Name: /Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Normal_01.TEX_Trunk_Normal_01
+	Asset Name: /Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Spec_01.TEX_Trunk_Spec_01
+[2021.06.10-09.37.39:248][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:249][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:249][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:251][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:252][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:252][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:253][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:254][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:254][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:255][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:256][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:256][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:257][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:257][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:258][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:259][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:260][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:260][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:261][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:262][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:262][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:263][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:263][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:263][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:265][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:265][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:265][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:267][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:268][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:268][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:269][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:270][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:270][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:271][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:272][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:272][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:273][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:274][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:274][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:275][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:275][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:275][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:277][331]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.39:277][331]LogMaterial: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Graphics\Materials\Larch_Trunk\MAT_Larch_Trunk_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.39:277][331]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.39:329][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.06.10-09.37.39:336][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.10-09.37.39:341][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.10-09.37.39:347][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.10-09.37.39:352][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.10-09.37.39:358][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.06.10-09.37.39:364][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.10-09.37.49:952][482]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\NIRAH STUDIOS\Tree\Itteration_4\Trunk_Texture\1\new\Optimized\TEX_Trunk_Albedo_01.png)
+[2021.06.10-09.37.49:996][482]LogTexture: Display: Building textures: TEX_Trunk_Albedo_01 (AutoDXT, 1024X1024)
+[2021.06.10-09.37.50:396][482]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\NIRAH STUDIOS\Tree\Itteration_4\Trunk_Texture\1\new\Optimized\TEX_Trunk_Alpha_01.png)
+[2021.06.10-09.37.50:415][482]LogTexture: Display: Building textures: TEX_Trunk_Alpha_01 (AutoDXT, 1024X1024)
+[2021.06.10-09.37.50:478][482]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\NIRAH STUDIOS\Tree\Itteration_4\Trunk_Texture\1\new\Optimized\TEX_Trunk_AO_01.png)
+[2021.06.10-09.37.50:527][482]LogTexture: Display: Building textures: TEX_Trunk_AO_01 (AutoDXT, 1024X1024)
+[2021.06.10-09.37.50:795][482]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\NIRAH STUDIOS\Tree\Itteration_4\Trunk_Texture\1\new\Optimized\TEX_Trunk_Normal_01.png)
+[2021.06.10-09.37.50:845][482]LogTexture: Display: Building textures: TEX_Trunk_Normal_01 (AutoDXT, 1024X1024)
+[2021.06.10-09.37.51:366][482]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\NIRAH STUDIOS\Tree\Itteration_4\Trunk_Texture\1\new\Optimized\TEX_Trunk_Spec_01.png)
+[2021.06.10-09.37.51:407][482]LogTexture: Display: Building textures: TEX_Trunk_Spec_01 (AutoDXT, 1024X1024)
+[2021.06.10-09.37.53:221][539]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Graphics/Materials/Larch_Trunk/MAT_Larch_Trunk_01.MAT_Larch_Trunk_01
+[2021.06.10-09.37.53:223][539]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.53:223][539]LogMaterial: Warning: [AssetLog] /Engine/Transient.MAT_Larch_Trunk_01 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.53:223][539]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.53:337][539]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.53:337][539]LogMaterial: Warning: [AssetLog] /Engine/Transient.MAT_Larch_Trunk_01 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.53:337][539]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.53:339][539]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.53:340][539]LogMaterial: Warning: [AssetLog] /Engine/Transient.MAT_Larch_Trunk_01 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.10-09.37.53:340][539]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.53:356][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.10-09.37.53:357][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.06.10-09.37.53:358][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.06.10-09.37.53:367][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.10-09.37.53:368][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.10-09.37.53:378][539]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.06.10-09.37.57:660][856]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.37.57:709][857]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.06.10-09.37.57:709][857]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.10-09.37.58:187][887]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.06.10-09.37.58:411][902]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.06.10-09.37.58:584][915]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.06.10-09.37.59:088][942]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.10-09.37.59:088][942]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.10-09.38.00:211][976]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.06.10-09.38.00:291][977]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.06.10-09.38.00:678][996]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.06.10-09.38.00:897][ 10]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.10-09.38.00:995][ 18]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.06.10-09.38.01:424][ 49]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.06.10-09.38.01:549][ 59]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.06.10-09.38.02:777][151]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.38.02:792][151]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.06.10-09.38.02:793][151]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.10-09.38.02:793][151]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.06.10-09.38.02:805][151]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.06.10-09.38.03:231][176]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.06.10-09.38.03:494][193]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.06.10-09.38.03:655][204]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.06.10-09.38.04:193][237]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.06.10-09.38.04:263][242]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.06.10-09.38.05:051][290]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.06.10-09.38.05:153][297]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.06.10-09.38.05:564][319]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.10-09.38.05:864][335]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.06.10-09.38.06:015][344]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.06.10-09.38.06:477][376]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.06.10-09.38.06:569][383]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.06.10-09.38.06:930][409]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.06.10-09.38.07:101][421]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.38.07:121][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2021.06.10-09.38.07:138][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.06.10-09.38.07:143][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2021.06.10-09.38.07:384][431]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.06.10-09.38.07:447][433]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.06.10-09.38.07:972][462]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.06.10-09.38.08:201][473]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.06.10-09.38.08:298][480]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.06.10-09.38.08:737][511]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.06.10-09.38.08:815][517]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.06.10-09.38.09:449][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.06.10-09.38.09:548][570]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.06.10-09.38.09:840][591]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.10-09.38.10:094][609]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.06.10-09.38.10:206][618]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.06.10-09.38.10:620][647]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.06.10-09.38.10:731][655]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.06.10-09.38.11:025][675]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.06.10-09.38.11:390][698]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.38.11:410][698]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2021.06.10-09.38.11:423][698]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.06.10-09.38.11:424][698]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.06.10-09.38.11:428][698]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2021.06.10-09.38.11:433][698]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2021.06.10-09.38.11:512][701]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.06.10-09.38.12:052][726]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.06.10-09.38.12:327][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.06.10-09.38.12:454][749]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.06.10-09.38.12:597][758]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.06.10-09.38.13:121][784]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.06.10-09.38.13:165][788]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.06.10-09.38.13:767][828]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.06.10-09.38.13:939][839]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.06.10-09.38.14:233][854]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.06.10-09.38.14:508][865]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.06.10-09.38.14:704][877]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.06.10-09.38.15:388][917]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.06.10-09.38.15:418][919]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.06.10-09.38.15:881][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.06.10-09.38.16:366][971]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.06.10-09.38.16:367][971]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.06.10-09.38.16:393][972]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.06.10-09.38.16:393][972]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.06.10-09.38.16:393][972]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.10-09.38.16:393][972]MaterialEditorStats: Texture samplers: 2/16
+[2021.06.10-09.38.16:912][  7]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.10-09.38.16:925][  8]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.10-09.38.17:356][ 38]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.06.10-09.38.17:373][ 39]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.06.10-09.38.17:996][ 70]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.06.10-09.38.18:044][ 73]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.06.10-09.38.18:482][ 97]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.06.10-09.38.18:513][ 99]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.06.10-09.38.18:757][115]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.38.18:781][115]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2021.06.10-09.38.18:793][115]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.06.10-09.38.18:798][115]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2021.06.10-09.38.18:803][115]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2021.06.10-09.38.18:807][115]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2021.06.10-09.38.19:085][129]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2021.06.10-09.38.19:115][131]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.06.10-09.38.19:512][152]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2021.06.10-09.38.19:777][163]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2021.06.10-09.38.19:993][174]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.06.10-09.38.20:458][200]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.06.10-09.38.20:499][203]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.06.10-09.38.21:182][247]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.06.10-09.38.21:283][254]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.06.10-09.38.21:608][276]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.06.10-09.38.21:870][294]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.06.10-09.38.21:946][300]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.06.10-09.38.22:396][330]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.06.10-09.38.22:535][340]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.06.10-09.38.22:811][358]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.06.10-09.38.23:242][388]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.06.10-09.38.23:395][399]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.06.10-09.38.23:424][399]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.38.23:443][399]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2021.06.10-09.38.23:456][399]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.06.10-09.38.23:460][399]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2021.06.10-09.38.23:464][399]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2021.06.10-09.38.23:468][399]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2021.06.10-09.38.23:473][399]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2021.06.10-09.38.23:781][412]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2021.06.10-09.38.23:968][422]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2021.06.10-09.38.24:364][443]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2021.06.10-09.38.24:500][453]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2021.06.10-09.38.24:584][459]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2021.06.10-09.38.25:105][488]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2021.06.10-09.38.25:239][496]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2021.06.10-09.38.25:866][534]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2021.06.10-09.38.26:018][543]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.06.10-09.38.26:353][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.06.10-09.38.26:680][580]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.06.10-09.38.26:879][592]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.06.10-09.38.27:373][619]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.06.10-09.38.27:450][623]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.06.10-09.38.27:849][645]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.06.10-09.38.28:334][674]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.06.10-09.38.28:399][678]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.06.10-09.38.28:682][696]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.06.10-09.38.28:682][696]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.06.10-09.38.28:682][696]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.10-09.38.28:682][696]MaterialEditorStats: Texture samplers: 2/16
+[2021.06.10-09.38.28:902][708]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.06.10-09.38.28:998][714]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.06.10-09.38.29:350][737]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.06.10-09.38.29:443][744]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.06.10-09.38.29:975][775]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.10-09.38.30:058][780]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.06.10-09.38.30:489][804]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.06.10-09.38.30:546][807]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.06.10-09.38.31:020][838]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.06.10-09.38.31:059][841]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.06.10-09.38.31:538][868]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.06.10-09.38.31:572][870]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.06.10-09.38.32:089][902]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.06.10-09.38.32:114][904]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.10-09.38.32:621][933]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.06.10-09.38.32:621][933]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.10-09.38.33:183][965]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.10-09.38.38:759][344]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.38.38:773][344]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.06.10-09.38.38:773][344]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.10-09.38.38:775][344]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.06.10-09.38.39:205][365]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.06.10-09.38.39:448][378]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.06.10-09.38.39:632][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.06.10-09.38.40:147][418]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.06.10-09.38.40:200][422]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.06.10-09.38.40:856][465]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.06.10-09.38.40:935][471]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.06.10-09.38.41:245][491]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.38.41:258][491]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2021.06.10-09.38.41:285][492]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.06.10-09.38.41:720][513]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.06.10-09.38.41:837][520]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.06.10-09.38.42:426][552]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.06.10-09.38.42:508][558]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.06.10-09.38.42:843][580]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.06.10-09.38.43:196][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.06.10-09.38.43:238][606]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.06.10-09.38.43:412][619]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.06.10-09.38.43:459][622]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.38.43:483][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2021.06.10-09.38.43:912][645]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2021.06.10-09.38.43:928][646]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2021.06.10-09.38.44:402][673]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2021.06.10-09.38.44:524][681]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2021.06.10-09.38.44:943][709]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2021.06.10-09.38.44:970][711]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2021.06.10-09.38.45:430][737]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.06.10-09.38.45:832][759]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2021.06.10-09.38.45:897][763]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.06.10-09.38.46:166][778]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.06.10-09.38.46:260][784]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.06.10-09.38.46:533][800]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.06.10-09.38.46:615][806]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.06.10-09.38.46:886][824]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.06.10-09.38.47:156][842]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.06.10-09.38.47:312][853]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.06.10-09.38.47:572][869]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.06.10-09.38.47:815][885]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.38.47:841][885]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2021.06.10-09.38.47:846][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2021.06.10-09.38.48:353][912]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2021.06.10-09.38.48:385][914]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2021.06.10-09.38.49:014][950]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2021.06.10-09.38.49:031][951]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2021.06.10-09.38.49:467][977]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.06.10-09.38.49:774][998]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.06.10-09.38.49:813][  1]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2021.06.10-09.38.50:180][ 26]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.06.10-09.38.50:204][ 28]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.06.10-09.38.50:416][ 42]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.06.10-09.38.50:564][ 52]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.06.10-09.38.50:564][ 52]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.38.50:583][ 52]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2021.06.10-09.38.50:669][ 57]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2021.06.10-09.38.51:127][ 82]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2021.06.10-09.38.51:323][ 94]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2021.06.10-09.38.51:698][112]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2021.06.10-09.38.51:819][120]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2021.06.10-09.38.52:247][144]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.06.10-09.38.52:536][161]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2021.06.10-09.38.52:692][171]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.06.10-09.38.52:945][185]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.06.10-09.38.52:977][187]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.06.10-09.38.53:304][205]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.06.10-09.38.53:397][211]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.06.10-09.38.53:734][228]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.06.10-09.38.54:140][250]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.06.10-09.38.54:284][256]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.06.10-09.38.54:597][274]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.06.10-09.38.54:936][294]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.06.10-09.38.55:455][323]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.06.10-09.38.55:501][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.06.10-09.38.55:836][347]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.06.10-09.38.56:089][364]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.10-09.38.56:252][376]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.06.10-09.38.56:478][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.06.10-09.38.56:913][414]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.06.10-09.38.56:995][419]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.10-09.38.57:440][445]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.10-09.38.57:497][449]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.06.10-09.38.58:119][487]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.06.10-09.38.58:465][508]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.06.10-09.38.58:878][533]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.10-09.38.58:996][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.06.10-09.38.58:996][540]MaterialEditorStats: Base pass shader: 131 instructions
+[2021.06.10-09.38.58:996][540]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2021.06.10-09.38.58:996][540]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.10-09.38.58:996][540]MaterialEditorStats: Texture samplers: 7/16
+[2021.06.10-09.38.58:996][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.06.10-09.38.58:996][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.10-09.38.59:359][561]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.10-09.38.59:533][571]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.10-09.39.31:838][644]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\NIRAH STUDIOS\Tree\Itteration_4\Trunk_Texture\1\new\Optimized\TEX_Trunk_Albedo_02.png)
+[2021.06.10-09.39.31:887][644]LogTexture: Display: Building textures: TEX_Trunk_Albedo_02 (AutoDXT, 1024X1024)
+[2021.06.10-09.39.37:178][920]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.39.37:194][920]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2021.06.10-09.39.37:202][920]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2021.06.10-09.39.37:203][920]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.06.10-09.39.37:212][920]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.06.10-09.39.37:216][920]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2021.06.10-09.39.37:220][920]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2021.06.10-09.39.37:229][920]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2021.06.10-09.39.37:240][920]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2021.06.10-09.39.37:244][920]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2021.06.10-09.39.37:803][947]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2021.06.10-09.39.38:264][973]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2021.06.10-09.39.38:280][974]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2021.06.10-09.39.38:545][992]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2021.06.10-09.39.38:627][998]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2021.06.10-09.39.38:953][ 17]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2021.06.10-09.39.38:984][ 19]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2021.06.10-09.39.39:292][ 37]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2021.06.10-09.39.39:604][ 56]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2021.06.10-09.39.39:711][ 64]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2021.06.10-09.39.40:019][ 81]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.06.10-09.39.40:385][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2021.06.10-09.39.40:867][130]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2021.06.10-09.39.40:867][130]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2021.06.10-09.39.41:116][147]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2021.06.10-09.39.41:387][164]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2021.06.10-09.39.41:542][175]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2021.06.10-09.39.41:749][189]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2021.06.10-09.39.42:178][213]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2021.06.10-09.39.42:272][219]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2021.06.10-09.39.42:661][239]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2021.06.10-09.39.42:704][243]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2021.06.10-09.39.43:200][271]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.06.10-09.39.43:530][291]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.06.10-09.39.43:882][312]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.06.10-09.39.43:949][314]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.06.10-09.39.44:236][328]MaterialEditorStats: Base pass shader: 131 instructions
+[2021.06.10-09.39.44:236][328]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2021.06.10-09.39.44:236][328]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.10-09.39.44:236][328]MaterialEditorStats: Texture samplers: 7/16
+[2021.06.10-09.39.44:236][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.06.10-09.39.44:236][328]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.10-09.39.44:319][332]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.06.10-09.39.44:503][344]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.06.10-09.39.44:967][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.06.10-09.39.45:017][372]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.06.10-09.39.45:511][400]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.06.10-09.39.45:682][411]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.06.10-09.39.46:151][436]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.06.10-09.39.46:232][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.06.10-09.39.46:743][468]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.06.10-09.39.46:913][479]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.10-09.39.47:390][506]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.06.10-09.39.47:420][508]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.06.10-09.39.47:901][535]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.06.10-09.39.48:041][544]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.06.10-09.39.48:486][569]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.06.10-09.39.48:546][573]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.06.10-09.39.49:000][598]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.06.10-09.39.49:154][607]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.06.10-09.39.49:603][631]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.10-09.39.49:667][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.06.10-09.39.50:138][661]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.10-09.39.50:289][671]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.10-09.39.51:421][752]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.39.51:441][752]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.06.10-09.39.51:441][752]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.06.10-09.39.51:463][752]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2021.06.10-09.39.51:851][773]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2021.06.10-09.39.52:267][798]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2021.06.10-09.39.52:297][800]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.06.10-09.39.52:575][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.06.10-09.39.52:663][823]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.06.10-09.39.52:965][841]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.06.10-09.39.53:009][844]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.06.10-09.39.53:322][863]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.06.10-09.39.53:701][886]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.06.10-09.39.53:841][895]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.06.10-09.39.54:164][914]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.06.10-09.39.54:509][934]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.06.10-09.39.55:043][965]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.06.10-09.39.55:120][970]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.06.10-09.39.55:422][988]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.06.10-09.39.55:710][  5]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.10-09.39.55:848][ 14]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.06.10-09.39.56:161][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.06.10-09.39.56:573][ 57]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.06.10-09.39.56:641][ 61]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.10-09.39.57:258][ 91]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.10-09.39.57:292][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.06.10-09.39.58:029][137]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.06.10-09.39.58:379][158]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.06.10-09.39.58:768][182]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.10-09.39.58:933][192]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.06.10-09.39.58:962][193]MaterialEditorStats: Base pass shader: 131 instructions
+[2021.06.10-09.39.58:962][193]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2021.06.10-09.39.58:962][193]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.10-09.39.58:962][193]MaterialEditorStats: Texture samplers: 7/16
+[2021.06.10-09.39.58:962][193]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.06.10-09.39.58:962][193]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.10-09.39.59:516][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.10-09.39.59:822][239]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.10-09.40.11:514][302]LogMaterialEditor: Saving and Compiling material MAT_Larch_Trunk_01
+[2021.06.10-09.40.12:216][302]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.40.12:299][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.06.10-09.40.12:299][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.06.10-09.40.12:309][302]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Trunk_01, compiling. 
+[2021.06.10-09.40.12:348][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.06.10-09.40.12:358][302]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.10-09.40.12:920][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2021.06.10-09.40.12:920][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2021.06.10-09.40.12:920][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 57
+[2021.06.10-09.40.13:479][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2021.06.10-09.40.13:479][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2021.06.10-09.40.13:479][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2021.06.10-09.40.13:479][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 53
+[2021.06.10-09.40.14:038][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2021.06.10-09.40.14:038][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 51
+[2021.06.10-09.40.14:038][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2021.06.10-09.40.14:038][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 49
+[2021.06.10-09.40.14:596][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2021.06.10-09.40.14:596][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2021.06.10-09.40.14:596][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2021.06.10-09.40.15:156][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2021.06.10-09.40.15:156][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2021.06.10-09.40.15:156][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2021.06.10-09.40.15:715][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2021.06.10-09.40.15:715][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2021.06.10-09.40.15:715][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2021.06.10-09.40.16:274][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2021.06.10-09.40.16:274][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2021.06.10-09.40.16:274][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2021.06.10-09.40.16:833][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2021.06.10-09.40.16:833][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2021.06.10-09.40.16:833][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2021.06.10-09.40.17:032][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2021.06.10-09.40.17:032][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.06.10-09.40.17:037][302]TextureStreamingBuild: Display: Compiling optional shaders took 4.684 seconds.
+[2021.06.10-09.40.17:052][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.06.10-09.40.19:900][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.10-09.40.19:900][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.06.10-09.40.21:575][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.10-09.40.22:318][302]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MAT_Larch_Trunk_01B5E5BE224DA435C08FA7968FDCFAB0B4.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Materials/Larch_Trunk/MAT_Larch_Trunk_01.uasset'
+[2021.06.10-09.40.22:343][302]AssetCheck: New page: Asset Save: MAT_Larch_Trunk_01
+[2021.06.10-09.40.22:343][302]LogContentValidation: Display: Validating Material /Game/Graphics/Materials/Larch_Trunk/MAT_Larch_Trunk_01.MAT_Larch_Trunk_01
+[2021.06.10-09.40.22:345][302]MaterialEditorStats: Base pass shader: 131 instructions
+[2021.06.10-09.40.22:345][302]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2021.06.10-09.40.22:345][302]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.10-09.40.22:345][302]MaterialEditorStats: Texture samplers: 8/16
+[2021.06.10-09.40.22:345][302]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.06.10-09.40.22:345][302]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.10-09.40.26:869][635]LogMaterialEditor: Saving and Compiling material MAT_Larch_Trunk_01
+[2021.06.10-09.40.26:902][635]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MAT_Larch_Trunk_011944BF3849A52AD7E7EF36B5FED9C4FB.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Materials/Larch_Trunk/MAT_Larch_Trunk_01.uasset'
+[2021.06.10-09.40.26:914][635]AssetCheck: New page: Asset Save: MAT_Larch_Trunk_01
+[2021.06.10-09.40.26:914][635]LogContentValidation: Display: Validating Material /Game/Graphics/Materials/Larch_Trunk/MAT_Larch_Trunk_01.MAT_Larch_Trunk_01
+[2021.06.10-09.40.27:939][708]LogSlate: Window 'MAT_Larch_Trunk_01' being destroyed
+[2021.06.10-09.40.27:947][708]LogSlate: Window 'MAT_Larch_Trunk_01' being destroyed
+[2021.06.10-09.40.27:965][708]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-09.40.27:965][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-09.40.38:158][826]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Graphics/Materials/Larch_Pines/MAT_Larch_Pines_01.MAT_Larch_Pines_01
+[2021.06.10-09.40.38:160][826]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.40.38:298][826]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.40.38:314][826]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.40.38:337][826]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.06.10-09.40.38:337][826]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.06.10-09.40.38:347][826]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.06.10-09.40.38:353][826]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2021.06.10-09.40.38:357][826]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2021.06.10-09.40.38:361][826]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2021.06.10-09.40.38:733][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2021.06.10-09.40.39:101][866]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2021.06.10-09.40.39:145][869]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.06.10-09.40.39:420][887]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2021.06.10-09.40.39:474][891]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2021.06.10-09.40.39:759][910]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2021.06.10-09.40.39:825][915]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2021.06.10-09.40.40:150][936]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2021.06.10-09.40.40:427][954]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2021.06.10-09.40.40:582][965]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2021.06.10-09.40.40:826][977]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2021.06.10-09.40.41:112][996]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2021.06.10-09.40.41:574][ 25]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.06.10-09.40.41:575][ 25]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2021.06.10-09.40.41:824][ 42]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.06.10-09.40.42:070][ 58]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.06.10-09.40.42:259][ 71]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.06.10-09.40.42:407][ 78]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.06.10-09.40.42:763][ 97]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.06.10-09.40.42:894][105]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.06.10-09.40.43:212][125]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.06.10-09.40.43:324][133]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.06.10-09.40.43:760][162]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.06.10-09.40.44:164][189]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.06.10-09.40.44:521][213]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.06.10-09.40.44:544][214]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.06.10-09.40.44:545][214]MaterialEditorStats: Base pass shader: 136 instructions
+[2021.06.10-09.40.44:545][214]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2021.06.10-09.40.44:545][214]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.10-09.40.44:545][214]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.10-09.40.44:545][214]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.06.10-09.40.44:545][214]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.10-09.40.44:949][238]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.06.10-09.40.45:044][245]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.06.10-09.40.45:483][269]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.06.10-09.40.45:499][270]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.06.10-09.40.45:926][296]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.06.10-09.40.46:012][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.10-09.40.46:439][328]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.10-09.40.46:455][329]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.06.10-09.40.46:885][355]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.06.10-09.40.46:971][361]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.06.10-09.40.47:404][388]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.10-09.40.47:435][390]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.06.10-09.40.47:850][416]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.10-09.40.48:039][427]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.10-09.40.54:134][892]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.40.54:152][892]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.40.54:169][892]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.40.54:207][893]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.06.10-09.40.54:207][893]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.06.10-09.40.54:558][915]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.06.10-09.40.54:920][939]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.06.10-09.40.54:960][942]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.06.10-09.40.55:245][961]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.06.10-09.40.55:313][966]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.06.10-09.40.55:567][983]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.06.10-09.40.55:625][987]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.06.10-09.40.55:903][  5]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.06.10-09.40.56:192][ 23]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.06.10-09.40.56:346][ 34]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.06.10-09.40.56:600][ 50]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.06.10-09.40.56:868][ 68]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.06.10-09.40.57:310][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.06.10-09.40.57:310][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.06.10-09.40.57:559][113]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.06.10-09.40.57:813][129]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.06.10-09.40.58:000][142]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.06.10-09.40.58:170][154]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.06.10-09.40.58:534][177]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.06.10-09.40.58:660][186]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.06.10-09.40.58:969][206]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.06.10-09.40.59:080][214]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.06.10-09.40.59:586][247]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.06.10-09.40.59:960][272]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.06.10-09.41.00:408][302]MaterialEditorStats: Base pass shader: 136 instructions
+[2021.06.10-09.41.00:408][302]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2021.06.10-09.41.00:408][302]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.10-09.41.00:408][302]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.10-09.41.00:408][302]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.06.10-09.41.00:409][302]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.10-09.41.03:861][560]LogMaterialEditor: Saving and Compiling material MAT_Larch_Pines_01
+[2021.06.10-09.41.04:571][560]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.41.04:644][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.06.10-09.41.04:644][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.06.10-09.41.04:669][560]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.41.04:711][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.06.10-09.41.04:717][560]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.10-09.41.05:281][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2021.06.10-09.41.05:281][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2021.06.10-09.41.05:281][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 57
+[2021.06.10-09.41.05:841][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2021.06.10-09.41.05:841][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2021.06.10-09.41.05:841][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2021.06.10-09.41.05:841][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 53
+[2021.06.10-09.41.06:400][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2021.06.10-09.41.06:400][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 51
+[2021.06.10-09.41.06:400][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2021.06.10-09.41.06:400][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 49
+[2021.06.10-09.41.06:960][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2021.06.10-09.41.06:960][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 47
+[2021.06.10-09.41.06:960][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2021.06.10-09.41.07:518][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2021.06.10-09.41.07:518][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2021.06.10-09.41.07:518][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2021.06.10-09.41.07:518][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2021.06.10-09.41.08:078][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2021.06.10-09.41.08:078][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2021.06.10-09.41.08:078][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2021.06.10-09.41.08:637][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.06.10-09.41.08:637][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2021.06.10-09.41.09:196][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2021.06.10-09.41.09:196][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2021.06.10-09.41.09:196][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2021.06.10-09.41.09:318][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2021.06.10-09.41.09:318][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.06.10-09.41.09:320][560]TextureStreamingBuild: Display: Compiling optional shaders took 4.608 seconds.
+[2021.06.10-09.41.09:334][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.06.10-09.41.12:177][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.06.10-09.41.12:736][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.06.10-09.41.13:853][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.06.10-09.41.14:569][560]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MAT_Larch_Pines_014B6175704482C5DD07C31DAE88EAA1D7.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Materials/Larch_Pines/MAT_Larch_Pines_01.uasset'
+[2021.06.10-09.41.14:606][560]AssetCheck: New page: Asset Save: MAT_Larch_Pines_01
+[2021.06.10-09.41.14:607][560]LogContentValidation: Display: Validating Material /Game/Graphics/Materials/Larch_Pines/MAT_Larch_Pines_01.MAT_Larch_Pines_01
+[2021.06.10-09.41.14:608][560]MaterialEditorStats: Base pass shader: 136 instructions
+[2021.06.10-09.41.14:608][560]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2021.06.10-09.41.14:608][560]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.10-09.41.14:608][560]MaterialEditorStats: Texture samplers: 7/16
+[2021.06.10-09.41.14:608][560]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.06.10-09.41.14:608][560]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.10-09.41.17:664][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.10-09.41.17:665][798]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.006
+[2021.06.10-09.41.17:665][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphics/Materials/Larch_Pines/TEX_Pines_Alpha_01] ([1] browsable assets)...
+[2021.06.10-09.41.17:670][798]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Graphics/Materials/Larch_Pines/TEX_Pines_Alpha_01.TEX_Pines_Alpha_01]
+[2021.06.10-09.41.17:670][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Materials/Larch_Pines/TEX_Pines_Alpha_01]
+[2021.06.10-09.41.17:675][798]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Pines_Alpha_01_Auto0A52FFB204759EBB167E7079E2834D9CB.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Graphics/Materials/Larch_Pines/TEX_Pines_Alpha_01_Auto0.uasset'
+[2021.06.10-09.41.17:676][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphics/Materials/Larch_Pines/TEX_Pines_Albedo_01] ([1] browsable assets)...
+[2021.06.10-09.41.17:683][798]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Graphics/Materials/Larch_Pines/TEX_Pines_Albedo_01.TEX_Pines_Albedo_01]
+[2021.06.10-09.41.17:683][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Materials/Larch_Pines/TEX_Pines_Albedo_01]
+[2021.06.10-09.41.17:689][798]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Pines_Albedo_01_Auto0FB894B4E4ADDA46032903085D53E91BC.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Graphics/Materials/Larch_Pines/TEX_Pines_Albedo_01_Auto0.uasset'
+[2021.06.10-09.41.17:690][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphics/Materials/Larch_Pines/TEX_Pines_Normal_01] ([1] browsable assets)...
+[2021.06.10-09.41.17:697][798]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Graphics/Materials/Larch_Pines/TEX_Pines_Normal_01.TEX_Pines_Normal_01]
+[2021.06.10-09.41.17:697][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Materials/Larch_Pines/TEX_Pines_Normal_01]
+[2021.06.10-09.41.17:705][798]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Pines_Normal_01_Auto0D7B5B752474E0C264238B08E6EA4218A.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Graphics/Materials/Larch_Pines/TEX_Pines_Normal_01_Auto0.uasset'
+[2021.06.10-09.41.17:706][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphics/Materials/Larch_Pines/TEX_Pines_Spec_01] ([1] browsable assets)...
+[2021.06.10-09.41.17:712][798]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Graphics/Materials/Larch_Pines/TEX_Pines_Spec_01.TEX_Pines_Spec_01]
+[2021.06.10-09.41.17:712][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Materials/Larch_Pines/TEX_Pines_Spec_01]
+[2021.06.10-09.41.17:718][798]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Pines_Spec_01_Auto0687AA98D4B639DF4550FFC9E541D845B.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Graphics/Materials/Larch_Pines/TEX_Pines_Spec_01_Auto0.uasset'
+[2021.06.10-09.41.17:718][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Albedo_01] ([1] browsable assets)...
+[2021.06.10-09.41.17:725][798]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Albedo_01.TEX_Trunk_Albedo_01]
+[2021.06.10-09.41.17:725][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Albedo_01]
+[2021.06.10-09.41.17:732][798]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Trunk_Albedo_01_Auto04AE4B73A4DE11EBB9A96C4B3DC50E875.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Albedo_01_Auto0.uasset'
+[2021.06.10-09.41.17:733][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Alpha_01] ([1] browsable assets)...
+[2021.06.10-09.41.17:740][798]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Alpha_01.TEX_Trunk_Alpha_01]
+[2021.06.10-09.41.17:740][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Alpha_01]
+[2021.06.10-09.41.17:744][798]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Trunk_Alpha_01_Auto033B0F01540355EF57260B5AF162909C9.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Alpha_01_Auto0.uasset'
+[2021.06.10-09.41.17:745][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_AO_01] ([1] browsable assets)...
+[2021.06.10-09.41.17:751][798]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_AO_01.TEX_Trunk_AO_01]
+[2021.06.10-09.41.17:751][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_AO_01]
+[2021.06.10-09.41.17:758][798]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Trunk_AO_01_Auto01ADBD3444BAFC1B3FBD30EA2885CEF53.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_AO_01_Auto0.uasset'
+[2021.06.10-09.41.17:773][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Normal_01] ([1] browsable assets)...
+[2021.06.10-09.41.17:780][798]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Normal_01.TEX_Trunk_Normal_01]
+[2021.06.10-09.41.17:780][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Normal_01]
+[2021.06.10-09.41.17:790][798]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Trunk_Normal_01_Auto01832440C406A5E75D1AAD1B71E813FCC.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Normal_01_Auto0.uasset'
+[2021.06.10-09.41.17:790][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Spec_01] ([1] browsable assets)...
+[2021.06.10-09.41.17:797][798]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Spec_01.TEX_Trunk_Spec_01]
+[2021.06.10-09.41.17:797][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Spec_01]
+[2021.06.10-09.41.17:804][798]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Trunk_Spec_01_Auto09D6056DD41B4F7ED23F3B08472157FCB.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Spec_01_Auto0.uasset'
+[2021.06.10-09.41.17:804][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Albedo_02] ([1] browsable assets)...
+[2021.06.10-09.41.17:811][798]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Albedo_02.TEX_Trunk_Albedo_02]
+[2021.06.10-09.41.17:811][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Albedo_02]
+[2021.06.10-09.41.17:818][798]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Trunk_Albedo_02_Auto0D6BA4D1A4C7C8BFEB6A041989841A033.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Graphics/Materials/Larch_Trunk/TEX_Trunk_Albedo_02_Auto0.uasset'
+[2021.06.10-09.41.17:819][798]LogFileHelpers: Auto-saving content packages took 0.155
+[2021.06.10-09.41.23:502][256]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.41.23:518][256]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.06.10-09.41.23:518][256]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.06.10-09.41.23:520][256]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.41.23:549][256]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.41.23:885][275]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.06.10-09.41.24:229][294]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.06.10-09.41.24:564][312]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.06.10-09.41.24:582][314]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.06.10-09.41.24:941][335]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.06.10-09.41.24:941][335]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.06.10-09.41.25:208][353]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.06.10-09.41.25:335][362]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.06.10-09.41.25:436][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.06.10-09.41.25:700][386]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.06.10-09.41.25:941][402]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.06.10-09.41.26:132][415]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.06.10-09.41.26:388][431]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.06.10-09.41.26:640][448]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.06.10-09.41.27:069][475]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.06.10-09.41.27:114][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.06.10-09.41.27:385][496]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.06.10-09.41.27:633][512]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.06.10-09.41.27:743][520]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.06.10-09.41.27:973][535]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.06.10-09.41.28:335][558]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.06.10-09.41.28:404][563]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.06.10-09.41.28:760][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.06.10-09.41.28:829][591]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.06.10-09.41.29:356][626]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.06.10-09.41.29:714][650]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.06.10-09.41.30:122][677]MaterialEditorStats: Base pass shader: 136 instructions
+[2021.06.10-09.41.30:123][677]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2021.06.10-09.41.30:123][677]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.10-09.41.30:123][677]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.10-09.41.30:123][677]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.06.10-09.41.30:123][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.10-09.41.32:370][843]LogMaterialEditor: Saving and Compiling material MAT_Larch_Pines_01
+[2021.06.10-09.41.33:070][843]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.41.33:152][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.06.10-09.41.33:152][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.06.10-09.41.33:161][843]LogMaterial: Display: Missing cached shader map for material MAT_Larch_Pines_01, compiling. 
+[2021.06.10-09.41.33:200][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.06.10-09.41.33:208][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.10-09.41.33:772][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2021.06.10-09.41.33:772][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2021.06.10-09.41.33:772][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 57
+[2021.06.10-09.41.34:331][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2021.06.10-09.41.34:331][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2021.06.10-09.41.34:331][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2021.06.10-09.41.34:331][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 53
+[2021.06.10-09.41.34:890][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2021.06.10-09.41.34:890][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 51
+[2021.06.10-09.41.34:890][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2021.06.10-09.41.34:890][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 49
+[2021.06.10-09.41.35:449][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2021.06.10-09.41.35:449][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2021.06.10-09.41.35:449][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2021.06.10-09.41.36:008][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2021.06.10-09.41.36:008][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2021.06.10-09.41.36:008][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2021.06.10-09.41.36:008][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2021.06.10-09.41.36:566][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2021.06.10-09.41.36:566][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2021.06.10-09.41.37:126][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2021.06.10-09.41.37:126][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2021.06.10-09.41.37:126][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2021.06.10-09.41.37:685][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2021.06.10-09.41.37:685][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2021.06.10-09.41.37:685][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2021.06.10-09.41.37:817][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2021.06.10-09.41.37:817][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.06.10-09.41.37:822][843]TextureStreamingBuild: Display: Compiling optional shaders took 4.619 seconds.
+[2021.06.10-09.41.37:837][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.06.10-09.41.40:686][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.10-09.41.41:245][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.06.10-09.41.42:364][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.10-09.41.43:076][843]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MAT_Larch_Pines_01CDCC600F4D650AD43ECD71B125E842AA.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Materials/Larch_Pines/MAT_Larch_Pines_01.uasset'
+[2021.06.10-09.41.43:115][843]AssetCheck: New page: Asset Save: MAT_Larch_Pines_01
+[2021.06.10-09.41.43:115][843]LogContentValidation: Display: Validating Material /Game/Graphics/Materials/Larch_Pines/MAT_Larch_Pines_01.MAT_Larch_Pines_01
+[2021.06.10-09.41.43:117][843]MaterialEditorStats: Base pass shader: 136 instructions
+[2021.06.10-09.41.43:117][843]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2021.06.10-09.41.43:117][843]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.10-09.41.43:117][843]MaterialEditorStats: Texture samplers: 7/16
+[2021.06.10-09.41.43:117][843]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.06.10-09.41.43:117][843]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.10-09.41.45:333][ 21]LogSlate: Window 'MAT_Larch_Pines_01' being destroyed
+[2021.06.10-09.41.45:340][ 21]LogSlate: Window 'MAT_Larch_Pines_01' being destroyed
+[2021.06.10-09.41.45:353][ 21]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-09.41.45:353][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-09.41.49:956][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Larch_01_MSH_Larch_Trunk)
+[2021.06.10-09.42.09:513][157]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.06.10-09.45.39:213][486]LogSlate: Window 'Select Path' being destroyed
+[2021.06.10-09.45.42:709][486]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.06.10-09.45.43:218][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.06.10-09.45.43:482][486]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Graphics/Blueprints/Blueprint_Larch_01.Blueprint_Larch_01
+[2021.06.10-09.45.44:350][486]LogBlueprintEditor: Perf: 0.5 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.06.10-09.45.44:350][486]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2021.06.10-09.45.45:003][486]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0125 seconds. Added 126 classes and 0 folders.
+[2021.06.10-09.47.26:101][321]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Blueprint_Larch_01B213EDCA4331C31A2851E8BAEC5F0E86.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Blueprints/Blueprint_Larch_01.uasset'
+[2021.06.10-09.47.26:118][321]AssetCheck: New page: Asset Save: Blueprint_Larch_01
+[2021.06.10-09.47.26:118][321]LogContentValidation: Display: Validating Blueprint /Game/Graphics/Blueprints/Blueprint_Larch_01.Blueprint_Larch_01
+[2021.06.10-09.47.27:646][441]LogSlate: Took 0.021104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.10-09.47.31:945][756]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Blueprint_Larch_011CB8B6A74FB77B6B535FFF9DEA6F6D3F.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Blueprints/Blueprint_Larch_01.uasset'
+[2021.06.10-09.47.31:959][756]AssetCheck: New page: Asset Save: Blueprint_Larch_01
+[2021.06.10-09.47.31:959][756]LogContentValidation: Display: Validating Blueprint /Game/Graphics/Blueprints/Blueprint_Larch_01.Blueprint_Larch_01
+[2021.06.10-09.47.45:128][251]LogSlate: Window 'Blueprint_Larch_01' being destroyed
+[2021.06.10-09.47.45:134][251]LogSlate: Window 'Blueprint_Larch_01' being destroyed
+[2021.06.10-09.47.45:149][251]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-09.47.45:149][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-09.48.43:800][ 25]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Graphics/Blueprints/Blueprint_Larch_01.Blueprint_Larch_01
+[2021.06.10-09.48.48:593][339]LogSlate: Window 'Blueprint_Larch_01' being destroyed
+[2021.06.10-09.48.48:600][339]LogSlate: Window 'Blueprint_Larch_01' being destroyed
+[2021.06.10-09.48.48:604][339]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-09.48.48:604][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-09.48.57:095][252]Cmd: DELETE
+[2021.06.10-09.48.57:128][252]Cmd: ACTOR DELETE
+[2021.06.10-09.48.57:631][252]LogEditorActor: Deleted Actor: Blueprint_Larch_01_C
+[2021.06.10-09.48.57:725][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.06.10-09.48.57:729][252]LogEditorActor: Deleted 1 Actors (0.185 secs)
+[2021.06.10-09.48.58:647][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Larch_02_MSH_Larch_Pines)
+[2021.06.10-09.48.59:110][407]Cmd: DELETE
+[2021.06.10-09.48.59:110][407]Cmd: ACTOR DELETE
+[2021.06.10-09.48.59:113][407]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.10-09.48.59:133][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.06.10-09.48.59:134][407]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.06.10-09.48.59:651][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Larch_02_MSH_Larch_Trunk)
+[2021.06.10-09.48.59:891][488]Cmd: DELETE
+[2021.06.10-09.48.59:891][488]Cmd: ACTOR DELETE
+[2021.06.10-09.48.59:895][488]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.10-09.48.59:913][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.06.10-09.48.59:914][488]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.06.10-09.49.01:125][632]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Larch_01_C (Blueprint_Larch_01)
+[2021.06.10-09.49.09:373][536]Cmd: DELETE
+[2021.06.10-09.49.09:373][536]Cmd: ACTOR DELETE
+[2021.06.10-09.49.09:379][536]LogEditorActor: Deleted Actor: Blueprint_Larch_01_C
+[2021.06.10-09.49.09:403][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.06.10-09.49.09:405][536]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.06.10-09.49.47:797][967]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.06.10-09.50.13:365][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.06.10-09.50.13:437][923]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/ThirdPersonExampleMapACDF782E476F16B164935BB43E18ED77.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.10-09.50.13:534][923]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/ThirdPersonExampleMap_BuiltData750F344941077A4D8169088AA9856532.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.06.10-09.50.13:547][923]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-09.50.13:547][923]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.06.10-09.50.13:547][923]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.10-09.50.30:759][915]LogContentBrowser: Attempting asset rename: Blueprints -> Blueprints_Prefab
+[2021.06.10-09.50.30:790][915]LogMetaData: Removing '/Game/Graphics/Blueprints_Prefab/Blueprint_Larch_01.Blueprint_Larch_01:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Graphics/Blueprints/Blueprint_Larch_01.PackageMetaData'
+[2021.06.10-09.50.30:790][915]LogMetaData: Removing '/Game/Graphics/Blueprints_Prefab/Blueprint_Larch_01.SKEL_Blueprint_Larch_01_C' ref from Metadata '/Game/Graphics/Blueprints/Blueprint_Larch_01.PackageMetaData'
+[2021.06.10-09.50.30:790][915]LogMetaData: Removing '/Game/Graphics/Blueprints_Prefab/Blueprint_Larch_01.Blueprint_Larch_01_C' ref from Metadata '/Game/Graphics/Blueprints/Blueprint_Larch_01.PackageMetaData'
+[2021.06.10-09.50.30:790][915]LogMetaData: Removing '/Game/Graphics/Blueprints_Prefab/Blueprint_Larch_01.Blueprint_Larch_01:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Graphics/Blueprints/Blueprint_Larch_01.PackageMetaData'
+[2021.06.10-09.50.30:790][915]LogMetaData: Removing '/Game/Graphics/Blueprints_Prefab/Blueprint_Larch_01.Blueprint_Larch_01:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Graphics/Blueprints/Blueprint_Larch_01.PackageMetaData'
+[2021.06.10-09.50.30:790][915]LogMetaData: Removing '/Game/Graphics/Blueprints_Prefab/Blueprint_Larch_01.Blueprint_Larch_01:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Graphics/Blueprints/Blueprint_Larch_01.PackageMetaData'
+[2021.06.10-09.50.30:790][915]LogMetaData: Removing '/Game/Graphics/Blueprints_Prefab/Blueprint_Larch_01.SKEL_Blueprint_Larch_01_C:ReceiveBeginPlay' ref from Metadata '/Game/Graphics/Blueprints/Blueprint_Larch_01.PackageMetaData'
+[2021.06.10-09.50.30:790][915]LogMetaData: Removing '/Game/Graphics/Blueprints_Prefab/Blueprint_Larch_01.SKEL_Blueprint_Larch_01_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Graphics/Blueprints/Blueprint_Larch_01.PackageMetaData'
+[2021.06.10-09.50.30:790][915]LogMetaData: Removing '/Game/Graphics/Blueprints_Prefab/Blueprint_Larch_01.SKEL_Blueprint_Larch_01_C:ReceiveTick' ref from Metadata '/Game/Graphics/Blueprints/Blueprint_Larch_01.PackageMetaData'
+[2021.06.10-09.50.30:790][915]LogMetaData: Removing '/Game/Graphics/Blueprints_Prefab/Blueprint_Larch_01.SKEL_Blueprint_Larch_01_C:UserConstructionScript' ref from Metadata '/Game/Graphics/Blueprints/Blueprint_Larch_01.PackageMetaData'
+[2021.06.10-09.50.30:855][915]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Blueprint_Larch_010332FDFC40FC20A21B226F9F2E7EF87F.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Blueprints_Prefab/Blueprint_Larch_01.uasset'
+[2021.06.10-09.50.30:857][915]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Blueprint_Larch_019B40D7514C136410EDC9F28F8F968DDE.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Blueprints/Blueprint_Larch_01.uasset'
+[2021.06.10-09.50.30:909][915]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-09.50.30:909][915]LogContentValidation: Display: Validating Blueprint /Game/Graphics/Blueprints_Prefab/Blueprint_Larch_01.Blueprint_Larch_01
+[2021.06.10-09.50.30:909][915]LogContentValidation: Display: Validating ObjectRedirector /Game/Graphics/Blueprints/Blueprint_Larch_01.Blueprint_Larch_01
+[2021.06.10-09.50.30:909][915]LogContentValidation: Display: Validating ObjectRedirector /Game/Graphics/Blueprints/Blueprint_Larch_01.Default__Blueprint_Larch_01_C
+[2021.06.10-09.50.30:909][915]LogContentValidation: Display: Validating ObjectRedirector /Game/Graphics/Blueprints/Blueprint_Larch_01.Blueprint_Larch_01_C
+[2021.06.10-09.50.47:248][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.06.10-09.50.50:291][756]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.10-09.50.57:272][550]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.10-09.50.57:489][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-09.50.57:510][550]PIE: New page: PIE session: ThirdPersonExampleMap (10 juni 2021 13:50:57)
+[2021.06.10-09.50.57:722][550]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.10-09.50.57:763][550]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.10-09.50.57:850][550]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.10-09.50.58:295][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.444241s)
+[2021.06.10-09.50.58:442][550]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.10-09.50.58:509][550]LogPlayLevel: PIE: World Init took: (0.214560s)
+[2021.06.10-09.50.58:509][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.668884s)
+[2021.06.10-09.50.58:576][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.06.10-09.50.58:621][550]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.10-09.50.58:645][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.10-09.50.58:645][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.10-09.50.58:645][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.10-09.50.58:646][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.10-09.50.58:646][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.10-09.50.58:646][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.10-09.50.58:646][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.10-09.50.58:647][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.10-09.50.58:695][550]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.10-09.50.58:695][550]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.10-09.50.58:765][550]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.10-09.50.58:765][550]LogAudioMixer: Display: 1: FrontRight
+[2021.06.10-09.50.58:765][550]LogAudioMixer: Display: 2: BackLeft
+[2021.06.10-09.50.58:765][550]LogAudioMixer: Display: 3: BackRight
+[2021.06.10-09.50.58:781][550]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.06.10-09.50.58:846][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.10-09.50.58:846][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.10-09.50.58:877][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.10-09.50.58:878][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.10-09.50.58:879][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.10-09.50.58:879][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=4, Samples=4096
+[2021.06.10-09.50.58:883][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.10-09.50.58:883][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.10-09.50.58:883][550]LogInit: FAudioDevice initialized.
+[2021.06.10-09.50.58:883][550]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.06.10-09.50.59:109][550]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.10-09.50.59:685][550]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Blueprint_Larch_01.MSH_Larch_01_MSH_Larch_Trunk_7' is not static  (in blueprint "Blueprint_Larch_01"), cannot attach '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.MSH_Larch_01_MSH_Larch_Trunk_7_GEN_VARIABLE_StaticMeshActor_CAT_18.StaticMeshComponent0' which is static to it. Aborting.
+[2021.06.10-09.50.59:694][550]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Blueprint_Larch_01.MSH_Larch_01_MSH_Larch_Pines_9' is not static  (in blueprint "Blueprint_Larch_01"), cannot attach '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.MSH_Larch_01_MSH_Larch_Pines_9_GEN_VARIABLE_StaticMeshActor_CAT_19.StaticMeshComponent0' which is static to it. Aborting.
+[2021.06.10-09.50.59:695][550]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Blueprint_Larch_9.MSH_Larch_01_MSH_Larch_Trunk_7' is not static  (in blueprint "Blueprint_Larch_01"), cannot attach '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.MSH_Larch_01_MSH_Larch_Trunk_7_GEN_VARIABLE_StaticMeshActor_CAT_1132.StaticMeshComponent0' which is static to it. Aborting.
+[2021.06.10-09.50.59:695][550]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Blueprint_Larch_9.MSH_Larch_01_MSH_Larch_Pines_9' is not static  (in blueprint "Blueprint_Larch_01"), cannot attach '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.MSH_Larch_01_MSH_Larch_Pines_9_GEN_VARIABLE_StaticMeshActor_CAT_1133.StaticMeshComponent0' which is static to it. Aborting.
+[2021.06.10-09.50.59:745][550]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.10-11.50.59
+[2021.06.10-09.50.59:817][550]LogWorld: Bringing up level for play took: 0.495736
+[2021.06.10-09.50.59:966][550]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.06.10-09.51.00:465][550]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2021.06.10-09.51.00:595][550]PIE: Server logged in
+[2021.06.10-09.51.00:602][550]PIE: Play in editor total start time 3,261 seconds.
+[2021.06.10-09.51.14:323][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.10-09.51.14:323][ 58]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.10-09.51.14:356][ 58]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-09.51.14:374][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-09.51.14:402][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.10-09.51.14:466][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-09.51.14:522][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.10-09.51.14:554][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.10-09.51.14:556][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.10-09.51.14:720][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.06.10-09.51.14:879][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.06.10-09.51.26:580][755]LogSlate: Window 'Message Log' being destroyed
+[2021.06.10-09.51.26:597][755]LogSlate: Window 'Message Log' being destroyed
+[2021.06.10-09.51.29:034][  2]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Larch_01_C (Blueprint_Larch_01)
+[2021.06.10-09.51.38:844][143]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Larch_01_C (Blueprint_Larch_2)
+[2021.06.10-09.51.56:194][131]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Graphics/Blueprints_Prefab/Blueprint_Larch_01.Blueprint_Larch_01
+[2021.06.10-09.52.10:928][979]LogSlate: Window 'Blueprint_Larch_01' being destroyed
+[2021.06.10-09.52.10:935][979]LogSlate: Window 'Blueprint_Larch_01' being destroyed
+[2021.06.10-09.52.10:938][979]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-09.52.10:938][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-09.52.25:022][319]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Larch_01_C (Blueprint_Larch_2)
+[2021.06.10-09.52.25:766][405]Cmd: DELETE
+[2021.06.10-09.52.25:766][405]Cmd: ACTOR DELETE
+[2021.06.10-09.52.25:794][405]LogEditorActor: Deleted Actor: Blueprint_Larch_01_C
+[2021.06.10-09.52.25:977][405]LogUObjectHash: Compacting FUObjectHashTables data took  10.64ms
+[2021.06.10-09.52.25:987][405]LogEditorActor: Deleted 1 Actors (0.196 secs)
+[2021.06.10-09.52.29:045][754]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Larch_01_C (Blueprint_Larch_01)
+[2021.06.10-09.52.32:265][ 19]LogActorFactory: Actor Factory created MSH_Larch_02_MSH_Larch_Trunk
+[2021.06.10-09.52.32:265][ 19]LogActorFactory: Actor Factory created MSH_Larch_02_MSH_Larch_Pines
+[2021.06.10-09.52.33:088][103]LogActorFactory: Actor Factory created MSH_Larch_02_MSH_Larch_Trunk
+[2021.06.10-09.52.33:107][103]LogActorFactory: Actor Factory created MSH_Larch_02_MSH_Larch_Pines
+[2021.06.10-09.53.07:972][909]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.06.10-09.53.08:705][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Larch_02_MSH_Larch_Trunk)
+[2021.06.10-09.53.13:211][478]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.06.10-09.53.21:421][478]LogSlate: Window 'Select Path' being destroyed
+[2021.06.10-09.54.04:688][478]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.06.10-09.54.04:720][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.06.10-09.54.04:768][478]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Graphics/Blueprints_Prefab/Blueprint_Larch_02.Blueprint_Larch_02
+[2021.06.10-09.54.28:297][350]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Blueprint_Larch_02C97D5FCE4BC42B1C05998987BB7E67F9.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Blueprints_Prefab/Blueprint_Larch_02.uasset'
+[2021.06.10-09.54.28:312][350]AssetCheck: New page: Asset Save: Blueprint_Larch_02
+[2021.06.10-09.54.28:312][350]LogContentValidation: Display: Validating Blueprint /Game/Graphics/Blueprints_Prefab/Blueprint_Larch_02.Blueprint_Larch_02
+[2021.06.10-09.54.29:667][459]LogSlate: Window 'Blueprint_Larch_02' being destroyed
+[2021.06.10-09.54.29:675][459]LogSlate: Window 'Blueprint_Larch_02' being destroyed
+[2021.06.10-09.54.29:719][459]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-09.54.29:719][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-09.54.34:301][930]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.10-09.54.34:307][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-09.54.34:307][930]PIE: New page: PIE session: ThirdPersonExampleMap (10 juni 2021 13:54:34)
+[2021.06.10-09.54.34:329][930]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.10-09.54.34:370][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040487s)
+[2021.06.10-09.54.34:371][930]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.10-09.54.34:372][930]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2021.06.10-09.54.34:372][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.042049s)
+[2021.06.10-09.54.34:398][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.06.10-09.54.34:401][930]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.06.10-09.54.34:401][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.10-09.54.34:401][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.10-09.54.34:401][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.10-09.54.34:401][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.10-09.54.34:401][930]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.10-09.54.34:401][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.10-09.54.34:401][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.10-09.54.34:401][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.10-09.54.34:402][930]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.10-09.54.34:402][930]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.10-09.54.34:411][930]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.10-09.54.34:411][930]LogAudioMixer: Display: 1: FrontRight
+[2021.06.10-09.54.34:411][930]LogAudioMixer: Display: 2: BackLeft
+[2021.06.10-09.54.34:411][930]LogAudioMixer: Display: 3: BackRight
+[2021.06.10-09.54.34:421][930]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.06.10-09.54.34:421][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.10-09.54.34:421][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.10-09.54.34:421][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.10-09.54.34:445][930]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.10-09.54.34:445][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.10-09.54.34:445][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=4, Samples=4096
+[2021.06.10-09.54.34:446][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.10-09.54.34:446][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.10-09.54.34:446][930]LogInit: FAudioDevice initialized.
+[2021.06.10-09.54.34:446][930]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.06.10-09.54.34:452][930]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.10-09.54.34:455][930]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Blueprint_Larch_01.MSH_Larch_01_MSH_Larch_Trunk_7' is not static  (in blueprint "Blueprint_Larch_01"), cannot attach '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.MSH_Larch_01_MSH_Larch_Trunk_7_GEN_VARIABLE_StaticMeshActor_CAT_18.StaticMeshComponent0' which is static to it. Aborting.
+[2021.06.10-09.54.34:455][930]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Blueprint_Larch_01.MSH_Larch_01_MSH_Larch_Pines_9' is not static  (in blueprint "Blueprint_Larch_01"), cannot attach '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.MSH_Larch_01_MSH_Larch_Pines_9_GEN_VARIABLE_StaticMeshActor_CAT_19.StaticMeshComponent0' which is static to it. Aborting.
+[2021.06.10-09.54.34:455][930]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Blueprint_Larch_02.MSH_Larch_02_MSH_Larch_Trunk_1383' is not static  (in blueprint "Blueprint_Larch_02"), cannot attach '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.MSH_Larch_02_MSH_Larch_Trunk_1383_GEN_VARIABLE_StaticMeshActor_CAT_1386.StaticMeshComponent0' which is static to it. Aborting.
+[2021.06.10-09.54.34:455][930]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Blueprint_Larch_02.MSH_Larch_02_MSH_Larch_Pines_1385' is not static  (in blueprint "Blueprint_Larch_02"), cannot attach '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.MSH_Larch_02_MSH_Larch_Pines_1385_GEN_VARIABLE_StaticMeshActor_CAT_1387.StaticMeshComponent0' which is static to it. Aborting.
+[2021.06.10-09.54.34:455][930]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Blueprint_Larch_4.MSH_Larch_02_MSH_Larch_Trunk_1383' is not static  (in blueprint "Blueprint_Larch_02"), cannot attach '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.MSH_Larch_02_MSH_Larch_Trunk_1383_GEN_VARIABLE_StaticMeshActor_CAT_1688.StaticMeshComponent0' which is static to it. Aborting.
+[2021.06.10-09.54.34:455][930]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Blueprint_Larch_4.MSH_Larch_02_MSH_Larch_Pines_1385' is not static  (in blueprint "Blueprint_Larch_02"), cannot attach '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.MSH_Larch_02_MSH_Larch_Pines_1385_GEN_VARIABLE_StaticMeshActor_CAT_1689.StaticMeshComponent0' which is static to it. Aborting.
+[2021.06.10-09.54.34:456][930]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.10-11.54.34
+[2021.06.10-09.54.34:456][930]LogWorld: Bringing up level for play took: 0.002726
+[2021.06.10-09.54.34:456][930]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.06.10-09.54.34:458][930]PIE: Server logged in
+[2021.06.10-09.54.34:459][930]PIE: Play in editor total start time 0,152 seconds.
+[2021.06.10-09.54.37:943][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.10-09.54.37:943][340]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.10-09.54.37:944][340]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-09.54.37:946][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-09.54.37:966][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.10-09.54.37:996][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-09.54.38:022][340]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.10-09.54.38:023][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.10-09.54.38:024][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.10-09.54.38:048][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.10-09.54.38:066][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.06.10-09.54.38:208][341]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.06.10-09.54.44:365][678]LogSlate: Window 'Message Log' being destroyed
+[2021.06.10-09.54.44:382][678]LogSlate: Window 'Message Log' being destroyed
+[2021.06.10-09.54.46:313][901]Cmd: DELETE
+[2021.06.10-09.54.46:313][901]Cmd: ACTOR DELETE
+[2021.06.10-09.54.46:316][901]LogEditorActor: Deleted Actor: Blueprint_Larch_02_C
+[2021.06.10-09.54.46:336][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.06.10-09.54.46:338][901]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.06.10-09.54.50:435][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.06.10-09.54.51:583][310]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.10-09.54.51:650][310]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Graphics/Blueprints_Prefab/Blueprint_Larch_02.Blueprint_Larch_02
+[2021.06.10-09.54.51:923][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.06.10-09.54.51:962][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.06.10-09.54.51:981][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.06.10-09.54.51:999][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.06.10-09.54.57:128][907]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Larch_01_C (Blueprint_Larch_01)
+[2021.06.10-09.55.01:543][414]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.06.10-09.55.03:555][648]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Larch_01_C (Blueprint_Larch_01)
+[2021.06.10-09.55.08:629][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.06.10-09.55.08:693][226]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/ThirdPersonExampleMap88E072DE4A2603DA18D303BFE9873EE3.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.10-09.55.08:787][226]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/ThirdPersonExampleMap_BuiltDataF627596C454F8218173FBB9F226B2B2E.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.06.10-09.55.08:800][226]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-09.55.08:800][226]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.06.10-09.55.08:800][226]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.10-09.55.43:931][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.06.10-09.55.47:396][ 82]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.10-09.55.47:508][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.06.10-09.55.47:535][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.06.10-09.55.47:553][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.10-09.55.55:705][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-10.00.36:266][252]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2021.06.10-10.00.36:396][252]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.06.10-10.00.36:396][252]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.06.10-10.00.36:396][252]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.06.10-10.00.36:446][252]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.06.10-10.00.36:536][252]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.06.10-10.00.36:578][252]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2021.06.10-10.00.36:629][252]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2021.06.10-10.00.36:836][252]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2021.06.10-10.00.37:122][252]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 108
+[2021.06.10-10.00.37:122][252]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.06.10-10.00.37:147][252]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.06.10-10.00.37:174][252]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.06.10-10.00.37:210][252]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.06.10-10.00.37:251][252]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2021.06.10-10.00.37:294][252]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.06.10-10.00.37:342][252]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.06.10-10.00.37:416][252]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.06.10-10.00.37:645][252]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 238
+[2021.06.10-10.00.39:888][420]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 228
+[2021.06.10-10.00.40:284][460]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 218
+[2021.06.10-10.00.43:009][639]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 208
+[2021.06.10-10.00.44:011][695]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 198
+[2021.06.10-10.00.46:747][848]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 188
+[2021.06.10-10.00.47:144][871]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 178
+[2021.06.10-10.00.49:733][ 78]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 168
+[2021.06.10-10.00.50:666][133]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 158
+[2021.06.10-10.00.53:351][280]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 148
+[2021.06.10-10.00.53:980][311]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 138
+[2021.06.10-10.00.56:854][471]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 128
+[2021.06.10-10.00.57:833][517]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 118
+[2021.06.10-10.01.00:443][652]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 108
+[2021.06.10-10.01.01:776][723]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 98
+[2021.06.10-10.01.04:061][833]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2021.06.10-10.01.05:887][931]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2021.06.10-10.01.07:508][ 21]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2021.06.10-10.01.09:646][142]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2021.06.10-10.01.10:585][197]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2021.06.10-10.01.13:381][333]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.06.10-10.01.14:119][373]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.06.10-10.01.17:068][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.06.10-10.01.17:256][551]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.06.10-10.01.18:840][638]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.06.10-10.01.19:258][662]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.06.10-10.03.50:925][204]LogMaterial: Display: Material /Game/Graphics/Materials/Dirt/MAT_Dirt_01.MAT_Dirt_01 needed to have new flag set bUsedWithStaticLighting !
+[2021.06.10-10.03.50:927][204]LogMaterial: Display: Missing cached shader map for material MAT_Dirt_01, compiling. 
+[2021.06.10-10.03.51:365][205]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.06.10-10.03.51:365][205]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.06.10-10.03.56:059][618]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.10-10.04.28:807][627]Cmd: TRANSACTION UNDO
+[2021.06.10-10.04.28:807][627]LogEditorTransaction: Undo Set Scale
+[2021.06.10-10.04.29:343][639]Cmd: TRANSACTION UNDO
+[2021.06.10-10.04.29:343][639]LogEditorTransaction: Undo Set Scale
+[2021.06.10-10.04.31:068][825]Cmd: TRANSACTION UNDO
+[2021.06.10-10.04.31:068][825]LogEditorTransaction: Undo Set Scale
+[2021.06.10-10.04.32:305][959]Cmd: TRANSACTION UNDO
+[2021.06.10-10.04.32:305][959]LogEditorTransaction: Undo Replace component used material
+[2021.06.10-10.04.36:236][412]Cmd: TRANSACTION UNDO
+[2021.06.10-10.04.36:236][412]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-10.05.41:357][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.06.10-10.05.41:367][778]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.110
+[2021.06.10-10.12.33:856][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.06.10-10.12.33:925][295]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/ThirdPersonExampleMap276D3E6F45D8381C2BA9BB89AD6FD99F.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.10-10.12.34:035][295]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/ThirdPersonExampleMap_BuiltData5FD866474201825FE193B7B3ADE3F7B4.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.06.10-10.12.34:047][295]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-10.12.34:047][295]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.06.10-10.12.34:047][295]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
