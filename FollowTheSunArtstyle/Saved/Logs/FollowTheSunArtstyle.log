@@ -1495,3 +1495,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.10-07.34.37:992][979]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.10-07.34.37:992][979]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.06.10-07.34.37:992][979]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.10-07.44.38:133][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.06.10-07.44.38:135][928]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.009
+[2021.06.10-07.44.38:161][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphics/Alpha_Brushes/TEX_Dirt_Alpha_01] ([1] browsable assets)...
+[2021.06.10-07.44.38:168][928]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Graphics/Alpha_Brushes/TEX_Dirt_Alpha_01.TEX_Dirt_Alpha_01]
+[2021.06.10-07.44.38:168][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Alpha_Brushes/TEX_Dirt_Alpha_01]
+[2021.06.10-07.44.38:176][928]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Dirt_Alpha_01_Auto301AC98ED45568DEB41E6CA8254874CCC.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Graphics/Alpha_Brushes/TEX_Dirt_Alpha_01_Auto3.uasset'
+[2021.06.10-07.44.38:195][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphics/Alpha_Brushes/TEX_Dirt_Alpha_02] ([1] browsable assets)...
+[2021.06.10-07.44.38:200][928]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Graphics/Alpha_Brushes/TEX_Dirt_Alpha_02.TEX_Dirt_Alpha_02]
+[2021.06.10-07.44.38:200][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Alpha_Brushes/TEX_Dirt_Alpha_02]
+[2021.06.10-07.44.38:246][928]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Dirt_Alpha_02_Auto3CAAC88E84E27461BF92FAEB002831D2F.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Graphics/Alpha_Brushes/TEX_Dirt_Alpha_02_Auto3.uasset'
+[2021.06.10-07.44.38:281][928]LogFileHelpers: Auto-saving content packages took 0.104
