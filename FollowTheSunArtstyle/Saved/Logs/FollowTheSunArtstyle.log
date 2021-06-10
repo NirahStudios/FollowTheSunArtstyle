@@ -1403,3 +1403,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.09-14.10.46:253][655]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.09-14.10.46:253][655]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.06.09-14.10.46:253][655]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.09-15.41.24:689][731]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{e256fe13-ecb9-4feb-9bc9-4d3b7273b35b}.
+[2021.06.09-15.41.24:690][731]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.09-15.41.24:909][731]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.09-15.41.24:909][731]LogAudioMixer: Display: 1: FrontRight
+[2021.06.09-15.41.24:909][731]LogAudioMixer: Display: 2: BackLeft
+[2021.06.09-15.41.24:909][731]LogAudioMixer: Display: 3: BackRight
+[2021.06.09-15.41.25:215][732]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.09-15.41.25:245][732]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.09-15.41.25:245][732]LogAudioMixer: Display: 1: FrontRight
+[2021.06.09-15.41.25:245][732]LogAudioMixer: Display: 2: BackLeft
+[2021.06.09-15.41.25:245][732]LogAudioMixer: Display: 3: BackRight
+[2021.06.10-07.21.27:937][754]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.10-07.21.27:997][754]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.10-07.21.27:997][754]LogAudioMixer: Display: 1: FrontRight
+[2021.06.10-07.21.27:997][754]LogAudioMixer: Display: 2: BackLeft
+[2021.06.10-07.21.27:997][754]LogAudioMixer: Display: 3: BackRight
+[2021.06.10-07.21.28:570][756]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{20d00492-d0e2-4d9c-82cf-8c2e75642502}.
+[2021.06.10-07.21.28:570][756]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.10-07.21.28:598][756]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.10-07.21.28:598][756]LogAudioMixer: Display: 1: FrontRight
+[2021.06.10-07.21.28:598][756]LogAudioMixer: Display: 2: BackLeft
+[2021.06.10-07.21.28:598][756]LogAudioMixer: Display: 3: BackRight
+[2021.06.10-07.21.33:954][771]LogHttp: Warning: 000001A52BDDF200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7E675BA9-40FE-D61F-CF5A-BE87FFCE4D62%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=5024332949af6536a0f50999166b4a77%7C1cb5dbb9c1374b7bbe451561ee4a1b35%7C467c8d04-ddaf-4a56-9993-d1b20e4d4b6d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.06.10-07.21.33:954][771]LogHttp: Warning: 000001A52BDDF200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.06.10-07.21.33:954][771]LogHttp: Warning: 000001A52BDDF200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a538ee7eb0 [can pipeline])
+[2021.06.10-07.21.33:954][771]LogHttp: Warning: 000001A52BDDF200: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.06.10-07.21.33:954][771]LogHttp: Warning: 000001A52BDDF200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.205.2.16) port 443 (#0))
+[2021.06.10-07.21.33:954][771]LogHttp: Warning: 000001A52BDDF200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.06.10-07.21.33:954][771]LogHttp: Warning: 000001A52BDDF200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.06.10-07.21.33:954][771]LogHttp: Warning: 000001A52BDDF200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.06.10-07.21.33:954][771]LogHttp: Warning: 000001A52BDDF200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.06.10-07.21.33:954][771]LogHttp: Warning: 000001A52BDDF200: libcurl info message cache 7 (Closing connection 0)
+[2021.06.10-07.21.35:127][772]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7E675BA9-40FE-D61F-CF5A-BE87FFCE4D62%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=5024332949af6536a0f50999166b4a77%7C1cb5dbb9c1374b7bbe451561ee4a1b35%7C467c8d04-ddaf-4a56-9993-d1b20e4d4b6d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.06.10-07.21.37:157][777]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{e256fe13-ecb9-4feb-9bc9-4d3b7273b35b}.
+[2021.06.10-07.21.38:156][777]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.10-07.21.38:200][777]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.10-07.21.38:200][777]LogAudioMixer: Display: 1: FrontRight
+[2021.06.10-07.21.38:200][777]LogAudioMixer: Display: 2: BackLeft
+[2021.06.10-07.21.38:200][777]LogAudioMixer: Display: 3: BackRight
