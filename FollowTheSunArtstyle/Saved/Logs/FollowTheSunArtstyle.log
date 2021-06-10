@@ -1442,3 +1442,36 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.10-07.21.38:200][777]LogAudioMixer: Display: 1: FrontRight
 [2021.06.10-07.21.38:200][777]LogAudioMixer: Display: 2: BackLeft
 [2021.06.10-07.21.38:200][777]LogAudioMixer: Display: 3: BackRight
+[2021.06.10-07.29.26:743][615]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Dirt_Alpha_0134E7AC78480024AE54D13DA73714AA46.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Materials/Alpha_Brushes/TEX_Dirt_Alpha_01.uasset'
+[2021.06.10-07.29.26:829][615]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Dirt_Alpha_024F3787DA416ABAF695DA4FB9339F9BD4.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Materials/Alpha_Brushes/TEX_Dirt_Alpha_02.uasset'
+[2021.06.10-07.29.27:256][615]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.06.10-07.29.27:426][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.06.10-07.29.27:652][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.06.10-07.29.27:668][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.06.10-07.29.27:975][615]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-07.29.27:975][615]LogContentValidation: Display: Validating Texture2D /Game/Graphics/Materials/Alpha_Brushes/TEX_Dirt_Alpha_01.TEX_Dirt_Alpha_01
+[2021.06.10-07.29.27:975][615]LogContentValidation: Display: Validating Texture2D /Game/Graphics/Materials/Alpha_Brushes/TEX_Dirt_Alpha_02.TEX_Dirt_Alpha_02
+[2021.06.10-07.29.36:055][267]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Dirt_Alpha_012231A828420DAD0DBEFA438FFD6AA232.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/3D-models/Alpha_Brushes/TEX_Dirt_Alpha_01.uasset'
+[2021.06.10-07.29.36:071][267]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Dirt_Alpha_027B77B57C4E82C98E6EA54EB4E7D6ABC0.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/3D-models/Alpha_Brushes/TEX_Dirt_Alpha_02.uasset'
+[2021.06.10-07.29.36:177][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.06.10-07.29.36:190][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.06.10-07.29.36:203][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.10-07.29.36:209][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.10-07.29.36:248][267]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-07.29.36:248][267]LogContentValidation: Display: Validating Texture2D /Game/Graphics/3D-models/Alpha_Brushes/TEX_Dirt_Alpha_01.TEX_Dirt_Alpha_01
+[2021.06.10-07.29.36:248][267]LogContentValidation: Display: Validating Texture2D /Game/Graphics/3D-models/Alpha_Brushes/TEX_Dirt_Alpha_02.TEX_Dirt_Alpha_02
+[2021.06.10-07.29.46:581][387]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Dirt_Alpha_01C8EE41934C1DC5C5996CB4A045D0ED9C.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Alpha_Brushes/TEX_Dirt_Alpha_01.uasset'
+[2021.06.10-07.29.46:597][387]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/TEX_Dirt_Alpha_02B2E426934F30F6D73E2969AE91F9F799.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Graphics/Alpha_Brushes/TEX_Dirt_Alpha_02.uasset'
+[2021.06.10-07.29.46:656][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.10-07.29.46:664][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.06.10-07.29.46:676][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.06.10-07.29.46:682][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.10-07.29.46:729][387]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-07.29.46:729][387]LogContentValidation: Display: Validating Texture2D /Game/Graphics/Alpha_Brushes/TEX_Dirt_Alpha_01.TEX_Dirt_Alpha_01
+[2021.06.10-07.29.46:729][387]LogContentValidation: Display: Validating Texture2D /Game/Graphics/Alpha_Brushes/TEX_Dirt_Alpha_02.TEX_Dirt_Alpha_02
+[2021.06.10-07.30.09:034][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.06.10-07.30.09:145][947]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/ThirdPersonExampleMap2FEAA4104BAFD303B95E3CA82D0CF89A.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.10-07.30.12:235][947]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/ThirdPersonExampleMap_BuiltDataAF61A127418FD58F1044D295ABB3DBD4.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.06.10-07.30.12:288][947]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-07.30.12:288][947]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.06.10-07.30.12:288][947]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
