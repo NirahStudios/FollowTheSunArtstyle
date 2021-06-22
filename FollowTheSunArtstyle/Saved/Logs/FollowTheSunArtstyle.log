@@ -1391,3 +1391,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.22-13.14.58:557][ 19]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.22-13.14.58:557][ 19]LogContentValidation: Display: Validating World /Game/Maps/EmelieTestMap.EmelieTestMap
 [2021.06.22-13.14.58:557][ 19]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/EmelieTestMap_BuiltData.EmelieTestMap_BuiltData
+[2021.06.22-13.16.37:747][639]Cmd: TRANSACTION UNDO
+[2021.06.22-13.16.37:747][639]LogEditorTransaction: Undo Foliage Editing
+[2021.06.22-13.16.49:128][328]Cmd: TRANSACTION UNDO
+[2021.06.22-13.16.49:128][328]LogEditorTransaction: Undo Foliage Editing
+[2021.06.22-13.17.17:348][793]LogContentBrowser: Attempting asset rename: MM_Larch_Trunk_2 -> MI_Larch_Trunk_2
+[2021.06.22-13.17.17:419][793]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_Larch_Trunk_2E8B39008462616B8185BCEB8839FC4AF.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Material_Instances/MI_Larch_Trunk_2.uasset'
+[2021.06.22-13.17.17:470][793]LogLinker: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Props\Trees\Master_Materials\MM_Larch_Trunk_3.uasset: Failed to load '/Game/Assets/Props/Trees/Textures/T_Trunk_A_02': Can't find file.
+[2021.06.22-13.17.17:471][793]LogLinker: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Props\Trees\Master_Materials\MM_Larch_Trunk_3.uasset: Failed to load '/Game/Assets/Props/Trees/Textures/T_Trunk_AORM_02': Can't find file.
+[2021.06.22-13.17.17:471][793]LogLinker: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Props\Trees\Master_Materials\MM_Larch_Trunk_3.uasset: Failed to load '/Game/Assets/Props/Trees/Textures/T_Trunk_N_02': Can't find file.
+[2021.06.22-13.17.17:471][793]LogLinker: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Props\Trees\Master_Materials\MM_Larch_Trunk_3.uasset: Failed to load '/Game/Assets/Props/Trees/Textures/T_Trunk_A_02': Can't find file.
+[2021.06.22-13.17.17:471][793]LogLinker: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Props\Trees\Master_Materials\MM_Larch_Trunk_3.uasset: Failed to load '/Game/Assets/Props/Trees/Textures/T_Trunk_AORM_02': Can't find file.
+[2021.06.22-13.17.17:472][793]LogLinker: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Props\Trees\Master_Materials\MM_Larch_Trunk_3.uasset: Failed to load '/Game/Assets/Props/Trees/Textures/T_Trunk_N_02': Can't find file.
+[2021.06.22-13.17.17:472][793]LogLinker: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Props\Trees\Material_Instances\MM_Larch_Trunk_2.uasset: Failed to load '/Game/Assets/Props/Trees/Textures/T_Trunk_A_02': Can't find file.
+[2021.06.22-13.17.17:472][793]LogLinker: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Props\Trees\Material_Instances\MM_Larch_Trunk_2.uasset: Failed to load '/Game/Assets/Props/Trees/Textures/T_Trunk_AORM_02': Can't find file.
+[2021.06.22-13.17.17:472][793]LogLinker: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Props\Trees\Material_Instances\MM_Larch_Trunk_2.uasset: Failed to load '/Game/Assets/Props/Trees/Textures/T_Trunk_N_02': Can't find file.
+[2021.06.22-13.17.17:473][793]LogLinker: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Props\Trees\Material_Instances\MM_Larch_Trunk_2.uasset: Failed to load '/Game/Assets/Props/Trees/Textures/T_Trunk_A_02': Can't find file.
+[2021.06.22-13.17.17:473][793]LogLinker: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Props\Trees\Material_Instances\MM_Larch_Trunk_2.uasset: Failed to load '/Game/Assets/Props/Trees/Textures/T_Trunk_AORM_02': Can't find file.
+[2021.06.22-13.17.17:473][793]LogLinker: Warning: [AssetLog] C:\Users\Emelie\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Props\Trees\Material_Instances\MM_Larch_Trunk_2.uasset: Failed to load '/Game/Assets/Props/Trees/Textures/T_Trunk_N_02': Can't find file.
+[2021.06.22-13.17.17:473][793]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Assets/Props/Trees/Material_Instances/MM_Larch_Trunk_2.MM_Larch_Trunk_2'
+[2021.06.22-13.17.17:500][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.22-13.17.17:527][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.06.22-13.17.17:543][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.06.22-13.17.17:579][793]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MSH_Larch_02952F75F24F1EAE806B4A049EB000B73F.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/MSH_Larch_02.uasset'
+[2021.06.22-13.17.17:624][793]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.22-13.17.17:624][793]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_Larch_Trunk_2.MI_Larch_Trunk_2
+[2021.06.22-13.17.17:624][793]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Trees/MSH_Larch_02.MSH_Larch_02
+[2021.06.22-13.17.19:955][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.06.22-13.17.20:098][928]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/EmelieTestMap45324297402A4801866C39A95AE46EB9.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/EmelieTestMap.umap'
+[2021.06.22-13.17.20:180][928]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/EmelieTestMap_BuiltDataF19211264B98DC6C7D6947A851351962.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/EmelieTestMap_BuiltData.uasset'
+[2021.06.22-13.17.20:194][928]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.22-13.17.20:194][928]LogContentValidation: Display: Validating World /Game/Maps/EmelieTestMap.EmelieTestMap
+[2021.06.22-13.17.20:194][928]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/EmelieTestMap_BuiltData.EmelieTestMap_BuiltData
