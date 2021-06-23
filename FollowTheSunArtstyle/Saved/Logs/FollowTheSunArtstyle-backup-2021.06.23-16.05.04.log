@@ -1,0 +1,1623 @@
+﻿Log file open, 06/23/21 17:06:55
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FollowTheSunArtstyle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.864176
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/anicl/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 1700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[r.SSGI.Enable:1]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.06.23-15.06.59:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.23-15.06.59:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.23-15.06.59:581][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.06.23-15.06.59:581][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.06.23-15.06.59:593][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.23-15.06.59:593][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.23-15.06.59:594][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.23-15.06.59:594][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.23-15.06.59:594][  0]LogHAL: Display: Platform has ~ 16 GB [17110548480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.23-15.06.59:594][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.23-15.06.59:594][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.23-15.06.59:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.23-15.06.59:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.23-15.06.59:596][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.23-15.06.59:596][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:596][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.23-15.06.59:596][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.23-15.06.59:596][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.06.23-15.06.59:596][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.23-15.06.59:596][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.23-15.06.59:596][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.23-15.06.59:596][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.23-15.06.59:608][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.23-15.06.59:609][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.23-15.06.59:609][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.23-15.06.59:609][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.06.23-15.06.59:609][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Editor.ini]
+[2021.06.23-15.06.59:609][  0]LogInit: Computer: DESKTOP-Q73MJ4L
+[2021.06.23-15.06.59:609][  0]LogInit: User: anicl
+[2021.06.23-15.06.59:609][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.06.23-15.06.59:609][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.23-15.06.59:609][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.06.23-15.06.59:615][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.23-15.06.59:615][  0]LogMemory: Process Physical Memory: 142.34 MB used, 142.34 MB peak
+[2021.06.23-15.06.59:615][  0]LogMemory: Process Virtual Memory: 121.55 MB used, 121.55 MB peak
+[2021.06.23-15.06.59:615][  0]LogMemory: Physical Memory: 8188.92 MB used,  8128.97 MB free, 16317.89 MB total
+[2021.06.23-15.06.59:615][  0]LogMemory: Virtual Memory: 134207720.00 MB used,  10010.77 MB free, 134217728.00 MB total
+[2021.06.23-15.06.59:667][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.23-15.07.00:062][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.23-15.07.00:078][  0]LogInit: Using OS detected language (sv-SE).
+[2021.06.23-15.07.00:078][  0]LogInit: Using OS detected locale (sv-SE).
+[2021.06.23-15.07.00:195][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2021.06.23-15.07.00:716][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.23-15.07.00:799][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.23-15.07.00:957][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.23-15.07.00:957][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.23-15.07.01:565][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.23-15.07.01:565][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.23-15.07.01:565][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.23-15.07.01:565][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.23-15.07.01:710][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2021.06.23-15.07.01:711][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.06.23-15.07.01:713][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.23-15.07.01:713][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.23-15.07.01:713][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.23-15.07.01:722][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.23-15.07.01:722][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.23-15.07.01:722][  0]LogWindows: EnumDisplayDevices:
+[2021.06.23-15.07.01:722][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2021.06.23-15.07.01:723][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2021.06.23-15.07.01:723][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2021.06.23-15.07.01:723][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2021.06.23-15.07.01:723][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.23-15.07.01:723][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2021.06.23-15.07.01:723][  0]LogD3D11RHI:   Driver Version: 466.63 (internal:27.21.14.6663, unified:466.63)
+[2021.06.23-15.07.01:723][  0]LogD3D11RHI:      Driver Date: 5-27-2021
+[2021.06.23-15.07.01:723][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.06.23-15.07.01:825][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.23-15.07.01:825][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.23-15.07.01:825][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.23-15.07.01:863][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.23-15.07.01:865][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.23-15.07.03:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.23-15.07.03:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.23-15.07.03:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.23-15.07.03:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.23-15.07.03:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.23-15.07.03:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.23-15.07.03:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.23-15.07.03:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.23-15.07.03:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.23-15.07.03:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.23-15.07.03:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.23-15.07.03:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.23-15.07.03:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.23-15.07.03:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.23-15.07.03:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.23-15.07.03:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.23-15.07.03:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.23-15.07.03:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.23-15.07.03:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.23-15.07.03:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.23-15.07.03:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.23-15.07.03:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.23-15.07.03:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.23-15.07.03:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.23-15.07.04:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.23-15.07.04:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.23-15.07.04:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.23-15.07.04:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.23-15.07.04:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.23-15.07.04:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.23-15.07.04:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.23-15.07.04:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.23-15.07.04:429][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.23-15.07.04:725][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.23-15.07.06:086][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.23-15.07.06:086][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Intermediate/Shaders/WorkingDirectory/21180/).
+[2021.06.23-15.07.06:087][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/anicl/AppData/Local/Temp/UnrealShaderWorkingDir/1E4F29644D0BD5ABFF475193C3830CC3/'.
+[2021.06.23-15.07.06:087][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.23-15.07.06:087][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.23-15.07.10:437][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.23-15.07.10:643][  0]LogDerivedDataCache: Loaded boot cache 0.21s 77MB C:/Users/anicl/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.23-15.07.10:643][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/anicl/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.23-15.07.10:643][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.23-15.07.10:643][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.23-15.07.10:643][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.23-15.07.10:643][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.23-15.07.10:681][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.23-15.07.10:681][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.23-15.07.10:681][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.23-15.07.10:700][  0]LogDerivedDataCache: Speed tests for C:/Users/anicl/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.06.23-15.07.10:700][  0]LogDerivedDataCache: Display: Performance to C:/Users/anicl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.29ms. RandomReadSpeed=149.34MBs, RandomWriteSpeed=106.20MBs. Assigned SpeedClass 'Local'
+[2021.06.23-15.07.10:701][  0]LogDerivedDataCache: Using Local data cache path C:/Users/anicl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.23-15.07.10:701][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.23-15.07.10:701][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.23-15.07.10:777][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.23-15.07.10:813][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.23-15.07.11:236][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2021.06.23-15.07.11:914][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.23-15.07.11:914][  0]LogInit: Active device profile: [000002F9E8353200][000002F9E761F580 49] Windows
+[2021.06.23-15.07.11:914][  0]LogInit: Profiles: [000002F9E8353200][000002F9E761F580 49] Windows, [000002F9E8319100][000002F9E761B6C0 49] WindowsNoEditor, [000002F9E8351200][000002F9E7623800 49] WindowsServer, [000002F9E831AB00][000002F9E7627940 49] WindowsClient, [000002F9E8352C00][000002F9E762FAC0 49] IOS, [000002F9E8319600][000002F9E7633C40 49] iPadAir, [000002F9E8351700][000002F9E7636100 49] iPadAir2, [000002F9E82CC800][000002F9E763E3C0 49] IPadPro, [000002F9E82CC900][000002F9E763A400 49] iPadAir3, [000002F9E8352700][000002F9E7642580 49] iPadAir4, [000002F9E82CF100][000002F9E7646700 49] iPadMini2, [000002F9E8351A00][000002F9E764A880 49] iPadMini3, [000002F9E82CE000][000002F9E8660A00 49] iPadMini4, [000002F9E8352D00][000002F9E8664B80 49] iPadMini5, [000002F9E8319900][000002F9E866CE40 49] iPhone6, [000002F9E82C3F00][000002F9E8668E80 49] iPodTouch6, [000002F9E831B300][000002F9E8675140 49] iPhone7, [000002F9E82CF200][000002F9E8671180 49] iPodTouch7, [000002F9E82C1300][000002F9E8679300 49] iPhone5S, [000002F9E82CCB00][000002F9E867D480 49] iPhone6Plus, [000002F9E82C2800][000002F9E8681600 49] iPhone6S, [000002F9E82CEC00][000002F9E762B740 49] iPhone6SPlus, [000002F9E82C1800][000002F9E8685880 49] iPhone7Plus, [000002F9E82CF300][000002F9E86899C0 49] iPhoneSE, [000002F9E82C2900][000002F9E8691B40 49] iPhone8, [000002F9E82CEE00][000002F9E8695CC0 49] iPhone8Plus, [000002F9E82C1600][000002F9E8698180 49] iPhoneX, [000002F9E82CFF00][000002F9E869C300 49] iPhoneXS, [000002F9E82C0900][000002F9E86A0480 49] iPhoneXSMax, [000002F9E82CFA00][000002F9E86A4600 49] iPhoneXR, [000002F9E82C1200][000002F9E86A8780 49] iPhone11, [000002F9E82CDF00][000002F9E86AC900 49] iPhone11Pro, [000002F9E82C2C00][000002F9E86B0A80 49] iPhone11ProMax, [000002F9E82CF700][000002F9E86B4C00 49] iPhoneSE2, [000002F9E82C1E00][000002F9E86B8D80 49] iPhone12Mini, [000002F9E82CE300][000002F9E86BCF00 49] iPhone12, [000002F9E82C1F00][000002F9E86C1080 49] iPhone12Pro, [000002F9E82CF400][000002F9E86C5200 49] iPhone12ProMax, [000002F9E82C0200][000002F9E86C9380 49] iPadPro105, [000002F9E82CF000][000002F9E86CD500 49] iPadPro129, [000002F9E82C0E00][000002F9E86D1680 49] iPadPro97, [000002F9E82CE700][000002F9E868D7C0 49] iPadPro2_129, [000002F9E82C2500][000002F9E86D5900 49] iPad5, [000002F9E82CCC00][000002F9E86D9A40 49] iPad6, [000002F9E82C0300][000002F9E86DDB80 49] iPad7, [000002F9E82CCE00][000002F9E86E5D00 49] iPad8, [000002F9E82C3400][000002F9E86E81C0 49] iPadPro11, [000002F9E82CC400][000002F9E86EC340 49] iPadPro2_11, [000002F9E82C0600][000002F9E86F04C0 49] iPadPro3_129, [000002F9E82CE800][000002F9E86F4640 49] iPadPro4_129, [000002F9E82C3D00][000002F9E86F87C0 49] AppleTV, [000002F9E82CEB00][000002F9E86FC940 49] AppleTV4K, [000002F9E82C2D00][000002F9E8700AC0 49] TVOS, [000002F9E82CD800][000002F9E8704C40 49] Mac, [000002F9E82C1100][000002F9E8708DC0 49] MacClient, [000002F9E82CCA00][000002F9E870CF40 49] MacNoEditor, [000002F9E82C3600][000002F9E87110C0 49] MacServer, [000002F9E82CDA00][000002F9E8715240 49] Linux, [000002F9E82C3000][000002F9E87193C0 49] LinuxAArch64, [000002F9E82C2400][000002F9E871D540 49] LinuxNoEditor, [000002F9E8318400][000002F9E87216C0 49] LinuxAArch64NoEditor, [000002F9E8394700][000002F9E86E1800 49] LinuxClient, [000002F9E8318F00][000002F9E8725940 49] LinuxAArch64Client, [000002F9E8394500][000002F9E8729A80 49] LinuxServer, [000002F9E831AF00][000002F9E872DBC0 49] LinuxAArch64Server, [000002F9E8394A00][000002F9E8735D40 49] Android, [000002F9E831A400][000002F9E8738200 49] Android_Low, [000002F9E8394300][000002F9E873C380 49] Android_Mid, [000002F9E8319800][000002F9E8740500 49] Android_High, [000002F9E8395000][000002F9E8744680 49] Android_Default, [000002F9E831BF00][000002F9E8748800 49] Android_Adreno4xx, [000002F9E8394800][000002F9E874C980 49] Android_Adreno5xx_Low, [000002F9E831A300][000002F9E8750B00 49] Android_Adreno5xx, [000002F9E82CD400][000002F9E8754C80 49] Android_Adreno6xx, [000002F9E8318900][000002F9E8758E00 49] Android_Adreno6xx_Vulkan, [000002F9E82CE600][000002F9E875CF80 49] Android_Mali_T6xx, [000002F9E8318C00][000002F9E8761100 49] Android_Mali_T7xx, [000002F9E82CCD00][000002F9E8765280 49] Android_Mali_T8xx, [000002F9E8318B00][000002F9E8769400 49] Android_Mali_G71, [000002F9E82CF800][000002F9E876D580 49] Android_Mali_G72, [000002F9E831A800][000002F9E8771700 49] Android_Mali_G72_Vulkan, [000002F9E82CD000][000002F9E8775880 49] Android_Mali_G76, [000002F9E8319500][000002F9E87319C0 49] Android_Mali_G76_Vulkan, [000002F9E82CE200][000002F9E8779B00 49] Android_Mali_G77, [000002F9E8319300][000002F9E877DC40 49] Android_Mali_G77_Vulkan, [000002F9E82CFC00][000002F9E8784100 49] Android_Vulkan_SM5, [000002F9E8319C00][000002F9E8788280 49] Android_PowerVR_G6xxx, [000002F9E82CE100][000002F9E878C400 49] Android_PowerVR_GT7xxx, [000002F9E8319B00][000002F9E8790580 49] Android_PowerVR_GE8xxx, [000002F9E82CF600][000002F9E8794700 49] Android_PowerVR_GM9xxx, [000002F9E8318600][000002F9E8798880 49] Android_PowerVR_GM9xxx_Vulkan, [000002F9E82CD200][000002F9E879CA00 49] Android_TegraK1, [000002F9E8319F00][000002F9E87A0B80 49] Android_Unknown_Vulkan, [000002F9E82CF500][000002F9E87A4D00 49] Lumin, [000002F9E8318300][000002F9E87A8E80 49] Lumin_Desktop, [000002F9E82CD600][000002F9E87AD000 49] HoloLens, 
+[2021.06.23-15.07.13:269][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.23-15.07.13:269][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.23-15.07.13:269][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.23-15.07.13:269][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.23-15.07.13:269][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.23-15.07.13:485][  0]LogNetVersion: FollowTheSunArtstyle 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 501863915)
+[2021.06.23-15.07.22:592][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.23-15.07.22:625][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.032544 seconds
+[2021.06.23-15.07.22:632][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.06.23-15.07.22:632][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.06.23-15.07.22:632][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.23-15.07.33:843][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.23-15.07.33:865][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.23-15.07.37:313][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.23-15.07.37:701][  0]SourceControl: Source control is disabled
+[2021.06.23-15.07.37:701][  0]SourceControl: Source control is disabled
+[2021.06.23-15.07.37:717][  0]SourceControl: Source control is disabled
+[2021.06.23-15.07.37:875][  0]SourceControl: Source control is disabled
+[2021.06.23-15.07.37:927][  0]SourceControl: Source control is disabled
+[2021.06.23-15.07.37:966][  0]LogUProjectInfo: Found projects:
+[2021.06.23-15.07.37:970][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.23-15.07.37:970][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.23-15.07.38:021][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.23-15.07.38:021][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.23-15.07.38:260][  0]LogCollectionManager: Loaded 0 collections in 0.000842 seconds
+[2021.06.23-15.07.38:319][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Collections/' took 0.00s
+[2021.06.23-15.07.38:319][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Developers/anicl/Collections/' took 0.00s
+[2021.06.23-15.07.38:319][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Collections/' took 0.00s
+[2021.06.23-15.07.38:319][  0]LogOcInput: OculusInput pre-init called
+[2021.06.23-15.07.38:359][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.23-15.07.38:359][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.23-15.07.38:590][  0]LogEngine: Initializing Engine...
+[2021.06.23-15.07.38:591][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.23-15.07.38:592][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.23-15.07.38:592][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.23-15.07.38:704][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.23-15.07.38:740][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.23-15.07.38:741][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.23-15.07.38:747][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.23-15.07.38:747][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.23-15.07.38:747][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-15.07.38:747][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-15.07.38:747][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-15.07.38:748][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-15.07.38:748][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-15.07.38:748][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-15.07.38:748][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-15.07.38:748][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-15.07.38:748][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-15.07.38:748][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-15.07.38:776][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-15.07.38:776][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-15.07.38:887][  0]LogAudioMixer: Display: Using Audio Device Hörlurar (2- Arctis 7 Game)
+[2021.06.23-15.07.38:896][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-15.07.38:898][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-15.07.38:898][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-15.07.38:899][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-15.07.38:899][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-15.07.38:899][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-15.07.38:900][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-15.07.38:900][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-15.07.38:900][  0]LogInit: FAudioDevice initialized.
+[2021.06.23-15.07.38:901][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.23-15.07.38:901][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.23-15.07.38:995][  0]LogDerivedDataCache: Saved boot cache 0.09s 77MB C:/Users/anicl/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.23-15.07.38:997][  0]LogInit: Texture streaming: Enabled
+[2021.06.23-15.07.39:060][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.23-15.07.39:079][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.23-15.07.39:079][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.23-15.07.39:081][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.23-15.07.39:219][  0]LogInit: Transaction tracking system initialized
+[2021.06.23-15.07.39:582][  0]BlueprintLog: New page: Editor Load
+[2021.06.23-15.07.40:088][  0]LocalizationService: Localization service is disabled
+[2021.06.23-15.07.40:291][  0]TimingProfiler: Initialize
+[2021.06.23-15.07.40:291][  0]TimingProfiler: OnSessionChanged
+[2021.06.23-15.07.40:291][  0]LoadingProfiler: Initialize
+[2021.06.23-15.07.40:291][  0]LoadingProfiler: OnSessionChanged
+[2021.06.23-15.07.40:291][  0]NetworkingProfiler: Initialize
+[2021.06.23-15.07.40:291][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.23-15.07.40:291][  0]MemoryProfiler: Initialize
+[2021.06.23-15.07.40:291][  0]MemoryProfiler: OnSessionChanged
+[2021.06.23-15.07.40:627][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.23-15.07.40:628][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.23-15.07.41:149][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.23-15.07.41:149][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.23-15.07.41:601][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/' took 0.02s
+[2021.06.23-15.07.42:904][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.23-15.07.42:921][  0]SourceControl: Source control is disabled
+[2021.06.23-15.07.42:921][  0]LogUnrealEdMisc: Loading editor; pre map load, took 58.083
+[2021.06.23-15.07.42:921][  0]Cmd: MAP LOAD FILE="../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.23-15.07.42:921][  0]LightingResults: New page: Lighting Build
+[2021.06.23-15.07.42:939][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-15.07.42:939][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-15.07.42:939][  0]MapCheck: New page: Map Check
+[2021.06.23-15.07.42:939][  0]LightingResults: New page: Lighting Build
+[2021.06.23-15.07.42:955][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.06.23-15.07.43:838][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.06.23-15.07.43:840][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.23-15.07.44:788][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.23-15.07.44:816][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.06.23-15.07.44:816][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.23-15.07.44:816][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,129ms to complete.
+[2021.06.23-15.07.44:816][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.895
+[2021.06.23-15.07.44:818][  0]LogUnrealEdMisc: Total Editor Startup Time, took 59.980
+[2021.06.23-15.07.45:094][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-15.07.45:101][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-15.07.45:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-15.07.45:116][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-15.07.45:169][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0124 seconds. Added 3601 classes and 859 folders.
+[2021.06.23-15.07.45:287][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.06.23-15.07.45:341][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.23-15.07.45:341][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:341][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.23-15.07.45:341][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.06.23-15.07.45:352][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.23-15.07.45:352][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:352][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.23-15.07.45:352][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.06.23-15.07.45:362][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.23-15.07.45:362][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.23-15.07.45:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.06.23-15.07.45:364][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.23-15.07.45:364][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:364][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.23-15.07.45:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.06.23-15.07.45:366][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.23-15.07.45:366][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:366][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.23-15.07.45:366][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.06.23-15.07.45:367][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.23-15.07.45:367][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:367][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.23-15.07.45:367][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.06.23-15.07.45:374][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.23-15.07.45:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.23-15.07.45:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.06.23-15.07.45:375][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.23-15.07.45:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.23-15.07.45:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.06.23-15.07.45:377][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.23-15.07.45:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.23-15.07.45:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.06.23-15.07.45:379][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.23-15.07.45:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.23-15.07.45:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.06.23-15.07.45:380][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.23-15.07.45:380][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:380][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.23-15.07.45:380][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.06.23-15.07.45:381][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.23-15.07.45:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.23-15.07.45:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.06.23-15.07.45:383][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.23-15.07.45:383][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:383][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.23-15.07.45:383][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.06.23-15.07.45:388][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.23-15.07.45:388][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:388][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.23-15.07.45:388][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.06.23-15.07.45:389][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.23-15.07.45:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.23-15.07.45:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.06.23-15.07.45:390][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.23-15.07.45:390][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:390][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.23-15.07.45:390][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.06.23-15.07.45:391][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.23-15.07.45:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.23-15.07.45:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.06.23-15.07.45:403][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.23-15.07.45:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.23-15.07.45:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.06.23-15.07.45:403][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.23-15.07.45:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.23-15.07.45:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.06.23-15.07.45:404][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.23-15.07.45:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.23-15.07.45:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.06.23-15.07.45:406][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.23-15.07.45:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.23-15.07.45:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.06.23-15.07.45:407][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.23-15.07.45:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.23-15.07.45:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.06.23-15.07.45:408][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.23-15.07.45:408][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:408][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.23-15.07.45:408][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.06.23-15.07.45:410][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.23-15.07.45:410][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:410][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.23-15.07.45:410][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.06.23-15.07.45:412][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.23-15.07.45:412][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:412][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.23-15.07.45:412][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.06.23-15.07.45:414][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.23-15.07.45:414][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.23-15.07.45:414][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.23-15.07.45:414][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.06.23-15.07.46:115][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.23-15.07.46:158][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.06.23-15.07.46:396][  0]LogSlate: Took 0.024542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.23-15.07.46:440][  0]LogSlate: Took 0.039879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.23-15.07.46:457][  0]LogSlate: Took 0.012482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.23-15.07.46:595][  0]LogRenderer: Reallocating scene render targets to support 1348x708 Format 10 NumSamples 1 (Frame:1).
+[2021.06.23-15.07.46:871][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.23-15.07.46:871][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.06.23-15.07.46:871][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.06.23-15.07.46:871][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.06.23-15.07.46:871][  0]LogLoad: (Engine Initialization) Total time: 62.03 seconds
+[2021.06.23-15.07.46:871][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.23-15.07.46:871][  0]LogInit: First time updating LLM stats...
+[2021.06.23-15.07.46:914][  0]LogAssetRegistry: Asset discovery search completed in 35.6796 seconds
+[2021.06.23-15.07.46:916][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.06.23-15.07.46:959][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.23-15.07.47:397][  2]LogSlate: Took 0.235826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.23-15.07.47:943][ 55]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.23-15.10.22:945][529]LogTexture: Display: Building textures: T_Megalitic_AORM (AutoDXT, 2048X2048)
+[2021.06.23-15.10.22:945][529]LogTexture: Display: Building textures: T_Megalitic_N (BC5, 2048X2048)
+[2021.06.23-15.10.22:945][529]LogMaterial: Display: Missing cached shader map for material MM_AORM, compiling. 
+[2021.06.23-15.10.23:162][529]LogStaticMesh: Building static mesh SM_Megalitic_01...
+[2021.06.23-15.10.23:187][529]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.06.23-15.10.23:187][529]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.06.23-15.10.23:187][529]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.06.23-15.10.23:187][529]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.06.23-15.10.23:187][529]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.06.23-15.10.23:187][529]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.06.23-15.10.23:264][529]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/Props/Megalitic/SM_Megalitic_01.SM_Megalitic_01
+[2021.06.23-15.10.23:290][529]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Props/Megalitic/SM_Megalitic_01.SM_Megalitic_01
+[2021.06.23-15.10.26:001][529]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2021.06.23-15.10.26:001][529]LogSlate: Took 0.021398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.23-15.10.32:649][ 97]LogSlate: Window 'SM_Megalitic_01' being destroyed
+[2021.06.23-15.10.32:655][ 97]LogSlate: Window 'SM_Megalitic_01' being destroyed
+[2021.06.23-15.10.32:672][ 97]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-15.10.32:672][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-15.10.51:049][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.06.23-15.10.51:483][797]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/RagnarTestMap.RagnarTestMap
+[2021.06.23-15.10.51:483][797]Cmd: MAP LOAD FILE="../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/RagnarTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.23-15.10.51:483][797]LightingResults: New page: Lighting Build
+[2021.06.23-15.10.51:483][797]LoadErrors: New page: Loading map: RagnarTestMap.umap
+[2021.06.23-15.10.51:509][797]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-15.10.51:509][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-15.10.51:509][797]MapCheck: New page: Map Check
+[2021.06.23-15.10.51:509][797]LightingResults: New page: Lighting Build
+[2021.06.23-15.10.51:516][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-15.10.51:523][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.06.23-15.10.51:524][797]LogAudio: Display: Audio Device (ID: 1) registered with world 'RagnarTestMap'.
+[2021.06.23-15.10.51:805][797]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.23-15.10.51:805][797]LogAIModule: Creating AISystem for world RagnarTestMap
+[2021.06.23-15.10.51:831][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.06.23-15.10.51:844][797]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.23-15.10.51:844][797]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2021.06.23-15.10.51:844][797]LogFileHelpers: Loading map 'RagnarTestMap' took 0.361
+[2021.06.23-15.11.03:322][ 76]LogTexture: Display: Building textures: T_Flower_AAM (AutoDXT, 1024X1024)
+[2021.06.23-15.11.03:322][ 76]LogStaticMesh: Building static mesh SM_Flower_01...
+[2021.06.23-15.11.03:359][ 76]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Props/Undergrowth/SM_Flower_01.SM_Flower_01
+[2021.06.23-15.11.03:490][ 76]LogActorFactory: Actor Factory created SM_Flower_01
+[2021.06.23-15.12.35:939][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.23-15.12.36:250][389]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/RagnarTestMapD235F33C495381278F0881A157BD21BD.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/RagnarTestMap.umap'
+[2021.06.23-15.12.36:300][389]AssetCheck: New page: Asset Save: RagnarTestMap
+[2021.06.23-15.12.36:301][389]LogContentValidation: Display: Validating World /Game/Maps/RagnarTestMap.RagnarTestMap
+[2021.06.23-15.12.47:929][939]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.23-15.12.47:938][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-15.12.47:938][939]PIE: New page: PIE session: RagnarTestMap (23 juni 2021 19:12:47)
+[2021.06.23-15.12.47:975][939]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.23-15.12.47:976][939]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.23-15.12.47:976][939]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RagnarTestMap
+[2021.06.23-15.12.48:063][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086891s)
+[2021.06.23-15.12.48:064][939]LogAIModule: Creating AISystem for world RagnarTestMap
+[2021.06.23-15.12.48:065][939]LogPlayLevel: PIE: World Init took: (0.001552s)
+[2021.06.23-15.12.48:065][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RagnarTestMap.RagnarTestMap to /Game/Maps/UEDPIE_0_RagnarTestMap.RagnarTestMap (0.088631s)
+[2021.06.23-15.12.48:073][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.06.23-15.12.48:074][939]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.23-15.12.48:074][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-15.12.48:074][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-15.12.48:074][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-15.12.48:074][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-15.12.48:074][939]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-15.12.48:074][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-15.12.48:074][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-15.12.48:074][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-15.12.48:075][939]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-15.12.48:075][939]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-15.12.48:080][939]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-15.12.48:080][939]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-15.12.48:113][939]LogAudioMixer: Display: Using Audio Device Hörlurar (2- Arctis 7 Game)
+[2021.06.23-15.12.48:113][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-15.12.48:113][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-15.12.48:113][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-15.12.48:114][939]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-15.12.48:114][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-15.12.48:114][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-15.12.48:132][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-15.12.48:132][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-15.12.48:132][939]LogInit: FAudioDevice initialized.
+[2021.06.23-15.12.48:132][939]LogAudio: Display: Audio Device (ID: 2) registered with world 'RagnarTestMap'.
+[2021.06.23-15.12.48:145][939]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.23-15.12.48:153][939]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RagnarTestMap.RagnarTestMap up for play (max tick rate 0) at 2021.06.23-17.12.48
+[2021.06.23-15.12.48:154][939]LogWorld: Bringing up level for play took: 0.007837
+[2021.06.23-15.12.48:154][939]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.06.23-15.12.48:168][939]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.06.23-15.12.48:180][939]PIE: Server logged in
+[2021.06.23-15.12.48:181][939]PIE: Play in editor total start time 0,246 seconds.
+[2021.06.23-15.12.49:685][109]Cmd: LevelEditor.ToggleImmersive
+[2021.06.23-15.12.49:826][110]LogRenderer: Reallocating scene render targets to support 1496x920 Format 10 NumSamples 1 (Frame:172).
+[2021.06.23-15.12.49:893][111]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:174).
+[2021.06.23-15.12.59:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-15.12.59:845][  0]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RagnarTestMap
+[2021.06.23-15.12.59:846][  0]LogWorld: UWorld::CleanupWorld for RagnarTestMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-15.12.59:847][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-15.12.59:865][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.23-15.12.59:868][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-15.12.59:873][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-15.12.59:874][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-15.12.59:876][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-15.12.59:897][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-15.12.59:901][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.06.23-15.12.59:926][  1]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.06.23-15.13.08:357][436]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.06.23-15.15.13:606][295]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.23-15.15.13:613][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-15.15.13:613][295]PIE: New page: PIE session: RagnarTestMap (23 juni 2021 19:15:13)
+[2021.06.23-15.15.13:643][295]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RagnarTestMap
+[2021.06.23-15.15.13:729][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086228s)
+[2021.06.23-15.15.13:731][295]LogAIModule: Creating AISystem for world RagnarTestMap
+[2021.06.23-15.15.13:731][295]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2021.06.23-15.15.13:731][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RagnarTestMap.RagnarTestMap to /Game/Maps/UEDPIE_0_RagnarTestMap.RagnarTestMap (0.088020s)
+[2021.06.23-15.15.13:737][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.06.23-15.15.13:741][295]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.06.23-15.15.13:741][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-15.15.13:741][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-15.15.13:741][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-15.15.13:741][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-15.15.13:741][295]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-15.15.13:741][295]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-15.15.13:741][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-15.15.13:741][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-15.15.13:742][295]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-15.15.13:742][295]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-15.15.13:747][295]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-15.15.13:747][295]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-15.15.13:779][295]LogAudioMixer: Display: Using Audio Device Hörlurar (2- Arctis 7 Game)
+[2021.06.23-15.15.13:779][295]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-15.15.13:779][295]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-15.15.13:779][295]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-15.15.13:779][295]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-15.15.13:780][295]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-15.15.13:780][295]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-15.15.13:797][295]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-15.15.13:797][295]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-15.15.13:797][295]LogInit: FAudioDevice initialized.
+[2021.06.23-15.15.13:797][295]LogAudio: Display: Audio Device (ID: 3) registered with world 'RagnarTestMap'.
+[2021.06.23-15.15.13:809][295]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.23-15.15.13:820][295]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RagnarTestMap.RagnarTestMap up for play (max tick rate 0) at 2021.06.23-17.15.13
+[2021.06.23-15.15.13:820][295]LogWorld: Bringing up level for play took: 0.010385
+[2021.06.23-15.15.13:820][295]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.06.23-15.15.13:825][295]PIE: Server logged in
+[2021.06.23-15.15.13:826][295]PIE: Play in editor total start time 0,214 seconds.
+[2021.06.23-15.16.09:311][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-15.16.09:311][337]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RagnarTestMap
+[2021.06.23-15.16.09:312][337]LogWorld: UWorld::CleanupWorld for RagnarTestMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-15.16.09:313][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-15.16.09:324][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.23-15.16.09:326][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-15.16.09:333][337]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-15.16.09:333][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-15.16.09:334][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-15.16.09:354][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-15.16.09:358][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.06.23-15.16.09:377][338]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.06.23-15.20.26:476][935]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.23-15.20.26:503][935]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.23-15.20.33:092][721]LogContentBrowser: Attempting asset rename: NewFolder -> FoliageTool
+[2021.06.23-15.20.33:092][721]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.23-15.20.56:181][489]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.06.23-15.20.56:207][489]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.06.23-15.20.56:215][489]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.06.23-15.21.04:375][460]LogContentBrowser: Attempting asset rename: NewBlueprint -> FoliageToolR
+[2021.06.23-15.21.04:460][460]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.06.23-15.21.15:609][765]LogContentBrowser: Attempting asset rename: FoliageToolR -> BP_FoliageToolR
+[2021.06.23-15.21.15:665][765]LogMetaData: Removing '/Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/FoliageTool/FoliageToolR.PackageMetaData'
+[2021.06.23-15.21.15:665][765]LogMetaData: Removing '/Game/Assets/FoliageTool/BP_FoliageToolR.SKEL_BP_FoliageToolR_C:UserConstructionScript' ref from Metadata '/Game/Assets/FoliageTool/FoliageToolR.PackageMetaData'
+[2021.06.23-15.21.15:665][765]LogMetaData: Removing '/Game/Assets/FoliageTool/BP_FoliageToolR.SKEL_BP_FoliageToolR_C' ref from Metadata '/Game/Assets/FoliageTool/FoliageToolR.PackageMetaData'
+[2021.06.23-15.21.15:665][765]LogMetaData: Removing '/Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR_C' ref from Metadata '/Game/Assets/FoliageTool/FoliageToolR.PackageMetaData'
+[2021.06.23-15.21.15:665][765]LogMetaData: Removing '/Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/FoliageTool/FoliageToolR.PackageMetaData'
+[2021.06.23-15.21.15:665][765]LogMetaData: Removing '/Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/FoliageTool/FoliageToolR.PackageMetaData'
+[2021.06.23-15.21.15:665][765]LogMetaData: Removing '/Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Assets/FoliageTool/FoliageToolR.PackageMetaData'
+[2021.06.23-15.21.15:755][765]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/BP_FoliageToolRA5DE7A6B478FC03EB885DAB41D6FD107.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/FoliageTool/BP_FoliageToolR.uasset'
+[2021.06.23-15.21.15:857][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.06.23-15.21.15:872][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.06.23-15.21.15:876][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.06.23-15.21.15:939][765]AssetCheck: New page: Asset Save: BP_FoliageToolR
+[2021.06.23-15.21.15:939][765]LogContentValidation: Display: Validating Blueprint /Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR
+[2021.06.23-15.21.18:495][ 67]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR
+[2021.06.23-15.21.19:015][ 67]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2021.06.23-15.22.21:770][324]LogActorFactory: Actor Factory created SM_Flower_01
+[2021.06.23-15.22.35:566][370]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.22.35:683][370]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.06.23-15.22.35:761][370]LogSlate: Took 0.028550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.23-15.22.48:673][130]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/BP_FoliageToolR2EB13B6F4438B9DC72E7088C819E200C.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/FoliageTool/BP_FoliageToolR.uasset'
+[2021.06.23-15.22.48:696][130]AssetCheck: New page: Asset Save: BP_FoliageToolR
+[2021.06.23-15.22.48:697][130]LogContentValidation: Display: Validating Blueprint /Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR
+[2021.06.23-15.23.04:498][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_FoliageToolR_C (BP_FoliageToolR)
+[2021.06.23-15.23.05:192][128]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:216][129]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:229][130]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:243][131]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:257][132]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:271][133]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:285][134]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:300][135]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:313][136]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:327][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:341][138]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:355][139]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:369][140]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:383][141]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:397][142]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:411][143]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:424][144]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:437][145]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:451][146]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.05:465][147]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.23.06:765][252]Cmd: SELECT NONE
+[2021.06.23-15.23.16:254][ 22]LogSlate: Took 0.013957 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.23-15.25.30:321][244]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.25.30:342][244]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.26.26:936][860]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.26.26:941][860]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.26.44:704][852]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.26.44:708][852]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.26.46:349][  5]LogSlate: Took 0.017487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.23-15.26.59:642][406]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.26.59:646][406]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.27.12:201][737]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.27.12:204][737]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.27.13:187][843]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.27.13:193][843]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.27.13:711][898]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.27.13:714][898]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.27.16:310][166]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.27.16:315][166]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.REINST_BP_FoliageToolR_C_0.InstancedStaticMesh)
+[2021.06.23-15.27.16:362][166]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.06.23-15.27.16:377][166]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.27.44:365][506]LogEditorViewport: Clicking on Actor (LMB): BP_FoliageToolR_C (BP_FoliageToolR)
+[2021.06.23-15.28.38:193][993]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.28.38:199][993]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.REINST_BP_FoliageToolR_C_1.InstancedStaticMesh)
+[2021.06.23-15.28.38:226][993]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 0
+[2021.06.23-15.28.38:226][993]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.28.38:233][993]LogBlueprintUserMessages: [BP_FoliageToolR_C_1] 0
+[2021.06.23-15.28.38:274][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.06.23-15.28.38:280][993]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 0
+[2021.06.23-15.28.38:280][993]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.28.38:280][993]LogBlueprintUserMessages: [BP_FoliageToolR_C_1] 0
+[2021.06.23-15.28.38:281][993]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 0
+[2021.06.23-15.28.38:284][993]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 0
+[2021.06.23-15.28.38:284][993]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.28.38:284][993]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 0
+[2021.06.23-15.28.38:287][993]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.28.55:725][307]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 0
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 1
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 2
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 3
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 4
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 5
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 6
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 7
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 8
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 9
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 10
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.28.55:725][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 0
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 1
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 2
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 3
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 4
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 5
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 6
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 7
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 8
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 9
+[2021.06.23-15.28.55:726][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 10
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 0
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 1
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 2
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 3
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 4
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 5
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 6
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 7
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 8
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 9
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 10
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.28.55:727][307]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.28.55:728][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 0
+[2021.06.23-15.28.55:728][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 1
+[2021.06.23-15.28.55:728][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 2
+[2021.06.23-15.28.55:728][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 3
+[2021.06.23-15.28.55:728][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 4
+[2021.06.23-15.28.55:728][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 5
+[2021.06.23-15.28.55:728][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 6
+[2021.06.23-15.28.55:728][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 7
+[2021.06.23-15.28.55:728][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 8
+[2021.06.23-15.28.55:728][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 9
+[2021.06.23-15.28.55:728][307]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 10
+[2021.06.23-15.28.55:730][307]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.28.56:911][394]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.28.56:917][394]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.REINST_BP_FoliageToolR_C_2.InstancedStaticMesh)
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 0
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 1
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 2
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 3
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 4
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 5
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 6
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 7
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 8
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 9
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 10
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.28.56:920][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.28.56:921][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.28.56:921][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.28.56:921][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.28.56:921][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.28.56:921][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.28.56:927][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 0
+[2021.06.23-15.28.56:927][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 1
+[2021.06.23-15.28.56:927][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 2
+[2021.06.23-15.28.56:927][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 3
+[2021.06.23-15.28.56:928][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 4
+[2021.06.23-15.28.56:928][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 5
+[2021.06.23-15.28.56:928][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 6
+[2021.06.23-15.28.56:928][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 7
+[2021.06.23-15.28.56:928][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 8
+[2021.06.23-15.28.56:928][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 9
+[2021.06.23-15.28.56:928][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 10
+[2021.06.23-15.28.56:964][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.06.23-15.28.56:969][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 0
+[2021.06.23-15.28.56:969][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 1
+[2021.06.23-15.28.56:969][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 2
+[2021.06.23-15.28.56:969][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 3
+[2021.06.23-15.28.56:969][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 4
+[2021.06.23-15.28.56:969][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 5
+[2021.06.23-15.28.56:969][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 6
+[2021.06.23-15.28.56:969][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 7
+[2021.06.23-15.28.56:969][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 8
+[2021.06.23-15.28.56:969][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 9
+[2021.06.23-15.28.56:969][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 10
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 0
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 1
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 2
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 3
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 4
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 5
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 6
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 7
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 8
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 9
+[2021.06.23-15.28.56:970][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_2] 10
+[2021.06.23-15.28.56:971][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 0
+[2021.06.23-15.28.56:971][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 1
+[2021.06.23-15.28.56:971][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 2
+[2021.06.23-15.28.56:971][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 3
+[2021.06.23-15.28.56:971][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 4
+[2021.06.23-15.28.56:971][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 5
+[2021.06.23-15.28.56:971][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 6
+[2021.06.23-15.28.56:971][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 7
+[2021.06.23-15.28.56:971][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 8
+[2021.06.23-15.28.56:971][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 9
+[2021.06.23-15.28.56:971][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 10
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 0
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 1
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 2
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 3
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 4
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 5
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 6
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 7
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 8
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 9
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 10
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.28.56:974][394]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.28.56:975][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 0
+[2021.06.23-15.28.56:975][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 1
+[2021.06.23-15.28.56:975][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 2
+[2021.06.23-15.28.56:975][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 3
+[2021.06.23-15.28.56:975][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 4
+[2021.06.23-15.28.56:975][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 5
+[2021.06.23-15.28.56:975][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 6
+[2021.06.23-15.28.56:975][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 7
+[2021.06.23-15.28.56:975][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 8
+[2021.06.23-15.28.56:975][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 9
+[2021.06.23-15.28.56:975][394]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 10
+[2021.06.23-15.28.56:983][394]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.29.05:275][ 89]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.05:276][ 89]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.29.05:276][ 89]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.05:276][ 89]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.05:276][ 89]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.05:276][ 89]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.05:276][ 89]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.05:276][ 89]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.05:276][ 89]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.05:276][ 89]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.05:276][ 89]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.05:276][ 89]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.05:282][ 89]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.29.09:668][460]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.09:668][460]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.29.09:668][460]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.09:668][460]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.09:668][460]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.09:668][460]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.09:668][460]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.09:668][460]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.09:669][460]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.09:669][460]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.09:669][460]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.09:669][460]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.09:680][461]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.09:681][461]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.29.09:681][461]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.09:681][461]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.09:681][461]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.09:681][461]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.09:681][461]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.09:681][461]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.09:681][461]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.09:681][461]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.09:681][461]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.09:681][461]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.09:694][462]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.09:695][462]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.29.09:695][462]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.09:695][462]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.09:695][462]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.09:695][462]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.09:695][462]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.09:695][462]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.09:695][462]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.09:695][462]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.09:695][462]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.09:695][462]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.09:707][463]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.09:707][463]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.29.09:708][463]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.09:708][463]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.09:708][463]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.09:708][463]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.09:708][463]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.09:708][463]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.09:708][463]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.09:708][463]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.09:708][463]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.09:708][463]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.09:720][464]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.09:720][464]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.29.09:721][464]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.09:721][464]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.09:721][464]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.09:721][464]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.09:721][464]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.09:721][464]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.09:721][464]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.09:721][464]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.09:721][464]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.09:721][464]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.09:733][465]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.09:734][465]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.29.09:734][465]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.09:734][465]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.09:734][465]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.09:734][465]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.09:734][465]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.09:734][465]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.09:734][465]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.09:734][465]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.09:734][465]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.09:734][465]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.09:860][476]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.09:860][476]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.29.09:860][476]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.09:860][476]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.09:860][476]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.09:860][476]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.09:860][476]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.09:860][476]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.09:860][476]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.09:860][476]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.09:860][476]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.09:860][476]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.09:866][476]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.29.12:770][733]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.12:771][733]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.29.12:771][733]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.12:771][733]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.12:771][733]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.12:771][733]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.12:771][733]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.12:771][733]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.12:771][733]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.12:771][733]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.12:771][733]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.12:771][733]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.12:795][735]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.12:796][735]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.29.12:796][735]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.12:796][735]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.12:796][735]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.12:796][735]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.12:796][735]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.12:796][735]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.12:796][735]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.12:796][735]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.12:796][735]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.12:796][735]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.12:808][736]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.12:809][736]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.29.12:809][736]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.12:809][736]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.12:809][736]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.12:809][736]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.12:809][736]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.12:809][736]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.12:809][736]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.12:809][736]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.12:809][736]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.12:809][736]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.13:020][755]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.13:020][755]LogBlueprintUserMessages: [BP_FoliageToolR_2] 0
+[2021.06.23-15.29.13:020][755]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.13:020][755]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.13:020][755]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.13:020][755]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.13:020][755]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.13:020][755]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.13:020][755]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.13:020][755]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.13:020][755]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.13:020][755]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.13:025][755]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.29.21:325][374]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.29.21:330][374]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.REINST_BP_FoliageToolR_C_3.InstancedStaticMesh)
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 1
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 2
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 3
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 4
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 5
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 6
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 7
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 8
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 9
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 10
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.21:334][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.21:341][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 1
+[2021.06.23-15.29.21:341][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 2
+[2021.06.23-15.29.21:341][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 3
+[2021.06.23-15.29.21:341][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 4
+[2021.06.23-15.29.21:341][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 5
+[2021.06.23-15.29.21:341][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 6
+[2021.06.23-15.29.21:341][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 7
+[2021.06.23-15.29.21:341][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 8
+[2021.06.23-15.29.21:341][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 9
+[2021.06.23-15.29.21:341][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 10
+[2021.06.23-15.29.21:378][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.06.23-15.29.21:383][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 1
+[2021.06.23-15.29.21:383][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 2
+[2021.06.23-15.29.21:383][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 3
+[2021.06.23-15.29.21:383][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 4
+[2021.06.23-15.29.21:383][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 5
+[2021.06.23-15.29.21:383][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 6
+[2021.06.23-15.29.21:383][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 7
+[2021.06.23-15.29.21:383][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 8
+[2021.06.23-15.29.21:383][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 9
+[2021.06.23-15.29.21:383][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 10
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 1
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 2
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 3
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 4
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 5
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 6
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 7
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 8
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 9
+[2021.06.23-15.29.21:384][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_3] 10
+[2021.06.23-15.29.21:385][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 1
+[2021.06.23-15.29.21:385][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 2
+[2021.06.23-15.29.21:385][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 3
+[2021.06.23-15.29.21:385][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 4
+[2021.06.23-15.29.21:385][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 5
+[2021.06.23-15.29.21:385][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 6
+[2021.06.23-15.29.21:385][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 7
+[2021.06.23-15.29.21:385][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 8
+[2021.06.23-15.29.21:385][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 9
+[2021.06.23-15.29.21:385][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 10
+[2021.06.23-15.29.21:388][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 1
+[2021.06.23-15.29.21:388][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 2
+[2021.06.23-15.29.21:388][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 3
+[2021.06.23-15.29.21:388][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 4
+[2021.06.23-15.29.21:388][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 5
+[2021.06.23-15.29.21:388][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 6
+[2021.06.23-15.29.21:388][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 7
+[2021.06.23-15.29.21:388][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 8
+[2021.06.23-15.29.21:388][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 9
+[2021.06.23-15.29.21:388][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 10
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 1
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 2
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 3
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 4
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 5
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 6
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 7
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 8
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 9
+[2021.06.23-15.29.21:389][374]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 10
+[2021.06.23-15.29.21:392][374]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.29.25:841][744]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/BP_FoliageToolR0DB4283E4EB210108EC8F6A65B7F8B91.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/FoliageTool/BP_FoliageToolR.uasset'
+[2021.06.23-15.29.25:854][744]AssetCheck: New page: Asset Save: BP_FoliageToolR
+[2021.06.23-15.29.25:855][744]LogContentValidation: Display: Validating Blueprint /Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR
+[2021.06.23-15.29.34:156][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 1
+[2021.06.23-15.29.34:156][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 2
+[2021.06.23-15.29.34:156][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 3
+[2021.06.23-15.29.34:156][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 4
+[2021.06.23-15.29.34:156][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 5
+[2021.06.23-15.29.34:156][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 6
+[2021.06.23-15.29.34:156][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 7
+[2021.06.23-15.29.34:156][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 8
+[2021.06.23-15.29.34:156][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 9
+[2021.06.23-15.29.34:156][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 10
+[2021.06.23-15.29.34:157][459]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.BP_FoliageToolR_2.InstancedStaticMesh)
+[2021.06.23-15.29.34:157][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.34:157][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.34:157][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.34:157][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.34:157][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.34:157][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.34:157][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.34:157][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.34:157][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.34:157][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.34:158][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 1
+[2021.06.23-15.29.34:158][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 2
+[2021.06.23-15.29.34:158][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 3
+[2021.06.23-15.29.34:158][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 4
+[2021.06.23-15.29.34:158][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 5
+[2021.06.23-15.29.34:158][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 6
+[2021.06.23-15.29.34:158][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 7
+[2021.06.23-15.29.34:158][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 8
+[2021.06.23-15.29.34:158][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 9
+[2021.06.23-15.29.34:158][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 10
+[2021.06.23-15.29.34:160][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 1
+[2021.06.23-15.29.34:160][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 2
+[2021.06.23-15.29.34:160][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 3
+[2021.06.23-15.29.34:160][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 4
+[2021.06.23-15.29.34:160][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 5
+[2021.06.23-15.29.34:160][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 6
+[2021.06.23-15.29.34:160][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 7
+[2021.06.23-15.29.34:160][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 8
+[2021.06.23-15.29.34:160][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 9
+[2021.06.23-15.29.34:160][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_0] 10
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 1
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 2
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 3
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 4
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 5
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 6
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 7
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 8
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 9
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_2] 10
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 1
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 2
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 3
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 4
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 5
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 6
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 7
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 8
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 9
+[2021.06.23-15.29.34:161][459]LogBlueprintUserMessages: [BP_FoliageToolR_C_4] 10
+[2021.06.23-15.29.34:164][459]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.29.50:086][ 17]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.29.50:091][ 17]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.REINST_BP_FoliageToolR_C_4.InstancedStaticMesh)
+[2021.06.23-15.29.50:139][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.06.23-15.29.50:152][ 17]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.29.50:729][ 59]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/BP_FoliageToolR014FD84741C3661A7EC8C6892E6C44A4.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/FoliageTool/BP_FoliageToolR.uasset'
+[2021.06.23-15.29.50:746][ 59]AssetCheck: New page: Asset Save: BP_FoliageToolR
+[2021.06.23-15.29.50:746][ 59]LogContentValidation: Display: Validating Blueprint /Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR
+[2021.06.23-15.32.34:464][205]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.32.34:471][205]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Maps/RagnarTestMap.RagnarTestMap:PersistentLevel.REINST_BP_FoliageToolR_C_5.InstancedStaticMesh)
+[2021.06.23-15.32.34:521][205]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.06.23-15.32.34:537][205]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2021.06.23-15.33.14:465][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.06.23-15.33.14:769][733]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/RagnarTestMap_Auto16630364F4D7C6EC8AF84D89C5A04836C.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Maps/RagnarTestMap_Auto1.umap'
+[2021.06.23-15.33.14:771][733]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/RagnarTestMap' took 0.331
+[2021.06.23-15.33.14:771][733]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.331
+[2021.06.23-15.33.14:772][733]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FoliageTool/BP_FoliageToolR] ([1] browsable assets)...
+[2021.06.23-15.33.14:785][733]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR]
+[2021.06.23-15.33.14:785][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FoliageTool/BP_FoliageToolR]
+[2021.06.23-15.33.14:800][733]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/BP_FoliageToolR_Auto154F98ACC46FBD769F6F302A9BD5BA814.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/FoliageTool/BP_FoliageToolR_Auto1.uasset'
+[2021.06.23-15.33.14:800][733]LogFileHelpers: Auto-saving content packages took 0.029
+[2021.06.23-15.35.45:704][735]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.35.45:797][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.06.23-15.36.11:100][853]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.36.11:157][853]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.06.23-15.36.26:965][127]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.36.27:022][127]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.06.23-15.37.51:117][954]LogEditorTransaction: Undo Delete current selection
+[2021.06.23-15.38.58:603][212]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.38.58:664][212]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.06.23-15.39.14:942][388]Cmd: SELECT NONE
+[2021.06.23-15.39.43:626][ 23]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.39.43:700][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.06.23-15.39.58:317][107]LogEditorViewport: Clicking on Actor (LMB): BP_FoliageToolR_C (BP_FoliageToolR)
+[2021.06.23-15.42.02:129][971]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.42.02:189][971]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.06.23-15.43.47:262][109]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.43.47:323][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.06.23-15.44.20:486][764]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.44.20:543][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.06.23-15.44.50:121][985]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/BP_FoliageToolRF798BFD34A8644D101FDF1915F638328.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/FoliageTool/BP_FoliageToolR.uasset'
+[2021.06.23-15.44.50:137][985]AssetCheck: New page: Asset Save: BP_FoliageToolR
+[2021.06.23-15.44.50:137][985]LogContentValidation: Display: Validating Blueprint /Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR
+[2021.06.23-15.47.07:079][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.06.23-15.47.07:384][607]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/RagnarTestMap_Auto28BD76BD94F78673E97E91AB8C1F5287B.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Maps/RagnarTestMap_Auto2.umap'
+[2021.06.23-15.47.07:386][607]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/RagnarTestMap' took 0.334
+[2021.06.23-15.47.07:386][607]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.334
+[2021.06.23-15.47.07:386][607]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FoliageTool/BP_FoliageToolR] ([1] browsable assets)...
+[2021.06.23-15.47.07:400][607]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR]
+[2021.06.23-15.47.07:400][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FoliageTool/BP_FoliageToolR]
+[2021.06.23-15.47.07:419][607]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/BP_FoliageToolR_Auto23F27736E40821EBB2F905CB73AD3B518.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/FoliageTool/BP_FoliageToolR_Auto2.uasset'
+[2021.06.23-15.47.07:419][607]LogFileHelpers: Auto-saving content packages took 0.033
+[2021.06.23-15.47.17:179][347]LogEditorTransaction: Undo Break Pin Links
+[2021.06.23-15.47.29:688][325]LogEditorTransaction: Undo Create Reroute Node
+[2021.06.23-15.50.40:321][425]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.50.40:382][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.06.23-15.50.49:729][153]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.50.49:786][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.06.23-15.50.50:209][176]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/BP_FoliageToolR63064A5D49662F663CF225A3014DBBAE.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/FoliageTool/BP_FoliageToolR.uasset'
+[2021.06.23-15.50.50:227][176]AssetCheck: New page: Asset Save: BP_FoliageToolR
+[2021.06.23-15.50.50:227][176]LogContentValidation: Display: Validating Blueprint /Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR
+[2021.06.23-15.51.37:636][767]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.51.37:747][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.06.23-15.52.41:657][216]LogEditorViewport: Clicking on Actor (LMB): BP_FoliageToolR_C (BP_FoliageToolR)
+[2021.06.23-15.55.23:930][303]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.55.24:039][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.06.23-15.55.24:612][337]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/BP_FoliageToolR0445034A436C5B7CE86418A24B95E87D.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/FoliageTool/BP_FoliageToolR.uasset'
+[2021.06.23-15.55.24:630][337]AssetCheck: New page: Asset Save: BP_FoliageToolR
+[2021.06.23-15.55.24:630][337]LogContentValidation: Display: Validating Blueprint /Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR
+[2021.06.23-15.55.48:689][143]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.55.48:750][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.06.23-15.56.14:760][897]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.56.14:841][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.06.23-15.56.17:930][123]LogSavePackage: Moving '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/BP_FoliageToolR0B2A07104A62414B1691DBAFBB7401A4.tmp' to '../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/FoliageTool/BP_FoliageToolR.uasset'
+[2021.06.23-15.56.17:945][123]AssetCheck: New page: Asset Save: BP_FoliageToolR
+[2021.06.23-15.56.17:945][123]LogContentValidation: Display: Validating Blueprint /Game/Assets/FoliageTool/BP_FoliageToolR.BP_FoliageToolR
+[2021.06.23-15.58.08:150][394]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-15.58.08:320][394]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.06.23-16.00.15:560][767]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-16.00.15:633][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.06.23-16.01.59:434][165]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-16.01.59:509][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.06.23-16.02.02:747][372]Cmd: SELECT NONE
+[2021.06.23-16.03.48:665][195]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-16.03.48:718][195]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.06.23-16.05.04:107][349]BlueprintLog: New page: Compile BP_FoliageToolR
+[2021.06.23-16.05.04:160][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
