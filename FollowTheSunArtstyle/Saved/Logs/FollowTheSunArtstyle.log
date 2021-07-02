@@ -1906,3 +1906,942 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.02-14.15.19:302][928]LogContentValidation: Display: Validating World /Game/Maps/RichardTestMap.RichardTestMap
 [2021.07.02-14.15.19:302][928]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/RichardTestMap_BuiltData.RichardTestMap_BuiltData
 [2021.07.02-14.15.19:302][928]LogContentValidation: Display: Validating Material /Game/Assets/Landscape_Materails/Landscape_painting/MAT_TerrainPaint_01.MAT_TerrainPaint_01
+[2021.07.02-14.16.46:618][812]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Props/Boulders/MSH_Boulder_L_01.MSH_Boulder_L_01
+[2021.07.02-14.17.09:682][ 66]LogActorFactory: Actor Factory created MSH_Boulder_L_02
+[2021.07.02-14.17.10:588][132]LogActorFactory: Actor Factory created MSH_Boulder_L_02
+[2021.07.02-14.17.19:658][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Boulder_L_18)
+[2021.07.02-14.17.33:836][619]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Props/Boulders/Material_Instances/MI_Boulder_L_02.MI_Boulder_L_02
+[2021.07.02-14.17.44:786][219]LogSlate: Window 'MI_Boulder_L_02' being destroyed
+[2021.07.02-14.17.44:793][219]LogSlate: Window 'MI_Boulder_L_02' being destroyed
+[2021.07.02-14.17.44:797][219]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-14.17.44:797][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-14.17.44:844][219]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-14.17.44:845][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-14.17.44:861][219]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-14.17.44:861][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-14.17.44:896][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.07.02-14.17.44:917][219]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.02-14.17.45:257][219]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.07.02-14.17.45:257][219]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.07.02-14.17.45:259][219]TextureStreamingBuild: Display: Compiling optional shaders took 0.342 seconds.
+[2021.07.02-14.17.45:266][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.07.02-14.17.45:276][219]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-14.17.45:276][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-14.17.50:186][637]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Props/Boulders/MSH_Boulder_L_02.MSH_Boulder_L_02
+[2021.07.02-14.17.51:569][700]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Props/Boulders/Material_Instances/MI_Boulder_L_02.MI_Boulder_L_02
+[2021.07.02-14.17.55:204][934]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Master_Materials/MM_Hard_surface_Packed.MM_Hard_surface_packed
+[2021.07.02-14.17.55:206][934]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.17.55:250][934]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.17.55:256][934]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.17.55:268][934]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.02-14.17.55:268][934]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.02-14.17.55:268][934]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.02-14.17.55:268][934]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.02-14.17.55:268][934]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.02-14.17.55:268][934]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.02-14.17.55:268][934]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.02-14.17.55:268][934]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.07.02-14.17.55:269][934]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.02-14.17.55:269][934]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.02-14.17.55:269][934]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.02-14.17.55:271][934]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.07.02-14.17.55:276][934]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2021.07.02-14.17.55:278][934]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.07.02-14.17.55:311][934]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 12
+[2021.07.02-14.17.55:845][952]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.02-14.17.55:888][954]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2021.07.02-14.17.55:888][954]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2021.07.02-14.17.55:888][954]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2021.07.02-14.17.55:888][954]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2021.07.02-14.17.55:954][958]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.07.02-14.17.55:989][960]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2021.07.02-14.17.56:010][961]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.07.02-14.17.56:059][963]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.07.02-14.17.56:059][963]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.07.02-14.17.56:085][964]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.07.02-14.17.56:169][966]MaterialEditorStats: Base pass shader: 127 instructions
+[2021.07.02-14.17.56:169][966]MaterialEditorStats: Base pass shader with Surface Lightmap: 158 instructions
+[2021.07.02-14.17.56:169][966]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2021.07.02-14.17.56:169][966]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.02-14.17.56:169][966]MaterialEditorStats: Texture samplers: 5/16
+[2021.07.02-14.17.56:169][966]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.07.02-14.17.56:169][966]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.02-14.18.18:923][570]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Props/Boulders/Textures/T_Boulder_L_02_ORM.T_Boulder_L_02_ORM
+[2021.07.02-14.18.18:928][570]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.07.02-14.18.22:786][846]LogTexture: Display: Building textures: T_Boulder_L_02_ORM (AutoDXT, 1024X1024)
+[2021.07.02-14.18.22:868][846]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.18.22:909][846]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2021.07.02-14.18.22:909][846]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2021.07.02-14.18.22:909][846]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2021.07.02-14.18.22:909][846]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2021.07.02-14.18.22:909][846]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2021.07.02-14.18.22:910][846]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2021.07.02-14.18.22:910][846]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2021.07.02-14.18.22:910][846]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.07.02-14.18.22:910][846]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.07.02-14.18.22:910][846]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.07.02-14.18.22:910][846]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.07.02-14.18.32:122][447]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.18.32:157][448]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.02-14.18.32:157][448]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.02-14.18.32:157][448]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.02-14.18.32:157][448]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.02-14.18.32:157][448]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.02-14.18.32:157][448]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.02-14.18.32:157][448]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.02-14.18.32:157][448]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.07.02-14.18.32:157][448]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.02-14.18.32:157][448]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.02-14.18.32:157][448]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.02-14.18.33:580][561]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.18.33:580][561]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Hard_surface_packed (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.02-14.18.33:580][561]LogMaterial: Display: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Linear Color, should be Color for /Game/Assets/Props/Megalitic/Textures/T_Megalitic_AORM.T_Megalitic_AORM
+[2021.07.02-14.18.33:585][561]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2021.07.02-14.18.33:588][561]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.18.33:589][561]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Hard_surface_packed (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.02-14.18.33:589][561]LogMaterial: Display: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Linear Color, should be Color for /Game/Assets/Props/Megalitic/Textures/T_Megalitic_AORM.T_Megalitic_AORM
+[2021.07.02-14.18.33:594][561]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Linear Color, should be Color for /Game/Assets/Props/Megalitic/Textures/T_Megalitic_AORM.T_Megalitic_AORM
+[2021.07.02-14.18.34:626][629]LogMaterialEditor: Applying material MM_Hard_surface_packed
+[2021.07.02-14.18.36:225][629]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2021.07.02-14.18.36:679][629]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.18.36:680][629]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Hard_surface_packed (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.02-14.18.36:680][629]LogMaterial: Display: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Linear Color, should be Color for /Game/Assets/Props/Megalitic/Textures/T_Megalitic_AORM.T_Megalitic_AORM
+[2021.07.02-14.18.36:712][629]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.18.36:712][629]LogMaterial: Warning: [AssetLog] C:\Users\richard.stenlund_vis\Documents\GitHub\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\Assets\Master_Materials\MM_Hard_surface_Packed.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.02-14.18.36:712][629]LogMaterial: Display: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Linear Color, should be Color for /Game/Assets/Props/Megalitic/Textures/T_Megalitic_AORM.T_Megalitic_AORM
+[2021.07.02-14.18.36:792][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.07.02-14.18.36:802][629]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.02-14.18.36:803][629]TextureStreamingBuild: Display: Compiling optional shaders took 0.003 seconds.
+[2021.07.02-14.18.36:807][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.07.02-14.18.41:709][930]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Props/Megalitic/Textures/T_Megalitic_AORM.T_Megalitic_AORM
+[2021.07.02-14.18.42:967][ 14]LogTexture: Display: Building textures: T_Megalitic_AORM (AutoDXT, 2048X2048)
+[2021.07.02-14.18.48:934][408]LogMaterialEditor: Saving and Compiling material MM_Hard_surface_packed
+[2021.07.02-14.18.48:973][408]LogSavePackage: Moving '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MM_Hard_surface_PackedFE9743B847DAE896C4B940A22E9BCCE2.tmp' to '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Master_Materials/MM_Hard_surface_Packed.uasset'
+[2021.07.02-14.18.48:985][408]AssetCheck: New page: Asset Save: MM_Hard_surface_packed
+[2021.07.02-14.18.48:985][408]LogContentValidation: Display: Validating Material /Game/Assets/Master_Materials/MM_Hard_surface_Packed.MM_Hard_surface_packed
+[2021.07.02-14.19.27:725][ 15]LogMaterialEditor: Saving and Compiling material MM_Hard_surface_packed
+[2021.07.02-14.19.27:750][ 15]LogSavePackage: Moving '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MM_Hard_surface_PackedCE8751B74BD078FD65E92B9DBCFB5668.tmp' to '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Master_Materials/MM_Hard_surface_Packed.uasset'
+[2021.07.02-14.19.27:760][ 15]AssetCheck: New page: Asset Save: MM_Hard_surface_packed
+[2021.07.02-14.19.27:760][ 15]LogContentValidation: Display: Validating Material /Game/Assets/Master_Materials/MM_Hard_surface_Packed.MM_Hard_surface_packed
+[2021.07.02-14.19.45:020][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Boulder_L_18)
+[2021.07.02-14.19.45:106][116]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.07.02-14.19.50:241][428]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.19.50:285][429]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.02-14.19.50:285][429]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.02-14.19.50:285][429]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.02-14.19.50:285][429]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.02-14.19.50:285][429]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.02-14.19.50:285][429]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.02-14.19.50:285][429]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.02-14.19.50:285][429]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.07.02-14.19.50:285][429]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.02-14.19.50:285][429]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.02-14.19.50:285][429]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.02-14.19.56:003][999]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.19.56:003][999]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Hard_surface_packed (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.02-14.19.56:003][999]LogMaterial: Display: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Assets/Props/Megalitic/Textures/T_Megalitic_AORM.T_Megalitic_AORM
+[2021.07.02-14.19.56:006][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2021.07.02-14.19.56:009][999]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.19.56:009][999]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Hard_surface_packed (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.02-14.19.56:009][999]LogMaterial: Display: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Assets/Props/Megalitic/Textures/T_Megalitic_AORM.T_Megalitic_AORM
+[2021.07.02-14.19.56:016][999]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Assets/Props/Megalitic/Textures/T_Megalitic_AORM.T_Megalitic_AORM
+[2021.07.02-14.20.01:949][392]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.07.02-14.20.07:086][737]LogSavePackage: Moving '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Megalitic_AORMA3931CD14A7C366F42BDB292EE91824C.tmp' to '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Megalitic/Textures/T_Megalitic_AORM.uasset'
+[2021.07.02-14.20.07:098][737]AssetCheck: New page: Asset Save: T_Megalitic_AORM
+[2021.07.02-14.20.07:098][737]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Megalitic/Textures/T_Megalitic_AORM.T_Megalitic_AORM
+[2021.07.02-14.20.09:997][924]LogSavePackage: Moving '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Boulder_L_02_ORM983BB7BA4B8B2830587B58A6CA056DD0.tmp' to '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Boulders/Textures/T_Boulder_L_02_ORM.uasset'
+[2021.07.02-14.20.10:013][924]AssetCheck: New page: Asset Save: T_Boulder_L_02_ORM
+[2021.07.02-14.20.10:013][924]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Boulders/Textures/T_Boulder_L_02_ORM.T_Boulder_L_02_ORM
+[2021.07.02-14.20.13:503][142]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.20.13:503][142]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Hard_surface_packed (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.02-14.20.13:503][142]LogMaterial: Display: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Assets/Props/Megalitic/Textures/T_Megalitic_AORM.T_Megalitic_AORM
+[2021.07.02-14.20.15:423][344]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.20.15:436][344]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2021.07.02-14.20.15:441][344]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.02-14.20.15:441][344]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.02-14.20.15:441][344]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.02-14.20.15:441][344]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.02-14.20.15:441][344]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.02-14.20.15:441][344]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.02-14.20.15:441][344]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.02-14.20.15:441][344]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.07.02-14.20.15:441][344]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.02-14.20.15:441][344]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.02-14.20.15:441][344]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.02-14.20.15:444][344]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.20.15:486][345]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2021.07.02-14.20.16:097][364]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2021.07.02-14.20.16:097][364]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 13
+[2021.07.02-14.20.16:097][364]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2021.07.02-14.20.16:097][364]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.07.02-14.20.16:213][370]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.07.02-14.20.16:257][372]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2021.07.02-14.20.16:285][373]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.07.02-14.20.16:285][373]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.07.02-14.20.16:285][373]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.07.02-14.20.16:285][373]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.07.02-14.20.16:311][374]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.07.02-14.20.16:336][375]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2021.07.02-14.20.16:472][381]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.07.02-14.20.16:473][381]LogMaterialEditor: Applying material MM_Hard_surface_packed
+[2021.07.02-14.20.17:023][381]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.02-14.20.17:031][381]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.20.17:068][381]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.02-14.20.17:068][381]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.02-14.20.17:068][381]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.02-14.20.17:069][381]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.02-14.20.17:069][381]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.02-14.20.17:069][381]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.02-14.20.17:069][381]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.02-14.20.17:069][381]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.07.02-14.20.17:069][381]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.02-14.20.17:069][381]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.02-14.20.17:069][381]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.02-14.20.17:082][381]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.20.17:130][381]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 42
+[2021.07.02-14.20.17:322][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.07.02-14.20.17:351][381]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 40
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 39
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 38
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 31
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 28
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 16
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2021.07.02-14.20.17:769][381]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.07.02-14.20.17:775][381]TextureStreamingBuild: Display: Compiling optional shaders took 0.430 seconds.
+[2021.07.02-14.20.17:782][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.02-14.20.18:442][407]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2021.07.02-14.20.18:665][414]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.07.02-14.20.18:690][415]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2021.07.02-14.20.18:714][416]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.07.02-14.20.18:715][416]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2021.07.02-14.20.18:740][417]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2021.07.02-14.20.18:788][419]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.07.02-14.20.18:870][422]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.07.02-14.20.18:870][422]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.07.02-14.20.19:223][435]LogMaterialEditor: Saving and Compiling material MM_Hard_surface_packed
+[2021.07.02-14.20.19:382][435]LogSavePackage: Moving '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MM_Hard_surface_Packed2090DEC740199E098BCEE2AF6C719D1B.tmp' to '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Master_Materials/MM_Hard_surface_Packed.uasset'
+[2021.07.02-14.20.19:393][435]AssetCheck: New page: Asset Save: MM_Hard_surface_packed
+[2021.07.02-14.20.19:393][435]LogContentValidation: Display: Validating Material /Game/Assets/Master_Materials/MM_Hard_surface_Packed.MM_Hard_surface_packed
+[2021.07.02-14.20.19:394][435]MaterialEditorStats: Base pass shader: 127 instructions
+[2021.07.02-14.20.19:394][435]MaterialEditorStats: Base pass shader with Surface Lightmap: 158 instructions
+[2021.07.02-14.20.19:394][435]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2021.07.02-14.20.19:394][435]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.02-14.20.19:394][435]MaterialEditorStats: Texture samplers: 6/16
+[2021.07.02-14.20.19:394][435]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.07.02-14.20.19:394][435]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.02-14.20.34:733][479]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.20.34:766][480]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.02-14.20.34:766][480]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.02-14.20.34:767][480]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.02-14.20.34:767][480]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.02-14.20.34:767][480]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.02-14.20.34:767][480]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.02-14.20.34:767][480]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.02-14.20.34:767][480]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.07.02-14.20.34:767][480]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.02-14.20.34:767][480]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.02-14.20.34:767][480]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.02-14.20.35:413][507]MaterialEditorStats: Base pass shader: 127 instructions
+[2021.07.02-14.20.35:413][507]MaterialEditorStats: Base pass shader with Surface Lightmap: 158 instructions
+[2021.07.02-14.20.35:413][507]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2021.07.02-14.20.35:413][507]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.02-14.20.35:413][507]MaterialEditorStats: Texture samplers: 5/16
+[2021.07.02-14.20.35:413][507]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.07.02-14.20.35:413][507]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.02-14.20.37:671][735]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.20.37:680][735]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2021.07.02-14.20.37:685][735]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.02-14.20.37:685][735]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.02-14.20.37:685][735]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.02-14.20.37:685][735]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.02-14.20.37:685][735]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.02-14.20.37:685][735]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.02-14.20.37:685][735]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.02-14.20.37:686][735]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.07.02-14.20.37:686][735]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.02-14.20.37:686][735]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.02-14.20.37:686][735]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.02-14.20.37:707][736]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2021.07.02-14.20.38:149][749]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.07.02-14.20.38:196][751]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.07.02-14.20.38:196][751]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.02-14.20.38:441][763]MaterialEditorStats: Base pass shader: 127 instructions
+[2021.07.02-14.20.38:441][763]MaterialEditorStats: Base pass shader with Surface Lightmap: 158 instructions
+[2021.07.02-14.20.38:442][763]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2021.07.02-14.20.38:442][763]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.02-14.20.38:442][763]MaterialEditorStats: Texture samplers: 5/16
+[2021.07.02-14.20.38:442][763]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.07.02-14.20.38:442][763]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.02-14.20.39:473][856]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.20.39:526][856]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.02-14.20.39:526][856]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.02-14.20.39:526][856]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.02-14.20.39:526][856]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.02-14.20.39:526][856]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.02-14.20.39:526][856]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.02-14.20.39:526][856]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.02-14.20.39:526][856]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.07.02-14.20.39:526][856]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.02-14.20.39:526][856]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.02-14.20.39:526][856]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.02-14.20.40:153][880]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.07.02-14.20.40:153][880]MaterialEditorStats: Base pass shader with Surface Lightmap: 157 instructions
+[2021.07.02-14.20.40:153][880]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.07.02-14.20.40:153][880]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.02-14.20.40:153][880]MaterialEditorStats: Texture samplers: 5/16
+[2021.07.02-14.20.40:153][880]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.07.02-14.20.40:153][880]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.02-14.20.41:873][ 47]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.20.41:880][ 47]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.20.41:934][ 48]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.02-14.20.41:934][ 48]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.02-14.20.41:934][ 48]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.02-14.20.41:935][ 48]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.02-14.20.41:935][ 48]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.02-14.20.41:935][ 48]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.02-14.20.41:935][ 48]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.02-14.20.41:935][ 48]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.07.02-14.20.41:935][ 48]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.02-14.20.41:935][ 48]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.02-14.20.41:935][ 48]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.02-14.20.42:551][ 74]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.07.02-14.20.42:551][ 74]MaterialEditorStats: Base pass shader with Surface Lightmap: 157 instructions
+[2021.07.02-14.20.42:551][ 74]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.07.02-14.20.42:551][ 74]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.02-14.20.42:551][ 74]MaterialEditorStats: Texture samplers: 5/16
+[2021.07.02-14.20.42:551][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.07.02-14.20.42:551][ 74]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.02-14.21.03:819][397]LogActorFactory: Actor Factory created MSH_Boulder_L_01
+[2021.07.02-14.21.04:461][449]LogActorFactory: Actor Factory created MSH_Boulder_L_01
+[2021.07.02-14.21.06:838][595]LogActorFactory: Actor Factory created MSH_Boulder_M_01
+[2021.07.02-14.21.07:412][641]LogActorFactory: Actor Factory created MSH_Boulder_M_01
+[2021.07.02-14.21.08:388][705]LogActorFactory: Actor Factory created MSH_Boulder_S_01
+[2021.07.02-14.21.09:082][755]LogActorFactory: Actor Factory created MSH_Boulder_S_01
+[2021.07.02-14.21.09:523][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Boulder_L_18)
+[2021.07.02-14.21.22:873][665]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.07.02-14.21.35:269][428]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Props/Boulders/Textures/T_Boulder_L_02_A.T_Boulder_L_02_A
+[2021.07.02-14.21.49:965][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.07.02-14.21.50:985][482]LogSlate: Window 'Save Content' being destroyed
+[2021.07.02-14.21.51:034][482]LogSavePackage: Moving '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_Boulder_L_0270DF2E6640D70AEA49BE059C4A7EA898.tmp' to '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Boulders/Material_Instances/MI_Boulder_L_02.uasset'
+[2021.07.02-14.21.51:040][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.02-14.21.51:364][482]LogSavePackage: Moving '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/RichardTestMap449542F64AD1E88ACC476B990E9B20B4.tmp' to '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/RichardTestMap.umap'
+[2021.07.02-14.21.51:371][482]LogFileHelpers: Saving map 'RichardTestMap' took 0.336
+[2021.07.02-14.21.51:384][482]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.02-14.21.51:384][482]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Boulders/Material_Instances/MI_Boulder_L_02.MI_Boulder_L_02
+[2021.07.02-14.21.51:384][482]LogContentValidation: Display: Validating World /Game/Maps/RichardTestMap.RichardTestMap
+[2021.07.02-14.21.55:315][555]LogSlate: Window 'Message' being destroyed
+[2021.07.02-14.21.55:321][555]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/Master_Materials/MM_Hard_surface_Packed.MM_Hard_surface_packed
+(Selecting 'No' will cause all changes to be lost!)
+[2021.07.02-14.22.01:447][905]LogSlate: Window 'Message' being destroyed
+[2021.07.02-14.22.01:454][905]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/Master_Materials/MM_Hard_surface_Packed.MM_Hard_surface_packed
+(Selecting 'No' will cause all changes to be lost!)
+[2021.07.02-14.22.01:901][905]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.22.01:937][905]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.02-14.22.01:937][905]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.02-14.22.01:937][905]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.02-14.22.01:937][905]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.02-14.22.01:937][905]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.02-14.22.01:937][905]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.02-14.22.01:937][905]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.02-14.22.01:937][905]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.07.02-14.22.01:937][905]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.02-14.22.01:937][905]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.02-14.22.01:937][905]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.02-14.22.01:946][905]LogMaterial: Display: Missing cached shader map for material MM_Hard_surface_packed, compiling. 
+[2021.07.02-14.22.01:989][905]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 42
+[2021.07.02-14.22.02:116][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.07.02-14.22.02:123][905]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.02-14.22.02:664][905]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 40
+[2021.07.02-14.22.02:664][905]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 39
+[2021.07.02-14.22.02:664][905]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 38
+[2021.07.02-14.22.02:664][905]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2021.07.02-14.22.02:664][905]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 31
+[2021.07.02-14.22.02:780][905]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 28
+[2021.07.02-14.22.02:781][905]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2021.07.02-14.22.02:781][905]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 22
+[2021.07.02-14.22.02:781][905]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2021.07.02-14.22.02:781][905]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2021.07.02-14.22.02:781][905]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 16
+[2021.07.02-14.22.02:781][905]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.07.02-14.22.02:781][905]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2021.07.02-14.22.02:785][905]TextureStreamingBuild: Display: Compiling optional shaders took 0.667 seconds.
+[2021.07.02-14.22.02:793][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.07.02-14.22.02:862][905]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-14.22.02:862][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-14.22.03:541][930]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.07.02-14.22.03:560][931]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.07.02-14.22.03:610][934]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.07.02-14.22.03:661][937]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2021.07.02-14.22.03:682][938]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.07.02-14.22.03:699][939]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2021.07.02-14.22.03:736][941]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.07.02-14.22.03:774][943]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.07.02-14.22.03:942][951]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2021.07.02-14.22.03:942][951]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.07.02-14.22.05:907][ 88]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-14.22.05:907][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-14.22.06:340][121]LogSlate: Window 'MSH_Boulder_L_02' being destroyed
+[2021.07.02-14.22.06:349][121]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-14.22.06:349][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-14.22.07:334][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.07.02-14.22.13:231][208]LogSlate: Window 'Save Content' being destroyed
+[2021.07.02-14.22.13:285][208]LogSavePackage: Moving '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MM_Hard_surface_Packed0784BD0F492D696089C9C98D3DD7EC33.tmp' to '../../../../../../Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Master_Materials/MM_Hard_surface_Packed.uasset'
+[2021.07.02-14.22.13:310][208]LogSlate: Window 'Content Browser 2' being destroyed
+[2021.07.02-14.22.13:314][208]LogSlate: Window 'FollowTheSunArtstyle - Unreal Editor' being destroyed
+[2021.07.02-14.22.13:315][208]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.02-14.22.13:403][208]AssetCheck: New page: Asset Save: MM_Hard_surface_packed
+[2021.07.02-14.22.13:403][208]LogContentValidation: Display: Validating Material /Game/Assets/Master_Materials/MM_Hard_surface_Packed.MM_Hard_surface_packed
+[2021.07.02-14.22.13:403][209]Cmd: QUIT_EDITOR
+[2021.07.02-14.22.13:403][209]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.07.02-14.22.13:408][209]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.07.02-14.22.13:409][209]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.07.02-14.22.13:409][209]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.07.02-14.22.13:409][209]LogAudio: Display: Audio Device unregistered from world 'RichardTestMap'.
+[2021.07.02-14.22.13:435][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-14.22.13:436][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-14.22.13:450][209]LogAudio: Display: Audio Device Manager Shutdown
+[2021.07.02-14.22.13:454][209]LogExit: Preparing to exit.
+[2021.07.02-14.22.14:349][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.07.02-14.22.14:399][209]LogDeviceProfile: Device profile begin destroy: [0000021401781F00] Windows
+[2021.07.02-14.22.14:399][209]LogDeviceProfile: Device profile begin destroy: [0000021401781E00] Default__DeviceProfile
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [00000214019EA200] WindowsNoEditor
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401783B00] WindowsServer
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [00000214019E8600] WindowsClient
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401780700] IOS
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [00000214019EB600] iPadAir
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401782C00] iPadAir2
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196B600] IPadPro
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196B700] iPadAir3
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401781300] iPadAir4
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196A700] iPadMini2
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401780F00] iPadMini3
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196AF00] iPadMini4
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401780B00] iPadMini5
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197EF00] iPhone6
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197F000] iPodTouch6
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196BF00] iPhone7
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196B500] iPodTouch7
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197E700] iPhone5S
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401969400] iPhone6Plus
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197D100] iPhone6S
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401968C00] iPhone6SPlus
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197EB00] iPhone7Plus
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196B800] iPhoneSE
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197E300] iPhone8
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401968E00] iPhone8Plus
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197E200] iPhoneX
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401969700] iPhoneXS
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197C700] iPhoneXSMax
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401968200] iPhoneXR
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197F100] iPhone11
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196B300] iPhone11Pro
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197FF00] iPhone11ProMax
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401969900] iPhoneSE2
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197DC00] iPhone12Mini
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401969D00] iPhone12
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197D400] iPhone12Pro
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196A500] iPhone12ProMax
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197C600] iPadPro105
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401969100] iPadPro129
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197C500] iPadPro97
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196B900] iPadPro2_129
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401969F00] iPad5
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [00000214019E9900] iPad6
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196AB00] iPad7
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [00000214019EA000] iPad8
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401968500] iPadPro11
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [00000214019E9E00] iPadPro2_11
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196A400] iPadPro3_129
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [00000214019EB900] iPadPro4_129
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [00000214019E9C00] AppleTV
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197D700] AppleTV4K
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [00000214019E9800] TVOS
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197D300] Mac
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [00000214019EBB00] MacClient
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197F600] MacNoEditor
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [00000214019E8900] MacServer
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197FA00] Linux
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [00000214019E8700] LinuxAArch64
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197F500] LinuxNoEditor
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196BD00] LinuxAArch64NoEditor
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197FD00] LinuxClient
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401968600] LinuxAArch64Client
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197D900] LinuxServer
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401969800] LinuxAArch64Server
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197CC00] Android
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401968400] Android_Low
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197E000] Android_Mid
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196BA00] Android_High
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197D000] Android_Default
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401969A00] Android_Adreno4xx
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197C200] Android_Adreno5xx_Low
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196A300] Android_Adreno5xx
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197D500] Android_Adreno6xx
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [0000021401968300] Android_Adreno6xx_Vulkan
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197D200] Android_Mali_T6xx
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196B100] Android_Mali_T7xx
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197CD00] Android_Mali_T8xx
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196AC00] Android_Mali_G71
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197CF00] Android_Mali_G72
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196BB00] Android_Mali_G72_Vulkan
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197DE00] Android_Mali_G76
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196A600] Android_Mali_G76_Vulkan
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140197E500] Android_Mali_G77
+[2021.07.02-14.22.14:400][209]LogDeviceProfile: Device profile begin destroy: [000002140196A000] Android_Mali_G77_Vulkan
+[2021.07.02-14.22.14:401][209]LogDeviceProfile: Device profile begin destroy: [000002140197D800] Android_Vulkan_SM5
+[2021.07.02-14.22.14:401][209]LogDeviceProfile: Device profile begin destroy: [000002140196A100] Android_PowerVR_G6xxx
+[2021.07.02-14.22.14:401][209]LogDeviceProfile: Device profile begin destroy: [000002140197F300] Android_PowerVR_GT7xxx
+[2021.07.02-14.22.14:401][209]LogDeviceProfile: Device profile begin destroy: [000002140196AE00] Android_PowerVR_GE8xxx
+[2021.07.02-14.22.14:401][209]LogDeviceProfile: Device profile begin destroy: [000002140197DD00] Android_PowerVR_GM9xxx
+[2021.07.02-14.22.14:401][209]LogDeviceProfile: Device profile begin destroy: [0000021401968700] Android_PowerVR_GM9xxx_Vulkan
+[2021.07.02-14.22.14:401][209]LogDeviceProfile: Device profile begin destroy: [000002140197CA00] Android_TegraK1
+[2021.07.02-14.22.14:401][209]LogDeviceProfile: Device profile begin destroy: [0000021401969E00] Android_Unknown_Vulkan
+[2021.07.02-14.22.14:401][209]LogDeviceProfile: Device profile begin destroy: [000002140197EE00] Lumin
+[2021.07.02-14.22.14:401][209]LogDeviceProfile: Device profile begin destroy: [0000021401969200] Lumin_Desktop
+[2021.07.02-14.22.14:401][209]LogDeviceProfile: Device profile begin destroy: [000002140197C300] HoloLens
+[2021.07.02-14.22.14:410][209]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-14.22.14:411][209]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-14.22.14:411][209]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-14.22.14:426][209]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/richard.stenlund_vis/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/] 
+[2021.07.02-14.22.14:438][209]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.07.02-14.22.14:447][209]LogExit: Editor shut down
+[2021.07.02-14.22.14:447][209]LogExit: Transaction tracking system shut down
+[2021.07.02-14.22.14:595][209]LogExit: Object subsystem successfully closed.
+[2021.07.02-14.22.14:626][209]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.07.02-14.22.14:660][209]LogModuleManager: Shutting down and abandoning module TextureEditor (840)
+[2021.07.02-14.22.14:660][209]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (838)
+[2021.07.02-14.22.14:660][209]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (836)
+[2021.07.02-14.22.14:660][209]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (834)
+[2021.07.02-14.22.14:660][209]LogModuleManager: Shutting down and abandoning module SceneOutliner (830)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module AddContentDialog (828)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module WidgetCarousel (827)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module EditorWidgets (824)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module StatsViewer (822)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (820)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (818)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module AutomationWorker (816)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module SteamVREditor (814)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module OculusMR (812)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module GooglePADEditor (810)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (808)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (806)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (804)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (802)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (800)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (798)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (796)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (794)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (792)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (790)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (788)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (786)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module WebMMedia (784)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (782)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (780)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module SequenceRecorder (779)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (776)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (774)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (772)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (770)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (768)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (766)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (764)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module PlanarCut (762)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module CharacterAI (760)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module TextureAlignMode (758)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module BspMode (756)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module GeometryMode (754)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (752)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module SmartSnapping (750)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module SessionServices (748)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module MeshPaint (746)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (744)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module FoliageEdit (742)
+[2021.07.02-14.22.14:661][209]LogModuleManager: Shutting down and abandoning module LandscapeEditor (740)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module MeshPaintMode (738)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (736)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module ActorPickerMode (734)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module PlacementMode (732)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module ViewportSnapping (730)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module ViewportInteraction (728)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module ClothPainter (726)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (725)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module LogVisualizer (722)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module IntroTutorials (720)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (719)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (716)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (714)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (712)
+[2021.07.02-14.22.14:662][209]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (711)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (708)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (706)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (704)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (702)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module TraceInsights (700)
+[2021.07.02-14.22.15:411][209]MemoryProfiler: Shutdown
+[2021.07.02-14.22.15:411][209]NetworkingProfiler: Shutdown
+[2021.07.02-14.22.15:411][209]LoadingProfiler: Shutdown
+[2021.07.02-14.22.15:411][209]TimingProfiler: Shutdown
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module TraceServices (699)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (696)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (694)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module InputBindingEditor (692)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module MergeActors (690)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (688)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module LocalizationService (687)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module HardwareTargeting (684)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (682)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module UndoHistory (680)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module XmlParser (678)
+[2021.07.02-14.22.15:411][209]LogModuleManager: Shutting down and abandoning module Blutility (676)
+[2021.07.02-14.22.15:412][209]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (674)
+[2021.07.02-14.22.15:412][209]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (673)
+[2021.07.02-14.22.15:412][209]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (670)
+[2021.07.02-14.22.15:412][209]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (669)
+[2021.07.02-14.22.15:412][209]LogModuleManager: Shutting down and abandoning module SettingsEditor (666)
+[2021.07.02-14.22.15:412][209]LogModuleManager: Shutting down and abandoning module ProjectLauncher (664)
+[2021.07.02-14.22.15:412][209]LogModuleManager: Shutting down and abandoning module SessionFrontend (662)
+[2021.07.02-14.22.15:412][209]LogModuleManager: Shutting down and abandoning module ProfilerClient (660)
+[2021.07.02-14.22.15:412][209]LogModuleManager: Shutting down and abandoning module DeviceManager (658)
+[2021.07.02-14.22.15:412][209]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (657)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module AutomationController (654)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module AutomationWindow (652)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module Layers (650)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (648)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module DetailCustomizations (646)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module PackagesDialog (644)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (642)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module Persona (640)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (639)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module AnimGraph (637)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module Kismet (634)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module KismetWidgets (633)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module GraphEditor (630)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module StructViewer (628)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module ClassViewer (626)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module Toolbox (624)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module ModuleUI (622)
+[2021.07.02-14.22.15:443][209]LogModuleManager: Shutting down and abandoning module OutputLog (620)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module GammaUI (618)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module Documentation (616)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module LiveCoding (614)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module LevelSequence (612)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (610)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module MovieScene (608)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (606)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module LauncherPlatform (604)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module AnalyticsET (602)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module PortalServices (600)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module PortalRpc (598)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module MessagingRpc (596)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (594)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module AudioMixerCore (593)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module AIModule (590)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module GameplayDebugger (589)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module AITestSuite (587)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module NavigationSystem (585)
+[2021.07.02-14.22.15:444][209]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (582)
+[2021.07.02-14.22.15:448][209]LogModuleManager: Shutting down and abandoning module ProfilerService (580)
+[2021.07.02-14.22.15:625][209]LogModuleManager: Shutting down and abandoning module TaskGraph (578)
+[2021.07.02-14.22.15:625][209]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (576)
+[2021.07.02-14.22.15:625][209]LogModuleManager: Shutting down and abandoning module MegascansPlugin (574)
+[2021.07.02-14.22.15:625][209]LogModuleManager: Shutting down and abandoning module OculusEditor (572)
+[2021.07.02-14.22.15:625][209]LogModuleManager: Shutting down and abandoning module OculusInput (570)
+[2021.07.02-14.22.15:625][209]LogModuleManager: Shutting down and abandoning module SQLiteSupport (568)
+[2021.07.02-14.22.15:625][209]LogModuleManager: Shutting down and abandoning module DatabaseSupport (566)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (564)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (562)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (560)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module CollectionManager (559)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (556)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (554)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (552)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (550)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module UObjectPlugin (548)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (546)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (544)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (542)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module PluginUtils (540)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (538)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (536)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module GitSourceControl (534)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module SourceControl (533)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module SynthesisEditor (530)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module Synthesis (528)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (526)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (524)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module ScreenshotTools (520)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module GooglePAD (518)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module EditableMesh (516)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (514)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module CableComponent (512)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module AudioCapture (510)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (509)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module AssetTags (506)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (504)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (502)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module AppleImageUtils (500)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module AndroidPermission (498)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (496)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (494)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module TemplateSequence (492)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (490)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (488)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module MediaCompositing (486)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module ImgMedia (484)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (482)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (480)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (478)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (476)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (474)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module MotoSynth (472)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module MeshConversion (470)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module DynamicMesh (468)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (466)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module GeometricObjects (464)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (462)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (461)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (458)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (456)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (454)
+[2021.07.02-14.22.15:626][209]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (452)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (450)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module ChaosNiagara (448)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (446)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module FractureEditor (444)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (443)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module BackChannel (440)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (438)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module AutomationUtils (436)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module AlembicImporter (434)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module AlembicLibrary (433)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module GeometryCache (432)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (431)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (426)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (424)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (422)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module PluginBrowser (420)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (418)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (416)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module CurveEditorTools (414)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (412)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module CryptoKeys (410)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (408)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (406)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (404)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module Paper2DEditor (402)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (400)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (398)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module SQLiteCore (396)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (394)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module SignificanceManager (392)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module SoundFields (390)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (388)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (386)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (384)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (380)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (378)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (376)
+[2021.07.02-14.22.15:627][209]LogModuleManager: Shutting down and abandoning module UdpMessaging (374)
+[2021.07.02-14.22.15:727][209]LogModuleManager: Shutting down and abandoning module TcpMessaging (372)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module ActorSequence (370)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (368)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (366)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (364)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (362)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (360)
+[2021.07.02-14.22.15:828][209]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (358)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (356)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (354)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (352)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module MagicLeapController (350)
+[2021.07.02-14.22.15:828][209]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (348)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module MagicLeapAR (346)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module AugmentedReality (345)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (342)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module Niagara (340)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module SignalProcessing (339)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module NiagaraEditor (337)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module NiagaraCore (334)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (332)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module AnimationSharing (330)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (328)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (326)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module FacialAnimation (324)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module DataValidation (322)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (320)
+[2021.07.02-14.22.15:828][209]LogModuleManager: Shutting down and abandoning module LevelEditor (319)
+[2021.07.02-14.22.15:829][209]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (318)
+[2021.07.02-14.22.15:829][209]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (316)
+[2021.07.02-14.22.15:829][209]LogModuleManager: Shutting down and abandoning module MainFrame (314)
+[2021.07.02-14.22.15:829][209]LogModuleManager: Shutting down and abandoning module HotReload (313)
+[2021.07.02-14.22.15:829][209]LogModuleManager: Shutting down and abandoning module ToolMenus (309)
+[2021.07.02-14.22.15:829][209]LogModuleManager: Shutting down and abandoning module ContentBrowser (307)
+[2021.07.02-14.22.15:829][209]LogModuleManager: Shutting down and abandoning module ContentBrowserData (306)
+[2021.07.02-14.22.15:829][209]LogModuleManager: Shutting down and abandoning module TreeMap (303)
+[2021.07.02-14.22.15:829][209]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (300)
+[2021.07.02-14.22.15:829][209]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (298)
+[2021.07.02-14.22.15:829][209]LogModuleManager: Shutting down and abandoning module Paper2D (296)
+[2021.07.02-14.22.15:829][209]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (294)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (292)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (290)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module PacketHandler (288)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (286)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (284)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module MediaAssets (282)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module Overlay (280)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module OverlayEditor (279)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module VREditor (276)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module StringTableEditor (274)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (272)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (270)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module FunctionalTesting (268)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (266)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (265)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module UMG (262)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module UMGEditor (261)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module MessageLog (259)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module SlateReflector (254)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module Slate (252)
+[2021.07.02-14.22.15:830][209]LogModuleManager: Shutting down and abandoning module SlateCore (250)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (248)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module UnrealEd (246)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module MRMesh (244)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (242)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (240)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module XAudio2 (238)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module Networking (236)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module Core (234)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module MaterialEditor (232)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module MovieSceneTools (230)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module CurveEditor (229)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module Sequencer (227)
+[2021.07.02-14.22.15:831][209]LogModuleManager: Shutting down and abandoning module EditorStyle (226)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module KismetCompiler (222)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module MeshBuilder (220)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module MeshUtilities (218)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (217)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (216)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (215)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (213)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (211)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (209)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module MaterialBaking (205)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (200)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (195)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (193)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (187)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (185)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (183)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (181)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (179)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (177)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (175)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module ImageWrapper (174)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (171)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (169)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (167)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (165)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (163)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (161)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (159)
+[2021.07.02-14.22.15:832][209]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (157)
+[2021.07.02-14.22.15:833][209]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (155)
+[2021.07.02-14.22.15:833][209]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (153)
+[2021.07.02-14.22.15:833][209]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (151)
+[2021.07.02-14.22.15:833][209]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (149)
+[2021.07.02-14.22.15:833][209]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (147)
+[2021.07.02-14.22.15:833][209]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (145)
+[2021.07.02-14.22.15:833][209]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (143)
+[2021.07.02-14.22.15:833][209]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (141)
+[2021.07.02-14.22.15:834][209]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (139)
+[2021.07.02-14.22.15:834][209]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (137)
+[2021.07.02-14.22.15:834][209]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (135)
+[2021.07.02-14.22.15:834][209]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (133)
+[2021.07.02-14.22.15:834][209]LogModuleManager: Shutting down and abandoning module Messaging (131)
+[2021.07.02-14.22.15:834][209]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (129)
+[2021.07.02-14.22.15:834][209]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (127)
+[2021.07.02-14.22.15:836][209]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (125)
+[2021.07.02-14.22.15:836][209]LogModuleManager: Shutting down and abandoning module InputCore (122)
+[2021.07.02-14.22.15:836][209]LogModuleManager: Shutting down and abandoning module Settings (120)
+[2021.07.02-14.22.15:836][209]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (118)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module PhysXCooking (116)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module Chaos (114)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (112)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (111)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module AVEncoder (110)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (106)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module SteamVRInput (104)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module SteamVR (102)
+[2021.07.02-14.22.15:837][209]LogHMD: Freeing OpenVRDLLHandle.
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module OculusHMD (100)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module VariantManagerContent (98)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module DatasmithContent (96)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (94)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module ChunkDownloader (92)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (88)
+[2021.07.02-14.22.15:837][209]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (84)
+[2021.07.02-14.22.15:838][209]LogModuleManager: Shutting down and abandoning module XMPP (79)
+[2021.07.02-14.22.15:838][209]LogModuleManager: Shutting down and abandoning module WebSockets (78)
+[2021.07.02-14.22.15:847][209]LogModuleManager: Shutting down and abandoning module HTTP (75)
+[2021.07.02-14.22.15:848][209]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.07.02-14.22.15:848][209]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE9207BE0-4A13-EC38-5FEC-5F8F5CD1F599%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=2a35130e471930db6f4aab9ded3b49e7%7C0d241fe30ffb4d32812dad78a8dc5714%7Cd2b89852-2456-411e-bbc4-1dc4e413e7a1&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.07.02-14.22.15:848][209]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.07.02-14.22.15:880][209]LogModuleManager: Shutting down and abandoning module SSL (74)
+[2021.07.02-14.22.15:881][209]LogModuleManager: Shutting down and abandoning module MLSDK (70)
+[2021.07.02-14.22.15:881][209]LogModuleManager: Shutting down and abandoning module WmfMedia (68)
+[2021.07.02-14.22.15:882][209]LogModuleManager: Shutting down and abandoning module Media (67)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module MediaInfo (66)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (62)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module AISupportModule (52)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module DesktopPlatform (50)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (48)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.07.02-14.22.15:883][209]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.07.02-14.22.15:884][209]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.07.02-14.22.15:884][209]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.07.02-14.22.15:884][209]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.07.02-14.22.15:884][209]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.07.02-14.22.15:884][209]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.07.02-14.22.15:884][209]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.07.02-14.22.15:884][209]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.07.02-14.22.15:884][209]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.07.02-14.22.15:884][209]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.07.02-14.22.15:884][209]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.07.02-14.22.15:884][209]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.07.02-14.22.15:884][209]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.07.02-14.22.15:884][209]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.07.02-14.22.15:889][209]LogD3D11RHI: Shutdown
+[2021.07.02-14.22.15:889][209]LogD3D11RHI: CleanupD3DDevice
+[2021.07.02-14.22.15:908][209]LogExit: Exiting.
+[2021.07.02-14.22.15:918][209]Log file closed, 07/02/21 16:22:15
