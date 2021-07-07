@@ -1570,3 +1570,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.07-10.09.26:685][607]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MAT_TerrainPaint_013C8336644E989686134C0DBA968E5ECA.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Landscape_Materails/Landscape_painting/MAT_TerrainPaint_01.uasset'
 [2021.07.07-10.09.26:698][607]AssetCheck: New page: Asset Save: MAT_TerrainPaint_01
 [2021.07.07-10.09.26:698][607]LogContentValidation: Display: Validating Material /Game/Assets/Landscape_Materails/Landscape_painting/MAT_TerrainPaint_01.MAT_TerrainPaint_01
+[2021.07.07-10.10.19:614][448]LogContentBrowser: Attempting asset rename: Test_MSH_Cedrus_05 -> Test_MSH_Cedrus_05
+[2021.07.07-10.10.20:576][485]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Props/Trees/Test_MSH_Cedrus_05.Test_MSH_Cedrus_05
+[2021.07.07-10.10.22:908][552]LogSlate: Window 'Test_MSH_Cedrus_05' being destroyed
+[2021.07.07-10.10.22:947][552]LogSlate: Window 'Test_MSH_Cedrus_05' being destroyed
+[2021.07.07-10.10.22:984][552]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-10.10.22:984][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-10.10.27:494][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.07.07-10.10.29:982][779]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.07-10.10.36:839][118]LogContentBrowser: Attempting asset rename: Test_MSH_Cedrus_05 -> Test_MSH_Cedrus_05
+[2021.07.07-10.10.50:615][791]LogContentBrowser: Attempting asset rename: Test_MSH_Cedrus_05 -> Test_MSH_Cedrus_03
+[2021.07.07-10.10.50:667][791]LogMetaData: Removing '/Game/Assets/Props/Trees/Test_MSH_Cedrus_03.Test_MSH_Cedrus_03' ref from Metadata '/Game/Assets/Props/Trees/Test_MSH_Cedrus_05.PackageMetaData'
+[2021.07.07-10.10.50:741][791]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Test_MSH_Cedrus_03C0DF239F481BAD5420B329813FDE40BD.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Test_MSH_Cedrus_03.uasset'
+[2021.07.07-10.10.50:743][791]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Test_MSH_Cedrus_054C7D3E2E40AF30F4624EFDAF52A8D0F9.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Test_MSH_Cedrus_05.uasset'
+[2021.07.07-10.10.50:855][791]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.07-10.10.50:855][791]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Trees/Test_MSH_Cedrus_03.Test_MSH_Cedrus_03
+[2021.07.07-10.10.50:855][791]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Props/Trees/Test_MSH_Cedrus_05.Test_MSH_Cedrus_05
