@@ -1188,3 +1188,327 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.07-12.14.50:206][219]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.07-12.14.50:206][219]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Trees/Test_MSH_Cedrus_03.Test_MSH_Cedrus_03
 [2021.07.07-12.14.50:206][219]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Trees/Test_MSH_Cedrus_04.Test_MSH_Cedrus_04
+[2021.07.07-12.17.47:521][809]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Props/Trees/Test_MSH_Cedrus_04.Test_MSH_Cedrus_04
+[2021.07.07-12.17.59:848][249]LogSlate: Window 'Test_MSH_Cedrus_04' being destroyed
+[2021.07.07-12.17.59:888][249]LogSlate: Window 'Test_MSH_Cedrus_04' being destroyed
+[2021.07.07-12.17.59:893][249]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-12.17.59:893][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-12.18.02:450][390]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-12.18.02:457][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.07-12.18.02:457][390]PIE: New page: PIE session: EmelieTestMap2 (7 juli 2021 16:18:02)
+[2021.07.07-12.18.02:480][390]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EmelieTestMap2
+[2021.07.07-12.18.02:584][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103666s)
+[2021.07.07-12.18.02:585][390]LogAIModule: Creating AISystem for world EmelieTestMap2
+[2021.07.07-12.18.02:585][390]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2021.07.07-12.18.02:586][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EmelieTestMap2.EmelieTestMap2 to /Game/Maps/UEDPIE_0_EmelieTestMap2.EmelieTestMap2 (0.105158s)
+[2021.07.07-12.18.02:595][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.07.07-12.18.02:596][390]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.07.07-12.18.02:596][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-12.18.02:596][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-12.18.02:596][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-12.18.02:596][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-12.18.02:596][390]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-12.18.02:596][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-12.18.02:596][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-12.18.02:596][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-12.18.02:597][390]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-12.18.02:597][390]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-12.18.02:606][390]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-12.18.02:606][390]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-12.18.02:606][390]LogAudioMixer: Display: 2: BackLeft
+[2021.07.07-12.18.02:606][390]LogAudioMixer: Display: 3: BackRight
+[2021.07.07-12.18.02:615][390]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.07.07-12.18.02:615][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-12.18.02:616][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-12.18.02:616][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-12.18.02:616][390]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-12.18.02:616][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-12.18.02:616][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=4, Samples=4096
+[2021.07.07-12.18.02:633][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-12.18.02:634][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-12.18.02:634][390]LogInit: FAudioDevice initialized.
+[2021.07.07-12.18.02:634][390]LogAudio: Display: Audio Device (ID: 4) registered with world 'EmelieTestMap2'.
+[2021.07.07-12.18.02:644][390]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.07-12.18.02:657][390]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EmelieTestMap2.EmelieTestMap2 up for play (max tick rate 0) at 2021.07.07-14.18.02
+[2021.07.07-12.18.02:657][390]LogWorld: Bringing up level for play took: 0.011915
+[2021.07.07-12.18.02:657][390]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.07.07-12.18.02:662][390]PIE: Server logged in
+[2021.07.07-12.18.02:663][390]PIE: Play in editor total start time 0,206 seconds.
+[2021.07.07-12.19.00:511][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-12.19.00:511][816]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EmelieTestMap2
+[2021.07.07-12.19.00:512][816]LogWorld: UWorld::CleanupWorld for EmelieTestMap2, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-12.19.00:514][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-12.19.00:545][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.07-12.19.00:552][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-12.19.00:571][816]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.07-12.19.00:571][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-12.19.00:573][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-12.19.00:593][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-12.19.00:597][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.07.07-12.19.00:633][817]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.07.07-12.31.23:636][402]LogEditorFactories: Performing atomic reimport of [D:/NIRAH STUDIOS/Meshes/Cedrus_Tree/FBX/Test_MSH_Cedrus_06.fbx]
+[2021.07.07-12.31.23:669][402]LogFbx: Loading FBX Scene from D:/NIRAH STUDIOS/Meshes/Cedrus_Tree/FBX/Test_MSH_Cedrus_06.fbx
+[2021.07.07-12.31.23:689][402]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.07-12.31.23:723][402]LogFbx: Display: Triangulating static mesh MSH_Cedrus_02
+[2021.07.07-12.31.23:793][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_00 for collision model
+[2021.07.07-12.31.23:794][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_01 for collision model
+[2021.07.07-12.31.23:794][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_02 for collision model
+[2021.07.07-12.31.23:795][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_03 for collision model
+[2021.07.07-12.31.23:796][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_04 for collision model
+[2021.07.07-12.31.23:797][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_05 for collision model
+[2021.07.07-12.31.23:797][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_06 for collision model
+[2021.07.07-12.31.23:798][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_07 for collision model
+[2021.07.07-12.31.23:799][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_08 for collision model
+[2021.07.07-12.31.23:799][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_09 for collision model
+[2021.07.07-12.31.23:800][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_10 for collision model
+[2021.07.07-12.31.23:801][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_11 for collision model
+[2021.07.07-12.31.23:801][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_12 for collision model
+[2021.07.07-12.31.23:802][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_13 for collision model
+[2021.07.07-12.31.23:803][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_14 for collision model
+[2021.07.07-12.31.23:803][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_15 for collision model
+[2021.07.07-12.31.23:804][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_16 for collision model
+[2021.07.07-12.31.23:805][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_17 for collision model
+[2021.07.07-12.31.23:805][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_18 for collision model
+[2021.07.07-12.31.23:806][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_19 for collision model
+[2021.07.07-12.31.23:807][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_20 for collision model
+[2021.07.07-12.31.23:807][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_21 for collision model
+[2021.07.07-12.31.23:808][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_22 for collision model
+[2021.07.07-12.31.23:809][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_23 for collision model
+[2021.07.07-12.31.23:810][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_24 for collision model
+[2021.07.07-12.31.23:810][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_25 for collision model
+[2021.07.07-12.31.23:811][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_26 for collision model
+[2021.07.07-12.31.23:812][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_27 for collision model
+[2021.07.07-12.31.23:813][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_28 for collision model
+[2021.07.07-12.31.23:813][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_29 for collision model
+[2021.07.07-12.31.23:815][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_30 for collision model
+[2021.07.07-12.31.23:816][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_31 for collision model
+[2021.07.07-12.31.23:817][402]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_32 for collision model
+[2021.07.07-12.31.23:857][402]LogStaticMesh: Building static mesh Test_MSH_Cedrus_04...
+[2021.07.07-12.31.23:890][402]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Props/Trees/Test_MSH_Cedrus_04.Test_MSH_Cedrus_04
+[2021.07.07-12.31.23:900][402]LogEditorFactories: -- imported successfully
+[2021.07.07-12.31.23:905][402]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.07.07-12.31.29:890][706]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-12.31.29:898][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.07-12.31.29:899][706]PIE: New page: PIE session: EmelieTestMap2 (7 juli 2021 16:31:29)
+[2021.07.07-12.31.29:899][706]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EmelieTestMap2
+[2021.07.07-12.31.30:002][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102979s)
+[2021.07.07-12.31.30:003][706]LogAIModule: Creating AISystem for world EmelieTestMap2
+[2021.07.07-12.31.30:003][706]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2021.07.07-12.31.30:004][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EmelieTestMap2.EmelieTestMap2 to /Game/Maps/UEDPIE_0_EmelieTestMap2.EmelieTestMap2 (0.104566s)
+[2021.07.07-12.31.30:011][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.07.07-12.31.30:012][706]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.07.07-12.31.30:012][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-12.31.30:012][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-12.31.30:012][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-12.31.30:012][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-12.31.30:013][706]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-12.31.30:013][706]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-12.31.30:013][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-12.31.30:013][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-12.31.30:013][706]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-12.31.30:013][706]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-12.31.30:022][706]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-12.31.30:022][706]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-12.31.30:022][706]LogAudioMixer: Display: 2: BackLeft
+[2021.07.07-12.31.30:022][706]LogAudioMixer: Display: 3: BackRight
+[2021.07.07-12.31.30:031][706]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.07.07-12.31.30:032][706]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-12.31.30:032][706]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-12.31.30:032][706]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-12.31.30:032][706]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-12.31.30:032][706]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-12.31.30:032][706]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=4, Samples=4096
+[2021.07.07-12.31.30:050][706]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-12.31.30:050][706]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-12.31.30:050][706]LogInit: FAudioDevice initialized.
+[2021.07.07-12.31.30:050][706]LogAudio: Display: Audio Device (ID: 5) registered with world 'EmelieTestMap2'.
+[2021.07.07-12.31.30:057][706]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.07-12.31.30:070][706]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EmelieTestMap2.EmelieTestMap2 up for play (max tick rate 0) at 2021.07.07-14.31.30
+[2021.07.07-12.31.30:071][706]LogWorld: Bringing up level for play took: 0.012688
+[2021.07.07-12.31.30:071][706]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.07.07-12.31.30:075][706]PIE: Server logged in
+[2021.07.07-12.31.30:077][706]PIE: Play in editor total start time 0,179 seconds.
+[2021.07.07-12.32.47:512][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-12.32.47:512][164]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EmelieTestMap2
+[2021.07.07-12.32.47:513][164]LogWorld: UWorld::CleanupWorld for EmelieTestMap2, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-12.32.47:515][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-12.32.47:522][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.07-12.32.47:525][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-12.32.47:533][164]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.07-12.32.47:534][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-12.32.47:535][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-12.32.47:554][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-12.32.47:558][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.07.07-12.32.47:593][165]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.07.07-12.33.15:763][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.07.07-12.33.16:108][470]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/EmelieTestMap2_Auto120983F5240C8BC19E7A62CB9DD929B9D.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Maps/EmelieTestMap2_Auto1.umap'
+[2021.07.07-12.33.16:111][470]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/EmelieTestMap2' took 0.356
+[2021.07.07-12.33.16:111][470]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.356
+[2021.07.07-12.33.16:111][470]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Props/Trees/Test_MSH_Cedrus_04] ([1] browsable assets)...
+[2021.07.07-12.33.16:137][470]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Props/Trees/Test_MSH_Cedrus_04.Test_MSH_Cedrus_04]
+[2021.07.07-12.33.16:137][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Props/Trees/Test_MSH_Cedrus_04]
+[2021.07.07-12.33.16:152][470]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Test_MSH_Cedrus_04_Auto1FAB988CD46E551D21D57AEBEDF460813.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/Props/Trees/Test_MSH_Cedrus_04_Auto1.uasset'
+[2021.07.07-12.33.16:153][470]LogFileHelpers: Auto-saving content packages took 0.042
+[2021.07.07-12.40.03:079][ 32]LogEditorFactories: Performing atomic reimport of [D:/NIRAH STUDIOS/Meshes/Cedrus_Tree/FBX/Test_MSH_Cedrus_06.fbx]
+[2021.07.07-12.40.03:122][ 32]LogFbx: Loading FBX Scene from D:/NIRAH STUDIOS/Meshes/Cedrus_Tree/FBX/Test_MSH_Cedrus_06.fbx
+[2021.07.07-12.40.03:141][ 32]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.07-12.40.03:174][ 32]LogFbx: Display: Triangulating static mesh MSH_Cedrus_02
+[2021.07.07-12.40.03:245][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_00 for collision model
+[2021.07.07-12.40.03:246][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_01 for collision model
+[2021.07.07-12.40.03:247][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_02 for collision model
+[2021.07.07-12.40.03:248][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_03 for collision model
+[2021.07.07-12.40.03:248][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_04 for collision model
+[2021.07.07-12.40.03:249][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_05 for collision model
+[2021.07.07-12.40.03:250][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_06 for collision model
+[2021.07.07-12.40.03:251][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_07 for collision model
+[2021.07.07-12.40.03:251][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_08 for collision model
+[2021.07.07-12.40.03:252][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_09 for collision model
+[2021.07.07-12.40.03:253][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_10 for collision model
+[2021.07.07-12.40.03:253][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_11 for collision model
+[2021.07.07-12.40.03:254][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_12 for collision model
+[2021.07.07-12.40.03:255][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_13 for collision model
+[2021.07.07-12.40.03:255][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_14 for collision model
+[2021.07.07-12.40.03:256][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_15 for collision model
+[2021.07.07-12.40.03:257][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_16 for collision model
+[2021.07.07-12.40.03:257][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_17 for collision model
+[2021.07.07-12.40.03:258][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_18 for collision model
+[2021.07.07-12.40.03:259][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_19 for collision model
+[2021.07.07-12.40.03:259][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_20 for collision model
+[2021.07.07-12.40.03:260][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_21 for collision model
+[2021.07.07-12.40.03:261][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_22 for collision model
+[2021.07.07-12.40.03:262][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_23 for collision model
+[2021.07.07-12.40.03:262][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_24 for collision model
+[2021.07.07-12.40.03:263][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_25 for collision model
+[2021.07.07-12.40.03:264][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_26 for collision model
+[2021.07.07-12.40.03:264][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_27 for collision model
+[2021.07.07-12.40.03:265][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_28 for collision model
+[2021.07.07-12.40.03:266][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_29 for collision model
+[2021.07.07-12.40.03:267][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_30 for collision model
+[2021.07.07-12.40.03:268][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_31 for collision model
+[2021.07.07-12.40.03:269][ 32]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_32 for collision model
+[2021.07.07-12.40.03:308][ 32]LogStaticMesh: Building static mesh Test_MSH_Cedrus_04...
+[2021.07.07-12.40.03:341][ 32]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Props/Trees/Test_MSH_Cedrus_04.Test_MSH_Cedrus_04
+[2021.07.07-12.40.03:352][ 32]LogEditorFactories: -- imported successfully
+[2021.07.07-12.40.03:357][ 32]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.07.07-12.40.05:365][120]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Props/Trees/Test_MSH_Cedrus_04.Test_MSH_Cedrus_04
+[2021.07.07-12.43.16:471][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.07.07-12.43.16:842][577]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/EmelieTestMap2_Auto2007385F2493F48441C333A921D969E42.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Maps/EmelieTestMap2_Auto2.umap'
+[2021.07.07-12.43.16:845][577]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/EmelieTestMap2' took 0.382
+[2021.07.07-12.43.16:845][577]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.382
+[2021.07.07-12.43.16:845][577]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Props/Trees/Test_MSH_Cedrus_04] ([1] browsable assets)...
+[2021.07.07-12.43.16:870][577]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Props/Trees/Test_MSH_Cedrus_04.Test_MSH_Cedrus_04]
+[2021.07.07-12.43.16:870][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Props/Trees/Test_MSH_Cedrus_04]
+[2021.07.07-12.43.16:886][577]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Test_MSH_Cedrus_04_Auto20A7AD1144F01047A18873A936E9D0BD2.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/Props/Trees/Test_MSH_Cedrus_04_Auto2.uasset'
+[2021.07.07-12.43.16:886][577]LogFileHelpers: Auto-saving content packages took 0.041
+[2021.07.07-12.46.55:538][264]LogSlate: Window 'Test_MSH_Cedrus_04' being destroyed
+[2021.07.07-12.46.55:590][264]LogSlate: Window 'Test_MSH_Cedrus_04' being destroyed
+[2021.07.07-12.46.55:595][264]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-12.46.55:595][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-12.46.59:885][483]LogEditorFactories: Performing atomic reimport of [D:/NIRAH STUDIOS/Meshes/Cedrus_Tree/FBX/Test_MSH_Cedrus_06.fbx]
+[2021.07.07-12.46.59:921][483]LogFbx: Loading FBX Scene from D:/NIRAH STUDIOS/Meshes/Cedrus_Tree/FBX/Test_MSH_Cedrus_06.fbx
+[2021.07.07-12.46.59:940][483]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.07-12.46.59:974][483]LogFbx: Display: Triangulating static mesh MSH_Cedrus_02
+[2021.07.07-12.47.00:045][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_00 for collision model
+[2021.07.07-12.47.00:046][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_01 for collision model
+[2021.07.07-12.47.00:047][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_02 for collision model
+[2021.07.07-12.47.00:047][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_03 for collision model
+[2021.07.07-12.47.00:048][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_04 for collision model
+[2021.07.07-12.47.00:049][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_05 for collision model
+[2021.07.07-12.47.00:049][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_06 for collision model
+[2021.07.07-12.47.00:050][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_07 for collision model
+[2021.07.07-12.47.00:051][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_08 for collision model
+[2021.07.07-12.47.00:051][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_09 for collision model
+[2021.07.07-12.47.00:052][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_10 for collision model
+[2021.07.07-12.47.00:053][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_11 for collision model
+[2021.07.07-12.47.00:053][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_12 for collision model
+[2021.07.07-12.47.00:054][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_13 for collision model
+[2021.07.07-12.47.00:055][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_14 for collision model
+[2021.07.07-12.47.00:056][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_15 for collision model
+[2021.07.07-12.47.00:056][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_16 for collision model
+[2021.07.07-12.47.00:057][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_17 for collision model
+[2021.07.07-12.47.00:058][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_18 for collision model
+[2021.07.07-12.47.00:058][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_19 for collision model
+[2021.07.07-12.47.00:059][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_20 for collision model
+[2021.07.07-12.47.00:060][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_21 for collision model
+[2021.07.07-12.47.00:060][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_22 for collision model
+[2021.07.07-12.47.00:061][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_23 for collision model
+[2021.07.07-12.47.00:062][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_24 for collision model
+[2021.07.07-12.47.00:062][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_25 for collision model
+[2021.07.07-12.47.00:063][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_26 for collision model
+[2021.07.07-12.47.00:064][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_27 for collision model
+[2021.07.07-12.47.00:065][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_28 for collision model
+[2021.07.07-12.47.00:066][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_29 for collision model
+[2021.07.07-12.47.00:067][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_30 for collision model
+[2021.07.07-12.47.00:068][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_31 for collision model
+[2021.07.07-12.47.00:069][483]LogFbx: Display: Triangulating mesh UCX_MSH_Cedrus_02_32 for collision model
+[2021.07.07-12.47.00:107][483]LogStaticMesh: Building static mesh Test_MSH_Cedrus_04...
+[2021.07.07-12.47.00:139][483]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Props/Trees/Test_MSH_Cedrus_04.Test_MSH_Cedrus_04
+[2021.07.07-12.47.00:150][483]LogEditorFactories: -- imported successfully
+[2021.07.07-12.47.00:154][483]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.07.07-12.47.02:646][603]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Props/Trees/Test_MSH_Cedrus_04.Test_MSH_Cedrus_04
+[2021.07.07-12.47.54:073][525]LogSlate: Window 'Test_MSH_Cedrus_04' being destroyed
+[2021.07.07-12.47.54:116][525]LogSlate: Window 'Test_MSH_Cedrus_04' being destroyed
+[2021.07.07-12.47.54:121][525]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-12.47.54:121][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-12.47.56:499][663]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-12.47.56:507][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.07-12.47.56:507][663]PIE: New page: PIE session: EmelieTestMap2 (7 juli 2021 16:47:56)
+[2021.07.07-12.47.56:507][663]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EmelieTestMap2
+[2021.07.07-12.47.56:611][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105072s)
+[2021.07.07-12.47.56:612][663]LogAIModule: Creating AISystem for world EmelieTestMap2
+[2021.07.07-12.47.56:613][663]LogPlayLevel: PIE: World Init took: (0.001377s)
+[2021.07.07-12.47.56:613][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EmelieTestMap2.EmelieTestMap2 to /Game/Maps/UEDPIE_0_EmelieTestMap2.EmelieTestMap2 (0.106662s)
+[2021.07.07-12.47.56:623][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.07.07-12.47.56:627][663]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.07.07-12.47.56:627][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-12.47.56:627][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-12.47.56:627][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-12.47.56:627][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-12.47.56:627][663]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-12.47.56:627][663]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-12.47.56:627][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-12.47.56:627][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-12.47.56:628][663]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-12.47.56:628][663]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-12.47.56:637][663]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-12.47.56:637][663]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-12.47.56:637][663]LogAudioMixer: Display: 2: BackLeft
+[2021.07.07-12.47.56:637][663]LogAudioMixer: Display: 3: BackRight
+[2021.07.07-12.47.56:646][663]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.07.07-12.47.56:647][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-12.47.56:647][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-12.47.56:647][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-12.47.56:647][663]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-12.47.56:647][663]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-12.47.56:647][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=4, Samples=4096
+[2021.07.07-12.47.56:665][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-12.47.56:665][663]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-12.47.56:665][663]LogInit: FAudioDevice initialized.
+[2021.07.07-12.47.56:665][663]LogAudio: Display: Audio Device (ID: 6) registered with world 'EmelieTestMap2'.
+[2021.07.07-12.47.56:676][663]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.07-12.47.56:689][663]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EmelieTestMap2.EmelieTestMap2 up for play (max tick rate 0) at 2021.07.07-14.47.56
+[2021.07.07-12.47.56:690][663]LogWorld: Bringing up level for play took: 0.012450
+[2021.07.07-12.47.56:690][663]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.07.07-12.47.56:694][663]PIE: Server logged in
+[2021.07.07-12.47.56:695][663]PIE: Play in editor total start time 0,191 seconds.
+[2021.07.07-12.49.18:522][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-12.49.18:522][222]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EmelieTestMap2
+[2021.07.07-12.49.18:523][222]LogWorld: UWorld::CleanupWorld for EmelieTestMap2, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-12.49.18:525][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-12.49.18:538][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.07-12.49.18:540][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-12.49.18:549][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.07-12.49.18:549][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-12.49.18:550][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-12.49.18:569][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-12.49.18:574][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.07.07-12.49.18:608][223]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.07.07-12.49.24:774][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.07-12.49.26:444][362]LogSlate: Window 'Save Content' being destroyed
+[2021.07.07-12.49.26:489][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.07-12.49.26:843][362]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/EmelieTestMap27E4E547244F2200D2B7FE3BCDA058EA3.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/EmelieTestMap2.umap'
+[2021.07.07-12.49.26:853][362]LogFileHelpers: Saving map 'EmelieTestMap2' took 0.370
+[2021.07.07-12.49.26:883][362]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Test_MSH_Cedrus_04E0A54FF44A9332B728C8208551627A1C.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Test_MSH_Cedrus_04.uasset'
+[2021.07.07-12.49.26:898][362]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.07-12.49.26:898][362]LogContentValidation: Display: Validating World /Game/Maps/EmelieTestMap2.EmelieTestMap2
+[2021.07.07-12.49.26:898][362]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Trees/Test_MSH_Cedrus_04.Test_MSH_Cedrus_04
