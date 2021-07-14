@@ -1784,3 +1784,152 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.07.14-08.12.17:900][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BP_Cedrus_9)
 [2021.07.14-08.12.19:482][ 27]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2021.07.14-08.12.29:314][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Tree_Done_3)
+[2021.07.14-08.16.41:290][154]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.14-08.16.41:302][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.14-08.16.41:302][154]PIE: New page: PIE session: RagnarTestMap (14 juli 2021 12:16:41)
+[2021.07.14-08.16.41:302][154]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RagnarTestMap
+[2021.07.14-08.16.41:344][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041780s)
+[2021.07.14-08.16.41:345][154]LogAIModule: Creating AISystem for world RagnarTestMap
+[2021.07.14-08.16.41:345][154]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2021.07.14-08.16.41:345][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RagnarTestMap.RagnarTestMap to /Game/Maps/UEDPIE_0_RagnarTestMap.RagnarTestMap (0.043362s)
+[2021.07.14-08.16.41:352][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.07.14-08.16.41:356][154]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.07.14-08.16.41:356][154]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.14-08.16.41:356][154]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.14-08.16.41:356][154]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.14-08.16.41:356][154]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.14-08.16.41:356][154]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.14-08.16.41:356][154]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.14-08.16.41:356][154]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.14-08.16.41:356][154]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.14-08.16.41:357][154]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.14-08.16.41:357][154]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.14-08.16.41:367][154]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.14-08.16.41:367][154]LogAudioMixer: Display: 1: FrontRight
+[2021.07.14-08.16.41:367][154]LogAudioMixer: Display: 2: BackLeft
+[2021.07.14-08.16.41:367][154]LogAudioMixer: Display: 3: BackRight
+[2021.07.14-08.16.41:376][154]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.07.14-08.16.41:376][154]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.14-08.16.41:376][154]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.14-08.16.41:376][154]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.14-08.16.41:377][154]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.14-08.16.41:377][154]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.14-08.16.41:377][154]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=4, Samples=4096
+[2021.07.14-08.16.41:395][154]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.14-08.16.41:395][154]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.14-08.16.41:395][154]LogInit: FAudioDevice initialized.
+[2021.07.14-08.16.41:395][154]LogAudio: Display: Audio Device (ID: 13) registered with world 'RagnarTestMap'.
+[2021.07.14-08.16.41:402][154]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.14-08.16.41:407][154]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RagnarTestMap.RagnarTestMap up for play (max tick rate 0) at 2021.07.14-10.16.41
+[2021.07.14-08.16.41:408][154]LogWorld: Bringing up level for play took: 0.004251
+[2021.07.14-08.16.41:408][154]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.07.14-08.16.41:428][154]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=87361.719 Y=-57537.148 Z=-45995.434] for [ThirdPersonCharacter_C]
+[2021.07.14-08.16.41:428][154]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw -1.304016 Roll 0.000000
+Translation: 87361.718750 -57537.148438 -45995.433594
+Scale3D: 1.000000 1.000000 1.000000
+
+[2021.07.14-08.16.41:543][154]PIE: Server logged in
+[2021.07.14-08.16.41:544][154]PIE: Play in editor total start time 0,247 seconds.
+[2021.07.14-08.16.42:472][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.07.14-08.16.44:682][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.14-08.16.44:682][317]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RagnarTestMap
+[2021.07.14-08.16.44:683][317]LogWorld: UWorld::CleanupWorld for RagnarTestMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.14-08.16.44:693][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.14-08.16.44:706][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.14-08.16.44:721][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.14-08.16.44:728][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.14-08.16.44:728][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.14-08.16.44:729][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.14-08.16.44:749][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.14-08.16.44:753][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.07.14-08.16.44:791][318]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.07.14-08.16.44:798][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.07.14-08.16.57:770][ 19]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.14-08.16.59:325][100]Cmd: DELETE
+[2021.07.14-08.16.59:325][100]Cmd: ACTOR DELETE
+[2021.07.14-08.16.59:337][100]LogEditorActor: Deleted Actor: PlayerStart
+[2021.07.14-08.16.59:344][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.14-08.16.59:346][100]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.07.14-08.17.24:259][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.07.14-08.17.24:359][265]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/RagnarTestMap_Auto4DAB0869447D396A7F9DDD9899A381911.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Maps/RagnarTestMap_Auto4.umap'
+[2021.07.14-08.17.24:363][265]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/RagnarTestMap' took 0.112
+[2021.07.14-08.17.24:364][265]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.112
+[2021.07.14-08.17.38:936][825]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.14-08.17.38:949][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.14-08.17.38:949][825]PIE: New page: PIE session: RagnarTestMap (14 juli 2021 12:17:38)
+[2021.07.14-08.17.38:971][825]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RagnarTestMap
+[2021.07.14-08.17.39:013][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042236s)
+[2021.07.14-08.17.39:014][825]LogAIModule: Creating AISystem for world RagnarTestMap
+[2021.07.14-08.17.39:014][825]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2021.07.14-08.17.39:014][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RagnarTestMap.RagnarTestMap to /Game/Maps/UEDPIE_0_RagnarTestMap.RagnarTestMap (0.043798s)
+[2021.07.14-08.17.39:033][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.07.14-08.17.39:035][825]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.07.14-08.17.39:035][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.14-08.17.39:035][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.14-08.17.39:035][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.14-08.17.39:035][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.14-08.17.39:035][825]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.14-08.17.39:035][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.14-08.17.39:035][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.14-08.17.39:035][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.14-08.17.39:035][825]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.14-08.17.39:035][825]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.14-08.17.39:045][825]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.14-08.17.39:045][825]LogAudioMixer: Display: 1: FrontRight
+[2021.07.14-08.17.39:045][825]LogAudioMixer: Display: 2: BackLeft
+[2021.07.14-08.17.39:045][825]LogAudioMixer: Display: 3: BackRight
+[2021.07.14-08.17.39:054][825]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.07.14-08.17.39:055][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.14-08.17.39:055][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.14-08.17.39:055][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.14-08.17.39:055][825]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.14-08.17.39:055][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.14-08.17.39:055][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=4, Samples=4096
+[2021.07.14-08.17.39:074][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.14-08.17.39:074][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.14-08.17.39:074][825]LogInit: FAudioDevice initialized.
+[2021.07.14-08.17.39:074][825]LogAudio: Display: Audio Device (ID: 14) registered with world 'RagnarTestMap'.
+[2021.07.14-08.17.39:081][825]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.14-08.17.39:087][825]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RagnarTestMap.RagnarTestMap up for play (max tick rate 0) at 2021.07.14-10.17.39
+[2021.07.14-08.17.39:136][825]LogWorld: Bringing up level for play took: 0.053706
+[2021.07.14-08.17.39:136][825]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.07.14-08.17.39:254][825]PIE: Server logged in
+[2021.07.14-08.17.39:255][825]PIE: Play in editor total start time 0,312 seconds.
+[2021.07.14-08.17.45:862][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.14-08.17.45:862][277]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RagnarTestMap
+[2021.07.14-08.17.45:864][277]LogWorld: UWorld::CleanupWorld for RagnarTestMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.14-08.17.45:865][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.14-08.17.45:880][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.14-08.17.45:929][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.14-08.17.45:936][277]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.14-08.17.45:937][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.14-08.17.45:938][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.14-08.17.45:957][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.14-08.17.45:964][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.07.14-08.17.46:035][278]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.07.14-08.17.46:042][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.07.14-08.17.47:597][357]Cmd: SELECT NONE
+[2021.07.14-08.17.53:268][693]Cmd: DELETE
+[2021.07.14-08.17.53:268][693]Cmd: ACTOR DELETE
+[2021.07.14-08.17.53:280][693]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2021.07.14-08.17.53:300][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.07.14-08.17.53:301][693]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.07.14-08.17.55:268][824]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.14-08.18.01:970][158]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.14-08.18.22:711][ 26]LogActorFactory: Actor Factory created MSH_Fern_S_01
+[2021.07.14-08.18.24:877][129]LogActorFactory: Actor Factory created MSH_Fern_S_01
+[2021.07.14-08.18.29:038][330]Cmd: DELETE
+[2021.07.14-08.18.29:039][330]Cmd: ACTOR DELETE
+[2021.07.14-08.18.29:051][330]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.14-08.18.29:060][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.07.14-08.18.29:063][330]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.07.14-08.18.30:990][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Fern_S_011)
+[2021.07.14-08.18.34:877][588]Cmd: DELETE
+[2021.07.14-08.18.34:877][588]Cmd: ACTOR DELETE
+[2021.07.14-08.18.34:889][588]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.14-08.18.34:895][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.07.14-08.18.34:896][588]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.07.14-08.18.35:619][612]LogActorFactory: Actor Factory created MSH_Fern_S_01
+[2021.07.14-08.18.36:882][674]LogActorFactory: Actor Factory created MSH_Fern_S_01
+[2021.07.14-08.18.40:519][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Fern_S_01)
+[2021.07.14-08.18.51:375][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Tree_Done_3)
