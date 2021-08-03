@@ -878,3 +878,32 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.08.03-06.45.38:171][180]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_Uproot_N_01.T_Uproot_N_01
 [2021.08.03-06.45.38:171][180]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Trees/MSH_Uproot_01.MSH_Uproot_01
 [2021.08.03-06.45.38:171][180]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2021.08.03-06.46.13:747][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Uproot_01)
+[2021.08.03-06.46.14:616][596]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.03-06.46.15:718][661]LogEditorViewport: Clicking Background
+[2021.08.03-06.49.27:003][542]LogEditorFactories: Performing atomic reimport of [D:/NIRAH STUDIOS/Meshes/Uproot/Textures_rund_01/T_Uproot_A_01.png]
+[2021.08.03-06.49.27:006][542]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/NIRAH STUDIOS/Meshes/Uproot/Textures_rund_01/T_Uproot_A_01.png)
+[2021.08.03-06.49.27:069][542]LogTexture: Display: Building textures: T_Uproot_A_01 (AutoDXT, 1024X1024)
+[2021.08.03-06.49.27:370][542]LogEditorFactories: -- imported successfully
+[2021.08.03-06.49.27:377][542]LogEditorFactories: Performing atomic reimport of [D:/NIRAH STUDIOS/Meshes/Uproot/Textures_rund_01/T_Uproot_AORM_01.png]
+[2021.08.03-06.49.27:378][542]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/NIRAH STUDIOS/Meshes/Uproot/Textures_rund_01/T_Uproot_AORM_01.png)
+[2021.08.03-06.49.27:410][542]LogTexture: Display: Building textures: T_Uproot_AORM_01 (AutoDXT, 1024X1024)
+[2021.08.03-06.49.27:495][542]LogEditorFactories: -- imported successfully
+[2021.08.03-06.49.27:501][542]LogEditorFactories: Performing atomic reimport of [D:/NIRAH STUDIOS/Meshes/Uproot/Textures_rund_01/T_Uproot_N_01.png]
+[2021.08.03-06.49.27:505][542]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/NIRAH STUDIOS/Meshes/Uproot/Textures_rund_01/T_Uproot_N_01.png)
+[2021.08.03-06.49.27:604][542]LogTexture: Display: Building textures: T_Uproot_N_01 (BC5, 1024X1024)
+[2021.08.03-06.49.27:673][542]LogEditorFactories: -- imported successfully
+[2021.08.03-06.49.31:160][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Uproot_01)
+[2021.08.03-06.49.47:794][206]Cmd: TRANSACTION UNDO
+[2021.08.03-06.49.47:794][206]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.03-06.50.04:971][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.08.03-06.50.06:634][207]LogSlate: Window 'Save Content' being destroyed
+[2021.08.03-06.50.06:750][207]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Uproot_A_0198D75F17472F698C658A958A8128EDFE.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_Uproot_A_01.uasset'
+[2021.08.03-06.50.06:790][207]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Uproot_AORM_01A3586BC5495CA05BB57E7ABF98974D30.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_Uproot_AORM_01.uasset'
+[2021.08.03-06.50.06:928][207]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Uproot_N_01BB098BA249863B9AE72B0F811010B7E3.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_Uproot_N_01.uasset'
+[2021.08.03-06.50.06:941][207]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.03-06.50.06:941][207]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_Uproot_A_01.T_Uproot_A_01
+[2021.08.03-06.50.06:941][207]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_Uproot_AORM_01.T_Uproot_AORM_01
+[2021.08.03-06.50.06:941][207]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_Uproot_N_01.T_Uproot_N_01
+[2021.08.03-06.50.27:796][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.03-06.50.28:331][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
