@@ -2089,3 +2089,72 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.08.17-14.04.40:602][127]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MainLevelC98FE58C46B93349705F91BAC8A0D852.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/MainLevel.umap'
 [2021.08.17-14.04.40:626][127]AssetCheck: New page: Asset Save: MainLevel
 [2021.08.17-14.04.40:626][127]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2021.08.17-14.08.52:070][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_01)
+[2021.08.17-14.09.05:017][884]Cmd: TRANSACTION UNDO
+[2021.08.17-14.09.05:017][884]LogEditorTransaction: Undo Move Actors
+[2021.08.17-14.10.22:718][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.17-14.10.32:220][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.17-14.10.41:270][694]Cmd: TRANSACTION UNDO
+[2021.08.17-14.10.41:270][694]LogEditorTransaction: Undo Rotate Actors
+[2021.08.17-14.10.41:562][700]Cmd: TRANSACTION UNDO
+[2021.08.17-14.10.41:562][700]LogEditorTransaction: Undo Rotate Actors
+[2021.08.17-14.10.42:004][721]Cmd: TRANSACTION UNDO
+[2021.08.17-14.10.42:005][721]LogEditorTransaction: Undo Rotate Actors
+[2021.08.17-14.10.42:485][749]Cmd: TRANSACTION UNDO
+[2021.08.17-14.10.42:485][749]LogEditorTransaction: Undo Rotate Actors
+[2021.08.17-14.10.43:381][804]Cmd: TRANSACTION UNDO
+[2021.08.17-14.10.43:381][804]LogEditorTransaction: Undo Rotate Actors
+[2021.08.17-14.10.45:676][941]Cmd: TRANSACTION UNDO
+[2021.08.17-14.10.45:677][941]LogEditorTransaction: Undo Rotate Actors
+[2021.08.17-14.10.50:323][220]LogEditorViewport: Clicking Background
+[2021.08.17-14.14.40:712][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.08.17-14.14.40:721][161]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.019
+[2021.08.17-14.14.40:722][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01] ([2] browsable assets)...
+[2021.08.17-14.14.40:741][161]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01.MI_JuniperBranch_01]
+[2021.08.17-14.14.40:753][161]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01.MI_JuniperBranch_01]
+[2021.08.17-14.14.40:753][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01]
+[2021.08.17-14.14.40:763][161]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_JuniperBranch_01_Auto32F867A5A4A246E2775D813BDD4DC720C.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01_Auto3.uasset'
+[2021.08.17-14.14.40:763][161]LogFileHelpers: Auto-saving content packages took 0.042
+[2021.08.17-14.21.24:964][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.17-14.21.25:658][444]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (MSH_Juniper_02)
+[2021.08.17-14.21.33:875][213]LogEditorFactories: Performing atomic reimport of [D:/NIRAH STUDIOS/Meshes/Juniper_Curved/MSH_Juniper_02.fbx]
+[2021.08.17-14.21.33:934][213]LogFbx: Loading FBX Scene from D:/NIRAH STUDIOS/Meshes/Juniper_Curved/MSH_Juniper_02.fbx
+[2021.08.17-14.21.33:943][213]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.17-14.21.34:041][213]LogFbx: Display: Triangulating static mesh pPlane54
+[2021.08.17-14.21.34:175][213]LogStaticMesh: Building static mesh MSH_Juniper_02...
+[2021.08.17-14.21.34:208][213]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Props/Trees/MSH_Juniper_02.MSH_Juniper_02
+[2021.08.17-14.21.34:258][213]LogEditorFactories: -- imported successfully
+[2021.08.17-14.21.34:262][213]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.17-14.21.38:935][481]Cmd: TRANSACTION UNDO
+[2021.08.17-14.21.38:935][481]LogEditorTransaction: Undo Rotate Actors
+[2021.08.17-14.21.39:210][486]Cmd: TRANSACTION UNDO
+[2021.08.17-14.21.39:210][486]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.17-14.21.41:086][591]Cmd: TRANSACTION UNDO
+[2021.08.17-14.21.41:086][591]LogEditorTransaction: Undo Clicking Background
+[2021.08.17-14.21.45:652][849]LogEditorViewport: Clicking on Actor (LMB): WaterBodyCustom (WaterBodyCustom)
+[2021.08.17-14.21.48:848][ 28]LogEditorViewport: Clicking Background
+[2021.08.17-14.21.53:866][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.17-14.22.12:675][139]LogEditorViewport: Clicking Background
+[2021.08.17-14.22.16:249][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.08.17-14.22.17:577][338]LogSlate: Window 'Save Content' being destroyed
+[2021.08.17-14.22.17:620][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.17-14.22.17:722][338]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MainLevelF62F61274CE1F2E61DCABF98A71F984B.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/MainLevel.umap'
+[2021.08.17-14.22.17:733][338]LogFileHelpers: Saving map 'MainLevel' took 0.121
+[2021.08.17-14.22.17:736][338]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_JuniperBranch_01A5F6221D4AD199C79CF70FAAE164E585.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01.uasset'
+[2021.08.17-14.22.17:761][338]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MSH_Juniper_02F2AA683D413A8620AC64258F0FCEE8EE.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/MSH_Juniper_02.uasset'
+[2021.08.17-14.22.17:831][338]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperBranch_A_01F8755E8D4EFF4DB95A5FA2A05602C7E6.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_JuniperBranch_A_01.uasset'
+[2021.08.17-14.22.17:875][338]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperBranch_AORM_011F10BE26414D54D3293888826358B833.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_JuniperBranch_AORM_01.uasset'
+[2021.08.17-14.22.17:978][338]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperBranch_N_019EE993F14F14ED6BAE56D5B3822AAB31.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_JuniperBranch_N_01.uasset'
+[2021.08.17-14.22.18:043][338]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperHanging_A_019B7A6A8447CBFCA38E748BA8BA877A2A.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_JuniperHanging_A_01.uasset'
+[2021.08.17-14.22.18:088][338]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperHanging_AORM_01041CD17C470F5AC289A3DBAF97F923DC.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_JuniperHanging_AORM_01.uasset'
+[2021.08.17-14.22.18:228][338]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperHanging_N_01C35A066E47F818E37F9BAFADD09DFCE2.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_JuniperHanging_N_01.uasset'
+[2021.08.17-14.22.18:243][338]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.17-14.22.18:243][338]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2021.08.17-14.22.18:243][338]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperBranch_N_01.T_JuniperBranch_N_01
+[2021.08.17-14.22.18:244][338]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperHanging_AORM_01.T_JuniperHanging_AORM_01
+[2021.08.17-14.22.18:244][338]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperHanging_N_01.T_JuniperHanging_N_01
+[2021.08.17-14.22.18:244][338]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperHanging_A_01.T_JuniperHanging_A_01
+[2021.08.17-14.22.18:244][338]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01.MI_JuniperBranch_01
+[2021.08.17-14.22.18:244][338]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperBranch_A_01.T_JuniperBranch_A_01
+[2021.08.17-14.22.18:244][338]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperBranch_AORM_01.T_JuniperBranch_AORM_01
+[2021.08.17-14.22.18:244][338]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Trees/MSH_Juniper_02.MSH_Juniper_02
