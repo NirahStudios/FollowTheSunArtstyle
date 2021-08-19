@@ -1173,3 +1173,226 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.08.19-09.08.52:933][913]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 103
 [2021.08.19-09.08.55:348][ 53]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 93
 [2021.08.19-09.08.56:955][147]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 83
+[2021.08.19-09.08.59:953][293]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 73
+[2021.08.19-09.09.00:995][353]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 63
+[2021.08.19-09.09.03:975][511]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 53
+[2021.08.19-09.09.05:500][566]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2021.08.19-09.09.08:326][706]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2021.08.19-09.09.09:536][778]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.08.19-09.09.12:081][925]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.08.19-09.09.13:595][ 13]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.19-09.09.14:645][ 74]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.19-09.12.16:066][602]LogEditorViewport: Clicking Background
+[2021.08.19-09.12.18:568][773]LogEditorViewport: Clicking Background
+[2021.08.19-09.12.18:962][799]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.08.19-09.12.21:145][932]LogEditorViewport: Clicking Background
+[2021.08.19-09.17.00:998][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.19-09.17.01:952][941]LogEditorViewport: Clicking Background
+[2021.08.19-09.17.42:964][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.19-09.17.53:428][831]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_Juniper.MI_Juniper
+[2021.08.19-09.18.00:660][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.19-09.20.32:182][ 31]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\NIRAH STUDIOS\Meshes\JuniperHanging\Textures\T_JuniperBent_AORM_01.png)
+[2021.08.19-09.20.32:213][ 31]LogTexture: Display: Building textures: T_JuniperBent_AORM_01 (AutoDXT, 1024X1024)
+[2021.08.19-09.20.32:587][ 31]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\NIRAH STUDIOS\Meshes\JuniperHanging\Textures\T_JuniperBent_N_01.png)
+[2021.08.19-09.20.32:628][ 31]LogTexture: Display: Building textures: T_JuniperBent_N_01 (BC5, 1024X1024)
+[2021.08.19-09.20.32:804][ 31]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\NIRAH STUDIOS\Meshes\JuniperHanging\Textures\T_JuniperBent_A_02.png)
+[2021.08.19-09.20.32:857][ 31]LogTexture: Display: Building textures: T_JuniperBent_A_02 (AutoDXT, 1024X1024)
+[2021.08.19-09.21.00:128][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.08.19-09.21.00:133][111]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.014
+[2021.08.19-09.21.00:134][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Props/Trees/Textures/T_JuniperBent_AORM_01] ([1] browsable assets)...
+[2021.08.19-09.21.00:139][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperBent_AORM_01.T_JuniperBent_AORM_01]
+[2021.08.19-09.21.00:139][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Props/Trees/Textures/T_JuniperBent_AORM_01]
+[2021.08.19-09.21.00:147][111]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperBent_AORM_01_Auto25AC83CD9422F9E423144F0BDD9068855.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/Props/Trees/Textures/T_JuniperBent_AORM_01_Auto2.uasset'
+[2021.08.19-09.21.00:148][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Props/Trees/Textures/T_JuniperBent_N_01] ([1] browsable assets)...
+[2021.08.19-09.21.00:155][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperBent_N_01.T_JuniperBent_N_01]
+[2021.08.19-09.21.00:155][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Props/Trees/Textures/T_JuniperBent_N_01]
+[2021.08.19-09.21.00:165][111]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperBent_N_01_Auto2791FB79C406C8ED5E5CB9AAD72D45F60.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/Props/Trees/Textures/T_JuniperBent_N_01_Auto2.uasset'
+[2021.08.19-09.21.00:166][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Props/Trees/Textures/T_JuniperBent_A_02] ([1] browsable assets)...
+[2021.08.19-09.21.00:172][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperBent_A_02.T_JuniperBent_A_02]
+[2021.08.19-09.21.00:172][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Props/Trees/Textures/T_JuniperBent_A_02]
+[2021.08.19-09.21.00:181][111]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperBent_A_02_Auto23C3C7FB94AD77C471A9D6DB3AA875BCC.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/Props/Trees/Textures/T_JuniperBent_A_02_Auto2.uasset'
+[2021.08.19-09.21.00:181][111]LogFileHelpers: Auto-saving content packages took 0.048
+[2021.08.19-09.21.16:379][406]LogContentBrowser: Attempting asset rename: T_JuniperBent_A_02 -> T_JuniperBent_A_01
+[2021.08.19-09.21.16:599][406]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperBent_A_0169ED86B74063EA043A1CB7BC139479A1.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_JuniperBent_A_01.uasset'
+[2021.08.19-09.21.16:672][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.08.19-09.21.16:691][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.19-09.21.16:699][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.19-09.21.16:999][406]AssetCheck: New page: Asset Save: T_JuniperBent_A_01
+[2021.08.19-09.21.16:999][406]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperBent_A_01.T_JuniperBent_A_01
+[2021.08.19-09.21.23:836][767]Cmd: TRANSACTION UNDO
+[2021.08.19-09.21.23:836][767]LogEditorTransaction: Undo Edit Albedo
+[2021.08.19-09.21.27:214][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.19-09.21.37:667][311]LogEditorFactories: Performing atomic reimport of [D:/NIRAH STUDIOS/Meshes/Juniper_Curved/Textures/T_JuniperHanging_N_01.png]
+[2021.08.19-09.21.37:672][311]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/NIRAH STUDIOS/Meshes/Juniper_Curved/Textures/T_JuniperHanging_N_01.png)
+[2021.08.19-09.21.37:746][311]LogTexture: Display: Building textures: T_JuniperHanging_N_01 (AutoDXT, 1024X1024)
+[2021.08.19-09.21.38:177][311]LogEditorFactories: -- imported successfully
+[2021.08.19-09.21.38:188][311]LogEditorFactories: Performing atomic reimport of [D:/NIRAH STUDIOS/Meshes/Juniper_Curved/Textures/T_JuniperHanging_A_02.png]
+[2021.08.19-09.21.38:290][311]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/NIRAH STUDIOS/Meshes/Juniper_Curved/Textures/T_JuniperHanging_A_02.png)
+[2021.08.19-09.21.38:355][311]LogTexture: Display: Building textures: T_JuniperHanging_A_02 (AutoDXT, 1024X1024)
+[2021.08.19-09.21.38:918][311]LogEditorFactories: -- imported successfully
+[2021.08.19-09.21.38:926][311]LogEditorFactories: Performing atomic reimport of [D:/NIRAH STUDIOS/Meshes/Juniper_Curved/Textures/T_JuniperHanging_AORM_01.png]
+[2021.08.19-09.21.38:928][311]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/NIRAH STUDIOS/Meshes/Juniper_Curved/Textures/T_JuniperHanging_AORM_01.png)
+[2021.08.19-09.21.39:006][311]LogTexture: Display: Building textures: T_JuniperHanging_AORM_01 (AutoDXT, 1024X1024)
+[2021.08.19-09.21.39:155][311]LogEditorFactories: -- imported successfully
+[2021.08.19-09.21.57:584][494]Cmd: TRANSACTION UNDO
+[2021.08.19-09.21.57:584][494]LogEditorTransaction: Undo Edit Albedo
+[2021.08.19-09.22.08:124][ 50]Cmd: TRANSACTION UNDO
+[2021.08.19-09.22.08:124][ 50]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.19-09.22.08:495][ 56]Cmd: TRANSACTION UNDO
+[2021.08.19-09.22.08:495][ 56]LogEditorTransaction: Undo Clicking Background
+[2021.08.19-09.22.10:292][135]Cmd: TRANSACTION UNDO
+[2021.08.19-09.22.10:292][135]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.19-09.22.10:497][142]Cmd: TRANSACTION UNDO
+[2021.08.19-09.22.10:497][142]LogEditorTransaction: Undo Clicking Background
+[2021.08.19-09.22.10:681][143]Cmd: TRANSACTION UNDO
+[2021.08.19-09.22.10:681][143]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.19-09.22.46:764][509]LogEditorViewport: Clicking on Actor (LMB): WaterBodyCustom (WaterBodyCustom)
+[2021.08.19-09.22.47:107][521]Cmd: TRANSACTION UNDO
+[2021.08.19-09.22.47:107][521]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.19-09.22.59:919][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.19-09.23.11:100][860]LogEditorViewport: Clicking Background
+[2021.08.19-09.23.13:775][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.19-09.23.44:120][ 75]LogEditorViewport: Clicking on Actor (LMB): WaterBodyCustom (WaterBodyCustom)
+[2021.08.19-09.23.47:077][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_JuniperHaning_01)
+[2021.08.19-09.23.53:071][527]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_JuniperHanging_01.MI_JuniperHanging_01
+[2021.08.19-09.24.33:107][786]LogEditorViewport: Clicking Background
+[2021.08.19-09.25.43:049][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_JuniperHaning_01)
+[2021.08.19-09.25.48:434][849]LogEditorViewport: Clicking Background
+[2021.08.19-09.25.58:277][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_JuniperHaning_01)
+[2021.08.19-09.26.03:010][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.19-09.26.21:923][771]LogEditorViewport: Clicking on Actor (LMB): WaterBodyCustom (WaterBodyCustom)
+[2021.08.19-09.26.23:035][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.19-09.26.26:697][ 42]LogEditorViewport: Clicking on Actor (LMB): WaterBodyCustom (WaterBodyCustom)
+[2021.08.19-09.26.30:260][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.08.19-09.26.30:431][213]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.19-09.26.32:320][213]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-09.26.32:336][213]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Props/Trees/Textures/T_JuniperHanging_A_02.T_JuniperHanging_A_02
+[2021.08.19-09.26.39:968][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.19-09.26.40:023][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.08.19-09.26.40:030][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.19-09.26.57:081][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.19-09.27.30:512][ 87]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01.MI_JuniperBranch_01
+[2021.08.19-09.27.41:502][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.08.19-09.27.43:237][654]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-09.27.43:385][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.19-09.27.43:403][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.19-09.27.43:412][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.19-09.27.48:521][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.08.19-09.27.49:591][901]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-09.27.49:729][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.08.19-09.27.49:743][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.19-09.27.49:751][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.19-09.28.06:114][811]LogEditorViewport: Clicking on Actor (LMB): WaterBodyCustom (WaterBodyCustom)
+[2021.08.19-09.28.29:738][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_JuniperHaning_01)
+[2021.08.19-09.28.33:726][424]Cmd: TRANSACTION UNDO
+[2021.08.19-09.28.33:726][424]LogEditorTransaction: Undo Rotate Actors
+[2021.08.19-09.28.39:772][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_JuniperHaning_01)
+[2021.08.19-09.28.48:610][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.19-09.28.51:726][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_JuniperHaning_01)
+[2021.08.19-09.29.02:284][ 97]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_JuniperBranch_01ECCFAFEB4740812DBA73D7AFF925D939.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01.uasset'
+[2021.08.19-09.29.02:302][ 97]AssetCheck: New page: Asset Save: MI_JuniperBranch_01
+[2021.08.19-09.29.02:302][ 97]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01.MI_JuniperBranch_01
+[2021.08.19-09.29.03:259][152]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.29.03:259][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.29.32:460][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.19-09.29.33:259][958]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.19-09.29.40:095][370]LogEditorViewport: Clicking Background
+[2021.08.19-09.29.54:694][442]Cmd: TRANSACTION UNDO
+[2021.08.19-09.29.54:694][442]LogEditorTransaction: Undo Edit Surface blending back
+[2021.08.19-09.29.59:902][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Juniper_02)
+[2021.08.19-09.30.01:421][864]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01.MI_JuniperBranch_01
+[2021.08.19-09.30.09:977][423]LogMaterial: Display: Missing cached shader map for material MM_Foliage, compiling. 
+[2021.08.19-09.30.10:026][423]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 66
+[2021.08.19-09.30.10:026][423]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2021.08.19-09.30.13:714][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.08.19-09.30.13:717][635]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.19-09.30.14:280][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2021.08.19-09.30.14:280][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 47
+[2021.08.19-09.30.14:280][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2021.08.19-09.30.14:303][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2021.08.19-09.30.14:304][635]TextureStreamingBuild: Display: Compiling optional shaders took 0.587 seconds.
+[2021.08.19-09.30.14:314][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.08.19-09.30.14:323][635]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_JuniperHanging_014506522841073F893D9E228E666C4FC2.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Material_Instances/MI_JuniperHanging_01.uasset'
+[2021.08.19-09.30.14:359][635]AssetCheck: New page: Asset Save: MI_JuniperHanging_01
+[2021.08.19-09.30.14:359][635]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_JuniperHanging_01.MI_JuniperHanging_01
+[2021.08.19-09.30.17:890][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.19-09.30.17:894][844]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.19-09.30.18:456][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.08.19-09.30.18:769][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2021.08.19-09.30.18:769][844]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.08.19-09.30.18:769][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.08.19-09.30.18:770][844]TextureStreamingBuild: Display: Compiling optional shaders took 0.876 seconds.
+[2021.08.19-09.30.18:783][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.19-09.30.18:792][844]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_Juniper40B5F9694C55FC1DD6DC408A59E565E6.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Material_Instances/MI_Juniper.uasset'
+[2021.08.19-09.30.18:818][844]AssetCheck: New page: Asset Save: MI_Juniper
+[2021.08.19-09.30.18:818][844]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_Juniper.MI_Juniper
+[2021.08.19-09.30.23:403][112]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.19-09.30.23:500][118]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.08.19-09.30.25:318][226]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.08.19-09.30.32:567][709]Cmd: TRANSACTION UNDO
+[2021.08.19-09.30.32:567][709]LogEditorTransaction: Undo Edit Color Albedo
+[2021.08.19-09.30.39:375][ 88]LogEditorViewport: Clicking Background
+[2021.08.19-09.30.55:470][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.08.19-09.30.55:473][144]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.19-09.30.55:926][144]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.19-09.30.55:926][144]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.08.19-09.30.55:927][144]TextureStreamingBuild: Display: Compiling optional shaders took 0.454 seconds.
+[2021.08.19-09.30.55:936][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.19-09.30.55:945][144]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_JuniperBranch_014493BC7745FD37E6BF7CE79A3C31C16A.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01.uasset'
+[2021.08.19-09.30.55:958][144]AssetCheck: New page: Asset Save: MI_JuniperBranch_01
+[2021.08.19-09.30.55:959][144]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_JuniperBranch_01.MI_JuniperBranch_01
+[2021.08.19-09.30.57:404][223]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.30.57:404][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.30.58:374][277]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_JuniperHanging_0179E3C55A4443800B15D186B3CB524112.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Material_Instances/MI_JuniperHanging_01.uasset'
+[2021.08.19-09.30.58:387][277]AssetCheck: New page: Asset Save: MI_JuniperHanging_01
+[2021.08.19-09.30.58:387][277]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_JuniperHanging_01.MI_JuniperHanging_01
+[2021.08.19-09.30.59:326][327]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.30.59:326][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.31.00:127][368]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_JuniperC5EEF30C405922A5DFA15384497EAB3F.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Material_Instances/MI_Juniper.uasset'
+[2021.08.19-09.31.00:143][368]AssetCheck: New page: Asset Save: MI_Juniper
+[2021.08.19-09.31.00:144][368]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_Juniper.MI_Juniper
+[2021.08.19-09.31.00:930][412]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-09.31.00:949][412]LogSlate: Window 'MI_Juniper' being destroyed
+[2021.08.19-09.31.00:967][412]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.31.00:967][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.31.03:291][576]LogEditorViewport: Clicking Background
+[2021.08.19-09.31.20:258][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_JuniperHaning_01)
+[2021.08.19-09.31.29:120][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_JuniperHaning_01)
+[2021.08.19-09.31.46:319][203]LogEditorViewport: Clicking Background
+[2021.08.19-09.32.11:160][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_JuniperHaning_01)
+[2021.08.19-09.32.13:068][873]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_JuniperHanging_01.MI_JuniperHanging_01
+[2021.08.19-09.32.19:878][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.08.19-09.32.19:883][291]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.19-09.32.19:893][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.19-09.32.19:903][291]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_JuniperHanging_018E8C3CB64663BBFF521466A84318E6C3.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Material_Instances/MI_JuniperHanging_01.uasset'
+[2021.08.19-09.32.19:914][291]AssetCheck: New page: Asset Save: MI_JuniperHanging_01
+[2021.08.19-09.32.19:914][291]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_JuniperHanging_01.MI_JuniperHanging_01
+[2021.08.19-09.32.20:479][327]LogEditorViewport: Clicking Background
+[2021.08.19-09.32.22:762][474]LogSlate: Window 'MI_JuniperHanging_01' being destroyed
+[2021.08.19-09.32.22:791][474]LogSlate: Window 'MI_JuniperHanging_01' being destroyed
+[2021.08.19-09.32.22:802][474]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.32.22:802][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.32.24:905][620]LogEditorViewport: Clicking Background
+[2021.08.19-09.33.02:411][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.08.19-09.33.04:019][288]LogSlate: Window 'Save Content' being destroyed
+[2021.08.19-09.33.04:051][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.08.19-09.33.04:166][288]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MainLevel6BE7CE0F4EA2C4222121839AFC8B98FA.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/MainLevel.umap'
+[2021.08.19-09.33.04:177][288]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 2
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2021.08.19-09.33.04:178][288]LogFileHelpers: Saving map 'MainLevel' took 0.135
+[2021.08.19-09.33.04:267][288]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperBent_AORM_013332470D42F2EF1E996DA1BE6804A41E.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_JuniperBent_AORM_01.uasset'
+[2021.08.19-09.33.04:379][288]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperBent_N_01C07BF0BB4FD7D30DA7D11284EC4CF3E6.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_JuniperBent_N_01.uasset'
+[2021.08.19-09.33.04:433][288]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperHanging_AORM_01C4A9059E4388E55F28C41BA68C2F51A4.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_JuniperHanging_AORM_01.uasset'
+[2021.08.19-09.33.04:585][288]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_JuniperHanging_N_01AA6F58E94B3A1D7F178A0A963B9BACC3.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_JuniperHanging_N_01.uasset'
+[2021.08.19-09.33.04:609][288]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.19-09.33.04:609][288]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperHanging_AORM_01.T_JuniperHanging_AORM_01
+[2021.08.19-09.33.04:609][288]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperHanging_N_01.T_JuniperHanging_N_01
+[2021.08.19-09.33.04:609][288]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2021.08.19-09.33.04:609][288]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperBent_N_01.T_JuniperBent_N_01
+[2021.08.19-09.33.04:609][288]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_JuniperBent_AORM_01.T_JuniperBent_AORM_01
