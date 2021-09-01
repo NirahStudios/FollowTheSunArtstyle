@@ -1,0 +1,1131 @@
+﻿Log file open, 08/31/21 13:37:00
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FollowTheSunArtstyle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.191831
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Emelie/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 770
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[r.SSGI.Enable:1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.08.31-11.37.04:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.31-11.37.04:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.08.31-11.37.04:635][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.08.31-11.37.04:694][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:694][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.31-11.37.04:694][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.31-11.37.04:694][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.31-11.37.04:695][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.31-11.37.04:696][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.31-11.37.04:696][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.31-11.37.04:696][  0]LogHAL: Display: Platform has ~ 16 GB [17098670080 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.31-11.37.04:696][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.31-11.37.04:696][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.31-11.37.04:696][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.31-11.37.04:697][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.31-11.37.04:698][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.31-11.37.04:699][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.08.31-11.37.04:699][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Editor.ini]
+[2021.08.31-11.37.04:699][  0]LogInit: Computer: DESKTOP-EQEFAOB
+[2021.08.31-11.37.04:699][  0]LogInit: User: Emelie
+[2021.08.31-11.37.04:699][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.08.31-11.37.04:699][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.31-11.37.04:699][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.08.31-11.37.04:699][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.31-11.37.04:699][  0]LogMemory: Process Physical Memory: 137.24 MB used, 137.25 MB peak
+[2021.08.31-11.37.04:699][  0]LogMemory: Process Virtual Memory: 118.49 MB used, 118.49 MB peak
+[2021.08.31-11.37.04:699][  0]LogMemory: Physical Memory: 8308.16 MB used,  7998.41 MB free, 16306.56 MB total
+[2021.08.31-11.37.04:699][  0]LogMemory: Virtual Memory: 134196808.00 MB used,  20923.55 MB free, 134217728.00 MB total
+[2021.08.31-11.37.04:722][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.31-11.37.05:589][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.31-11.37.05:614][  0]LogInit: Using OS detected language (sv-SE).
+[2021.08.31-11.37.05:614][  0]LogInit: Using OS detected locale (sv-SE).
+[2021.08.31-11.37.05:891][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2021.08.31-11.37.06:876][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-11.37.07:327][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.31-11.37.07:327][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.31-11.37.12:972][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.31-11.37.12:972][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.31-11.37.12:972][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.31-11.37.12:972][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.31-11.37.13:074][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2021.08.31-11.37.13:074][  0]LogD3D11RHI:       4052/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.31-11.37.13:077][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.31-11.37.13:077][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.31-11.37.13:077][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.31-11.37.13:085][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.31-11.37.13:085][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.31-11.37.13:085][  0]LogWindows: EnumDisplayDevices:
+[2021.08.31-11.37.13:085][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2021.08.31-11.37.13:085][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:0 D:1)
+[2021.08.31-11.37.13:086][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2021.08.31-11.37.13:086][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2021.08.31-11.37.13:086][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.08.31-11.37.13:086][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2021.08.31-11.37.13:086][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.08.31-11.37.13:086][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.08.31-11.37.13:086][  0]LogRHI: Texture pool is 2836 MB (70% of 4052 MB)
+[2021.08.31-11.37.13:169][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.08.31-11.37.13:180][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.31-11.37.13:254][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.08.31-11.37.13:256][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.31-11.37.14:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.31-11.37.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.31-11.37.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.31-11.37.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.31-11.37.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.31-11.37.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.31-11.37.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.31-11.37.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.31-11.37.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.31-11.37.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.31-11.37.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.31-11.37.14:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.31-11.37.14:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.31-11.37.14:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.31-11.37.14:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.31-11.37.14:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.31-11.37.14:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.31-11.37.14:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.31-11.37.14:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.31-11.37.14:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.31-11.37.14:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.31-11.37.14:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.31-11.37.14:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.31-11.37.14:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.31-11.37.14:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.31-11.37.14:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.31-11.37.14:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.31-11.37.14:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.31-11.37.14:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.31-11.37.14:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.31-11.37.15:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.31-11.37.15:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.31-11.37.15:119][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.31-11.37.15:403][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.31-11.37.17:444][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.31-11.37.17:444][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Intermediate/Shaders/WorkingDirectory/15676/).
+[2021.08.31-11.37.17:445][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Emelie/AppData/Local/Temp/UnrealShaderWorkingDir/015F65BF4E6DB0221D95F494A5C79DA9/'.
+[2021.08.31-11.37.17:445][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.31-11.37.17:445][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.31-11.37.24:194][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.31-11.37.24:739][  0]LogDerivedDataCache: Loaded boot cache 0.55s 78MB C:/Users/Emelie/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.31-11.37.24:739][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Emelie/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.31-11.37.24:739][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.31-11.37.24:739][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.31-11.37.24:739][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.31-11.37.24:739][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.31-11.37.24:812][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.31-11.37.24:812][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.31-11.37.24:812][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.31-11.37.24:983][  0]LogDerivedDataCache: Speed tests for C:/Users/Emelie/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.17 seconds
+[2021.08.31-11.37.24:983][  0]LogDerivedDataCache: Display: Performance to C:/Users/Emelie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=5.25ms. RandomReadSpeed=10.64MBs, RandomWriteSpeed=47.94MBs. Assigned SpeedClass 'Fast'
+[2021.08.31-11.37.24:985][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Emelie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.31-11.37.24:985][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.31-11.37.24:985][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.31-11.37.30:053][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.31-11.37.30:088][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.31-11.37.31:335][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2021.08.31-11.37.31:779][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.31-11.37.31:779][  0]LogInit: Active device profile: [000002000C242100][000002000AE30EC0 49] Windows
+[2021.08.31-11.37.31:780][  0]LogInit: Profiles: [000002000C242100][000002000AE30EC0 49] Windows, [000002000C07D700][000002000AE39040 49] WindowsNoEditor, [000002000C241800][000002000AE3D1C0 49] WindowsServer, [000002000C07DF00][000002000AE41340 49] WindowsClient, [000002000C241300][000002000AE454C0 49] IOS, [000002000C07CE00][000002000AE49640 49] iPadAir, [000002000C240D00][000002000AE35780 49] iPadAir2, [000002000BFDDE00][000002000AE519C0 49] IPadPro, [000002000BFDDF00][000002000AE4DA00 49] iPadAir3, [000002000C242500][000002000AE55B40 49] iPadAir4, [000002000C240400][000002000AE5DCC0 49] iPadMini2, [000002000C242600][000002000AE60180 49] iPadMini3, [000002000BFDF800][000002000AE64300 49] iPadMini4, [000002000C07E600][000002000AE68480 49] iPadMini5, [000002000C00D900][000002000AE70740 49] iPhone6, [000002000C00DA00][000002000AE6C780 49] iPodTouch6, [000002000BFDDB00][000002000AE78A40 49] iPhone7, [000002000BFDC600][000002000AE74A80 49] iPodTouch7, [000002000C00C400][000002000AE7CC00 49] iPhone5S, [000002000BFDC400][000002000AE80D80 49] iPhone6Plus, [000002000C00DF00][000002000AE84F00 49] iPhone6S, [000002000BFDF100][000002000AE89080 49] iPhone6SPlus, [000002000C00C900][000002000AE8D200 49] iPhone7Plus, [000002000BFDCC00][000002000AE91380 49] iPhoneSE, [000002000C00E400][000002000AE95500 49] iPhone8, [000002000BFDFC00][000002000AE99680 49] iPhone8Plus, [000002000C00CF00][000002000AE597C0 49] iPhoneX, [000002000BFDD500][000002000AE9D900 49] iPhoneXS, [000002000C00EC00][000002000AEA1A40 49] iPhoneXSMax, [000002000BFDCD00][000002000AEA5B80 49] iPhoneXR, [000002000C00D700][000002000AEADD00 49] iPhone11, [000002000BFDED00][000002000AEB01C0 49] iPhone11Pro, [000002000C00DB00][000002000AEB4340 49] iPhone11ProMax, [000002000BFDF300][000002000AEB84C0 49] iPhoneSE2, [000002000C00E700][000002000AEBC640 49] iPhone12Mini, [000002000BFDDC00][000002000AEC07C0 49] iPhone12, [000002000C00E000][000002000AEC4940 49] iPhone12Pro, [000002000BFDFE00][000002000AEC8AC0 49] iPhone12ProMax, [000002000C00CE00][000002000AECCC40 49] iPadPro105, [000002000BFDE700][000002000AED0DC0 49] iPadPro129, [000002000C00E800][000002000AED4F40 49] iPadPro97, [000002000BFDD600][000002000AED90C0 49] iPadPro2_129, [000002000C00ED00][000002000AEDD240 49] iPad5, [000002000BFDF700][000002000AEE13C0 49] iPad6, [000002000C00F900][000002000AEE5540 49] iPad7, [000002000BFDD800][000002000AEE96C0 49] iPad8, [000002000C00E900][000002000AEED840 49] iPadPro11, [000002000BFDE200][000002000AEA9980 49] iPadPro2_11, [000002000C00DD00][000002000AEF1AC0 49] iPadPro3_129, [000002000BFDD000][000002000AEF5C00 49] iPadPro4_129, [000002000C00D800][000002000AEFC0C0 49] AppleTV, [000002000BFDC100][000002000AF00240 49] AppleTV4K, [000002000C00D200][000002000AF043C0 49] TVOS, [000002000BFDF200][000002000AF08540 49] Mac, [000002000C00EA00][000002000AF0C6C0 49] MacClient, [000002000BFDEC00][000002000AF10840 49] MacNoEditor, [000002000C00FF00][000002000AF149C0 49] MacServer, [000002000BFDFA00][000002000AF18B40 49] Linux, [000002000C00D600][000002000AF1CCC0 49] LinuxAArch64, [000002000BFDFD00][000002000B852E40 49] LinuxNoEditor, [000002000C00C600][000002000B856FC0 49] LinuxAArch64NoEditor, [000002000BFDC800][000002000B85B140 49] LinuxClient, [000002000C00F600][000002000B85F2C0 49] LinuxAArch64Client, [000002000BFDC700][000002000B863440 49] LinuxServer, [000002000C00F800][000002000B8675C0 49] LinuxAArch64Server, [000002000BFDF400][000002000B86B740 49] Android, [000002000C00E600][000002000B86F8C0 49] Android_Low, [000002000BFDEF00][000002000AEF9A00 49] Android_Mid, [000002000C00C200][000002000B873B40 49] Android_High, [000002000BFDE900][000002000B877C80 49] Android_Default, [000002000C00FD00][000002000B87A100 49] Android_Adreno4xx, [000002000BFDF900][000002000B882280 49] Android_Adreno5xx_Low, [000002000C00F300][000002000B886400 49] Android_Adreno5xx, [000002000C242800][000002000B88A580 49] Android_Adreno6xx, [000002000C07F900][000002000B88E700 49] Android_Adreno6xx_Vulkan, [000002000C240600][000002000B892880 49] Android_Mali_T6xx, [000002000C07EC00][000002000B896A00 49] Android_Mali_T7xx, [000002000C241900][000002000B89AB80 49] Android_Mali_T8xx, [000002000C07F700][000002000B89ED00 49] Android_Mali_G71, [000002000C242900][000002000B8A2E80 49] Android_Mali_G72, [000002000C07DA00][000002000B8A7000 49] Android_Mali_G72_Vulkan, [000002000C241600][000002000B8AB180 49] Android_Mali_G76, [000002000C07CF00][000002000B8AF300 49] Android_Mali_G76_Vulkan, [000002000C242700][000002000B8B3480 49] Android_Mali_G77, [000002000C07C200][000002000B8B7600 49] Android_Mali_G77_Vulkan, [000002000C241400][000002000B8BB780 49] Android_Vulkan_SM5, [000002000C07F500][000002000B8BF900 49] Android_PowerVR_G6xxx, [000002000C242B00][000002000B87FA40 49] Android_PowerVR_GT7xxx, [000002000C07D100][000002000B8C3B80 49] Android_PowerVR_GE8xxx, [000002000C240C00][000002000B8C7CC0 49] Android_PowerVR_GM9xxx, [000002000C07D000][000002000B8CA140 49] Android_PowerVR_GM9xxx_Vulkan, [000002000C242C00][000002000B8D22C0 49] Android_TegraK1, [000002000C07DE00][000002000B8D6440 49] Android_Unknown_Vulkan, [000002000C241100][000002000B8DA5C0 49] Lumin, [000002000C07CB00][000002000B8DE740 49] Lumin_Desktop, [000002000C240900][000002000B8E28C0 49] HoloLens, 
+[2021.08.31-11.37.34:532][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.31-11.37.34:532][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.31-11.37.34:532][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.31-11.37.34:532][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.31-11.37.34:532][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.31-11.37.35:183][  0]LogNetVersion: FollowTheSunArtstyle 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 501863915)
+[2021.08.31-11.37.55:308][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.31-11.37.55:982][  0]LogPackageLocalizationCache: Processed 25 localized package path(s) for 1 prioritized culture(s) in 0.672344 seconds
+[2021.08.31-11.37.55:989][  0]LogUObjectArray: 17492 objects as part of root set at end of initial load.
+[2021.08.31-11.37.55:989][  0]LogUObjectAllocator: 4476304 out of 0 bytes used by permanent object pool.
+[2021.08.31-11.37.55:989][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.31-11.38.01:614][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2021.08.31-11.38.01:735][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.31-11.38.01:763][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.31-11.38.04:256][  0]SourceControl: Source control is disabled
+[2021.08.31-11.38.04:256][  0]SourceControl: Source control is disabled
+[2021.08.31-11.38.04:337][  0]SourceControl: Source control is disabled
+[2021.08.31-11.38.04:401][  0]SourceControl: Source control is disabled
+[2021.08.31-11.38.04:452][  0]SourceControl: Source control is disabled
+[2021.08.31-11.38.04:518][  0]LogUProjectInfo: Found projects:
+[2021.08.31-11.38.04:841][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.31-11.38.04:938][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.31-11.38.04:938][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.31-11.38.05:231][  0]LogCollectionManager: Loaded 0 collections in 0.002785 seconds
+[2021.08.31-11.38.05:433][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Collections/' took 0.00s
+[2021.08.31-11.38.05:433][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Developers/Emelie/Collections/' took 0.00s
+[2021.08.31-11.38.05:433][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Collections/' took 0.00s
+[2021.08.31-11.38.05:434][  0]LogOcInput: OculusInput pre-init called
+[2021.08.31-11.38.05:496][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.31-11.38.05:496][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.31-11.38.05:675][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' (GetLastError=126)
+[2021.08.31-11.38.05:675][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' does not exist
+[2021.08.31-11.38.05:675][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' (GetLastError=126)
+[2021.08.31-11.38.05:676][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' does not exist
+[2021.08.31-11.38.06:079][  0]LogEngine: Initializing Engine...
+[2021.08.31-11.38.06:080][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.31-11.38.06:080][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.31-11.38.06:081][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.31-11.38.07:441][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.31-11.38.07:640][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.31-11.38.07:642][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.31-11.38.07:649][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.31-11.38.07:649][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.31-11.38.07:650][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.31-11.38.07:650][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.31-11.38.07:650][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.31-11.38.07:650][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.31-11.38.07:650][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.31-11.38.07:650][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.31-11.38.07:650][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.31-11.38.07:650][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.31-11.38.07:650][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.31-11.38.07:650][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.31-11.38.07:790][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.31-11.38.07:790][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.31-11.38.07:790][  0]LogAudioMixer: Display: 2: BackLeft
+[2021.08.31-11.38.07:790][  0]LogAudioMixer: Display: 3: BackRight
+[2021.08.31-11.38.08:047][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.08.31-11.38.08:047][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.31-11.38.08:076][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.31-11.38.08:076][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.31-11.38.08:078][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.31-11.38.08:078][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.31-11.38.08:078][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=4, Samples=4096
+[2021.08.31-11.38.08:079][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.31-11.38.08:079][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.31-11.38.08:079][  0]LogInit: FAudioDevice initialized.
+[2021.08.31-11.38.08:079][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.31-11.38.08:079][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.31-11.38.08:266][  0]LogDerivedDataCache: Saved boot cache 0.19s 78MB C:/Users/Emelie/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.31-11.38.08:271][  0]LogInit: Texture streaming: Enabled
+[2021.08.31-11.38.08:286][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.31-11.38.08:302][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.31-11.38.08:302][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.31-11.38.08:328][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.31-11.38.08:967][  0]LogInit: Transaction tracking system initialized
+[2021.08.31-11.38.08:990][  0]BlueprintLog: New page: Editor Load
+[2021.08.31-11.38.09:264][  0]LocalizationService: Localization service is disabled
+[2021.08.31-11.38.09:348][  0]TimingProfiler: Initialize
+[2021.08.31-11.38.09:348][  0]TimingProfiler: OnSessionChanged
+[2021.08.31-11.38.09:348][  0]LoadingProfiler: Initialize
+[2021.08.31-11.38.09:348][  0]LoadingProfiler: OnSessionChanged
+[2021.08.31-11.38.09:348][  0]NetworkingProfiler: Initialize
+[2021.08.31-11.38.09:348][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.31-11.38.09:348][  0]MemoryProfiler: Initialize
+[2021.08.31-11.38.09:348][  0]MemoryProfiler: OnSessionChanged
+[2021.08.31-11.38.13:096][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.31-11.38.13:096][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.31-11.38.13:262][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/' took 0.02s
+[2021.08.31-11.38.29:184][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.31-11.38.29:192][  0]SourceControl: Source control is disabled
+[2021.08.31-11.38.29:192][  0]LogUnrealEdMisc: Loading editor; pre map load, took 142.047
+[2021.08.31-11.38.29:192][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.31-11.38.29:193][  0]LightingResults: New page: Lighting Build
+[2021.08.31-11.38.29:194][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-11.38.29:194][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-11.38.29:194][  0]MapCheck: New page: Map Check
+[2021.08.31-11.38.29:194][  0]LightingResults: New page: Lighting Build
+[2021.08.31-11.38.29:479][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.08.31-11.38.52:729][  0]LogStaticMesh: Building static mesh MSH_Betula_Nana_Tree_01...
+[2021.08.31-11.38.52:792][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/Props/Trees/MSH_Betula_Nana_Tree_01.MSH_Betula_Nana_Tree_01
+[2021.08.31-11.38.52:986][  0]LogStaticMesh: Building static mesh MSH_Betula_Nana_Plant_01...
+[2021.08.31-11.38.53:005][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/Props/Undergrowth/Delete_later/MSH_Betula_Nana_Plant_01.MSH_Betula_Nana_Plant_01
+[2021.08.31-11.39.04:645][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2021.08.31-11.39.04:647][  0]LogAIModule: Creating AISystem for world MainLevel
+[2021.08.31-11.39.04:757][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.31-11.39.04:777][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.08.31-11.39.04:777][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.31-11.39.04:777][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,202ms to complete.
+[2021.08.31-11.39.04:777][  0]LogFileHelpers: Loading map 'MainLevel' took 35.586
+[2021.08.31-11.39.04:778][  0]LogAssetRegistry: Flushing asset discovery search because of synchronous request, this can take several seconds...
+[2021.08.31-11.39.04:814][  0]LogAssetRegistry: Asset discovery search completed in 0.0360 seconds
+[2021.08.31-11.39.04:818][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.08.31-11.39.04:820][  0]LogUnrealEdMisc: Total Editor Startup Time, took 177.676
+[2021.08.31-11.39.05:123][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.31-11.39.05:130][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.31-11.39.05:138][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.31-11.39.05:144][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.31-11.39.05:188][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0116 seconds. Added 3668 classes and 877 folders.
+[2021.08.31-11.39.05:195][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.31-11.39.05:316][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.31-11.39.05:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.31-11.39.05:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.31-11.39.05:333][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.31-11.39.05:333][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:333][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.31-11.39.05:333][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.08.31-11.39.05:351][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.31-11.39.05:351][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:351][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.31-11.39.05:351][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.08.31-11.39.05:376][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.31-11.39.05:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.31-11.39.05:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.08.31-11.39.05:395][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.31-11.39.05:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.31-11.39.05:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.08.31-11.39.05:413][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.31-11.39.05:413][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:413][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.31-11.39.05:413][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.08.31-11.39.05:435][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.31-11.39.05:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.31-11.39.05:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.08.31-11.39.05:455][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.31-11.39.05:455][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.31-11.39.05:455][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.08.31-11.39.05:467][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.31-11.39.05:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.31-11.39.05:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.08.31-11.39.05:485][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.31-11.39.05:485][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:485][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.31-11.39.05:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.08.31-11.39.05:502][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.31-11.39.05:502][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:502][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.31-11.39.05:502][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.08.31-11.39.05:524][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.31-11.39.05:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:524][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.31-11.39.05:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.08.31-11.39.05:545][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.31-11.39.05:545][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:545][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.31-11.39.05:545][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.08.31-11.39.05:614][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.31-11.39.05:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.31-11.39.05:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2021.08.31-11.39.05:644][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.31-11.39.05:644][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:645][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.31-11.39.05:645][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2021.08.31-11.39.05:662][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.31-11.39.05:662][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:662][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.31-11.39.05:662][  0]LogPakFile: OnPakFileMounted2Time == 0.000124
+[2021.08.31-11.39.05:686][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.31-11.39.05:686][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:686][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.31-11.39.05:686][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2021.08.31-11.39.05:701][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.31-11.39.05:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.31-11.39.05:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000137
+[2021.08.31-11.39.05:717][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.31-11.39.05:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.31-11.39.05:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000144
+[2021.08.31-11.39.05:736][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.31-11.39.05:736][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:736][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.31-11.39.05:736][  0]LogPakFile: OnPakFileMounted2Time == 0.000151
+[2021.08.31-11.39.05:761][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.31-11.39.05:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.31-11.39.05:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000158
+[2021.08.31-11.39.05:781][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.31-11.39.05:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.31-11.39.05:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000165
+[2021.08.31-11.39.05:800][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.31-11.39.05:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.31-11.39.05:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000171
+[2021.08.31-11.39.05:819][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.31-11.39.05:820][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:820][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.31-11.39.05:820][  0]LogPakFile: OnPakFileMounted2Time == 0.000177
+[2021.08.31-11.39.05:835][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.31-11.39.05:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.31-11.39.05:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000184
+[2021.08.31-11.39.05:859][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.31-11.39.05:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.31-11.39.05:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.31-11.39.05:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000190
+[2021.08.31-11.39.08:121][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2021.08.31-11.39.08:126][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 2 classes and 0 folders.
+[2021.08.31-11.39.08:145][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.08.31-11.39.08:462][  0]LogSlate: The tab "MoviePipelineQueue" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.08.31-11.39.08:511][  0]LogSlate: Took 0.024375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.31-11.39.08:527][  0]LogSlate: Took 0.014222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.31-11.39.08:544][  0]LogSlate: Took 0.012283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.31-11.39.08:948][  0]LogRenderer: Reallocating scene render targets to support 1500x916 Format 10 NumSamples 1 (Frame:1).
+[2021.08.31-11.39.09:519][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2021.08.31-11.39.09:519][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.08.31-11.39.09:519][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.08.31-11.39.09:519][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.08.31-11.39.09:519][  0]LogLoad: (Engine Initialization) Total time: 182.37 seconds
+[2021.08.31-11.39.09:519][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.31-11.39.09:519][  0]LogInit: First time updating LLM stats...
+[2021.08.31-11.39.09:957][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.31-11.39.09:992][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2021.08.31-11.39.10:880][  3]LogSlate: Took 0.011208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.31-11.40.25:462][420]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\NIRAH STUDIOS\Meshes\BetulaNana\BetulaNanaTree\MSH_BetulaNana_Tree.fbx)
+[2021.08.31-11.40.25:474][420]LogFbx: Loading FBX Scene from D:\NIRAH STUDIOS\Meshes\BetulaNana\BetulaNanaTree\MSH_BetulaNana_Tree.fbx
+[2021.08.31-11.40.25:483][420]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.31-11.40.26:784][420]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.31-11.40.26:922][420]LogFbx: Display: Triangulating static mesh MSH_BetulaNana_L
+[2021.08.31-11.40.26:989][420]LogStaticMesh: Building static mesh MSH_BetulaNana_Tree...
+[2021.08.31-11.40.27:026][420]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Props/Trees/MSH_BetulaNana_Tree.MSH_BetulaNana_Tree
+[2021.08.31-11.40.27:038][420]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.31-11.40.27:279][420]LogSlate: Took 0.033181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.31-11.40.30:573][605]LogSlate: Window 'Message Log' being destroyed
+[2021.08.31-11.40.30:578][605]LogSlate: Window 'Message Log' being destroyed
+[2021.08.31-11.40.31:887][671]LogActorFactory: Actor Factory created MSH_BetulaNana_Tree
+[2021.08.31-11.40.33:162][751]LogActorFactory: Actor Factory created MSH_BetulaNana_Tree
+[2021.08.31-11.40.46:431][341]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Props/Trees/MSH_BetulaNana_Tree.MSH_BetulaNana_Tree
+[2021.08.31-11.40.47:629][341]LogSlate: Took 0.020883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.31-11.40.58:460][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_S)
+[2021.08.31-11.41.00:136][793]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S.MI_BetulaNana_S
+[2021.08.31-11.41.31:735][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_Tree)
+[2021.08.31-11.41.32:740][251]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.31-11.42.34:195][982]LogEditorViewport: Clicking Background
+[2021.08.31-11.42.48:609][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Betula_Nana_Tree_01)
+[2021.08.31-11.42.49:583][652]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.31-11.42.51:075][713]LogEditorViewport: Clicking Background
+[2021.08.31-11.49.09:986][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.08.31-11.49.10:115][983]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MainLevel_Auto1616A75F2464197B8F4F623B16F30CD18.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Maps/MainLevel_Auto1.umap'
+[2021.08.31-11.49.10:117][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.142
+[2021.08.31-11.49.10:117][983]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.142
+[2021.08.31-11.49.10:118][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Props/Trees/MSH_BetulaNana_Tree] ([1] browsable assets)...
+[2021.08.31-11.49.10:142][983]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Props/Trees/MSH_BetulaNana_Tree.MSH_BetulaNana_Tree]
+[2021.08.31-11.49.10:142][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Props/Trees/MSH_BetulaNana_Tree]
+[2021.08.31-11.49.10:155][983]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MSH_BetulaNana_Tree_Auto1E842111B4121835A384FEFA29BA57838.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/Props/Trees/MSH_BetulaNana_Tree_Auto1.uasset'
+[2021.08.31-11.49.10:156][983]LogFileHelpers: Auto-saving content packages took 0.038
+[2021.08.31-12.15.07:571][948]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\NIRAH STUDIOS\Meshes\BetulaNana\BetulaNanaTree\MSH_BetulaNana_Tree.fbx)
+[2021.08.31-12.15.07:580][948]LogFbx: Loading FBX Scene from D:\NIRAH STUDIOS\Meshes\BetulaNana\BetulaNanaTree\MSH_BetulaNana_Tree.fbx
+[2021.08.31-12.15.07:588][948]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.31-12.15.09:062][948]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.31-12.15.09:099][948]LogFbx: Display: Triangulating static mesh MSH_BetulaNana_L
+[2021.08.31-12.15.09:125][948]LogStaticMesh: Building static mesh MSH_BetulaNana_Tree...
+[2021.08.31-12.15.09:153][948]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Props/Undergrowth/MSH_BetulaNana_Tree.MSH_BetulaNana_Tree
+[2021.08.31-12.15.09:158][948]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.31-12.15.11:710][ 33]LogSlate: Window 'Message Log' being destroyed
+[2021.08.31-12.15.11:716][ 33]LogSlate: Window 'Message Log' being destroyed
+[2021.08.31-12.15.14:204][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.08.31-12.15.15:610][210]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.31-12.15.15:674][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.31-12.15.23:099][435]LogEditorFactories: Performing atomic reimport of [D:/NIRAH STUDIOS/Meshes/BetulaNana/BetulaNanaTree/MSH_BetulaNana_Tree.fbx]
+[2021.08.31-12.15.23:145][435]LogFbx: Loading FBX Scene from D:/NIRAH STUDIOS/Meshes/BetulaNana/BetulaNanaTree/MSH_BetulaNana_Tree.fbx
+[2021.08.31-12.15.23:153][435]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.31-12.15.23:225][435]LogFbx: Display: Triangulating static mesh MSH_BetulaNana_L
+[2021.08.31-12.15.23:289][435]LogStaticMesh: Building static mesh MSH_BetulaNana_Tree...
+[2021.08.31-12.15.23:317][435]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Props/Trees/MSH_BetulaNana_Tree.MSH_BetulaNana_Tree
+[2021.08.31-12.15.25:847][435]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2021.08.31-12.15.25:855][435]LogEditorFactories: -- imported successfully
+[2021.08.31-12.15.25:859][435]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.31-12.16.08:557][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.08.31-12.16.08:679][169]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MainLevel_Auto2CF20113B42F8033D51D8ACB09C13C3C3.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Maps/MainLevel_Auto2.umap'
+[2021.08.31-12.16.08:681][169]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.135
+[2021.08.31-12.16.08:681][169]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.135
+[2021.08.31-12.16.08:681][169]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Props/Trees/MSH_BetulaNana_Tree] ([1] browsable assets)...
+[2021.08.31-12.16.08:697][169]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Props/Trees/MSH_BetulaNana_Tree.MSH_BetulaNana_Tree]
+[2021.08.31-12.16.08:697][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Props/Trees/MSH_BetulaNana_Tree]
+[2021.08.31-12.16.08:709][169]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MSH_BetulaNana_Tree_Auto2C7F623D746B1F5B147A1968DA055FFBD.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/Props/Trees/MSH_BetulaNana_Tree_Auto2.uasset'
+[2021.08.31-12.16.08:710][169]LogFileHelpers: Auto-saving content packages took 0.029
+[2021.08.31-12.19.47:702][383]LogEditorViewport: Clicking Background
+[2021.08.31-12.19.50:640][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_Tree)
+[2021.08.31-12.26.49:364][ 13]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\NIRAH STUDIOS\Meshes\BetulaNana\BetulaNanaTree\MSH_BetulaNana_Tree_1.fbx)
+[2021.08.31-12.26.49:420][ 13]LogFbx: Loading FBX Scene from D:\NIRAH STUDIOS\Meshes\BetulaNana\BetulaNanaTree\MSH_BetulaNana_Tree_1.fbx
+[2021.08.31-12.26.49:444][ 13]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.31-12.27.03:394][ 13]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.31-12.27.03:446][ 13]LogFbx: Display: Triangulating static mesh MSH_BetulaNana_L
+[2021.08.31-12.27.03:494][ 13]LogStaticMesh: Building static mesh MSH_BetulaNana_Tree_1...
+[2021.08.31-12.27.03:555][ 13]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/Props/Trees/MSH_BetulaNana_Tree_1.MSH_BetulaNana_Tree_1
+[2021.08.31-12.27.03:577][ 13]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.31-12.27.06:418][124]LogSlate: Window 'Message Log' being destroyed
+[2021.08.31-12.27.06:426][124]LogSlate: Window 'Message Log' being destroyed
+[2021.08.31-12.27.06:834][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.08.31-12.27.06:863][138]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.081
+[2021.08.31-12.27.06:864][138]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Props/Trees/MSH_BetulaNana_Tree_1] ([1] browsable assets)...
+[2021.08.31-12.27.06:875][138]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Props/Trees/MSH_BetulaNana_Tree_1.MSH_BetulaNana_Tree_1]
+[2021.08.31-12.27.06:875][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Props/Trees/MSH_BetulaNana_Tree_1]
+[2021.08.31-12.27.06:887][138]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MSH_BetulaNana_Tree_1_Auto3E163C5EB4A9C49ABB868108536F95AA0.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/Props/Trees/MSH_BetulaNana_Tree_1_Auto3.uasset'
+[2021.08.31-12.27.06:888][138]LogFileHelpers: Auto-saving content packages took 0.025
+[2021.08.31-12.27.10:734][295]LogActorFactory: Actor Factory created MSH_BetulaNana_Tree_1
+[2021.08.31-12.27.12:628][402]LogActorFactory: Actor Factory created MSH_BetulaNana_Tree_1
+[2021.08.31-12.27.21:574][832]LogEditorViewport: Clicking Background
+[2021.08.31-12.29.28:063][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_Tree_1)
+[2021.08.31-12.29.47:096][860]LogContentBrowser: Attempting asset rename: T_BetulaNana_S -> T_BetulaNana_S
+[2021.08.31-12.30.04:008][786]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Props/Trees/MSH_BetulaNana_Tree_1.MSH_BetulaNana_Tree_1
+[2021.08.31-12.30.50:899][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_S)
+[2021.08.31-12.30.57:337][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Cedrus_Log_Thin_01)
+[2021.08.31-12.31.01:293][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_S)
+[2021.08.31-12.31.03:315][799]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.31-12.31.04:378][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Cedrus_Log_Thin_01)
+[2021.08.31-12.32.37:540][512]Cmd: TRANSACTION UNDO
+[2021.08.31-12.32.37:540][512]LogEditorTransaction: Undo Select Brush Surface
+[2021.08.31-12.32.38:389][512]Cmd: TRANSACTION UNDO
+[2021.08.31-12.32.38:389][512]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.31-12.32.38:679][512]Cmd: TRANSACTION UNDO
+[2021.08.31-12.32.38:679][512]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.31-12.32.38:971][512]Cmd: TRANSACTION UNDO
+[2021.08.31-12.32.38:971][512]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.31-12.32.39:260][512]Cmd: TRANSACTION UNDO
+[2021.08.31-12.32.39:260][512]LogEditorTransaction: Undo Rotate Actors
+[2021.08.31-12.32.44:233][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Larch_01)
+[2021.08.31-12.32.49:443][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_Tree_1)
+[2021.08.31-12.32.49:930][794]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.31-12.32.50:126][795]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.31-12.32.56:224][940]LogRenderer: Reallocating scene render targets to support 1500x956 Format 10 NumSamples 1 (Frame:2706).
+[2021.08.31-12.37.07:256][804]LogUObjectHash: Compacting FUObjectHashTables data took  12.86ms
+[2021.08.31-12.37.07:428][804]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MainLevel_Auto427E4B84747DB859E22F4EEB35BAC4C39.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Maps/MainLevel_Auto4.umap'
+[2021.08.31-12.37.07:430][804]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.194
+[2021.08.31-12.37.07:430][804]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.194
+[2021.08.31-12.37.07:431][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S] ([1] browsable assets)...
+[2021.08.31-12.37.07:484][804]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S.MI_BetulaNana_S]
+[2021.08.31-12.37.07:484][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S]
+[2021.08.31-12.37.07:495][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.31-12.37.07:654][804]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.31-12.37.08:285][804]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.31-12.37.08:285][804]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.08.31-12.37.09:122][804]TextureStreamingBuild: Display: Compiling optional shaders took 1.575 seconds.
+[2021.08.31-12.37.09:178][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.31-12.37.09:293][804]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_BetulaNana_S_Auto43875998340618A17473FAFAB1A3DBB43.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S_Auto4.uasset'
+[2021.08.31-12.37.09:295][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Props/Trees/MSH_BetulaNana_Tree_1] ([1] browsable assets)...
+[2021.08.31-12.37.09:317][804]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Props/Trees/MSH_BetulaNana_Tree_1.MSH_BetulaNana_Tree_1]
+[2021.08.31-12.37.09:318][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Props/Trees/MSH_BetulaNana_Tree_1]
+[2021.08.31-12.37.09:334][804]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MSH_BetulaNana_Tree_1_Auto49881D4344E5DBDEB714670AA731C9348.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Assets/Props/Trees/MSH_BetulaNana_Tree_1_Auto4.uasset'
+[2021.08.31-12.37.09:334][804]LogFileHelpers: Auto-saving content packages took 1.905
+[2021.08.31-12.50.01:884][295]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-12.50.01:885][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-12.50.05:981][438]LogSlate: Window 'MI_BetulaNana_S' being destroyed
+[2021.08.31-12.50.05:986][438]LogSlate: Window 'MI_BetulaNana_S' being destroyed
+[2021.08.31-12.50.06:098][438]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-12.50.06:098][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-12.50.06:327][438]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-12.50.06:327][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-12.50.36:080][ 73]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.31-12.50.39:558][271]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.31-12.50.41:188][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_Tree)
+[2021.08.31-12.50.41:925][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_Tree_1)
+[2021.08.31-12.50.42:854][447]Cmd: DELETE
+[2021.08.31-12.50.42:854][447]Cmd: ACTOR DELETE
+[2021.08.31-12.50.43:060][447]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.31-12.50.43:100][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.08.31-12.50.43:155][447]LogEditorActor: Deleted 1 Actors (0.298 secs)
+[2021.08.31-12.50.44:295][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_Tree)
+[2021.08.31-12.50.45:116][558]Cmd: DELETE
+[2021.08.31-12.50.45:116][558]Cmd: ACTOR DELETE
+[2021.08.31-12.50.45:129][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.31-12.50.45:148][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.31-12.50.45:164][558]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.08.31-12.51.10:317][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.08.31-12.51.10:455][724]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MainLevel_Auto5268134F844EC408BECAAEFA2C18811A3.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Autosaves/Game/Maps/MainLevel_Auto5.umap'
+[2021.08.31-12.51.10:460][724]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.151
+[2021.08.31-12.51.10:460][724]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.151
+[2021.08.31-12.51.17:113][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.31-12.51.18:433][988]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.31-12.51.18:525][988]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Assets/Props/Trees/MSH_BetulaNana_Tree_1.MSH_BetulaNana_Tree_1
+	Asset Name: /Game/Assets/Props/Trees/MSH_BetulaNana_Tree.MSH_BetulaNana_Tree
+[2021.08.31-12.51.27:930][988]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.08.31-12.51.28:130][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.08.31-12.51.36:437][ 36]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\NIRAH STUDIOS\Meshes\BetulaNana\BetulaNanaTree\MSH_BetulaNana_Tree_2.fbx)
+[2021.08.31-12.51.36:453][ 36]LogFbx: Loading FBX Scene from D:\NIRAH STUDIOS\Meshes\BetulaNana\BetulaNanaTree\MSH_BetulaNana_Tree_2.fbx
+[2021.08.31-12.51.36:462][ 36]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.31-12.51.37:481][ 36]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.31-12.51.37:500][ 36]LogFbx: Display: Triangulating static mesh MSH_BetulaNana_L
+[2021.08.31-12.51.37:535][ 36]LogStaticMesh: Building static mesh MSH_BetulaNana_Tree_2...
+[2021.08.31-12.51.37:567][ 36]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Props/Trees/MSH_BetulaNana_Tree_2.MSH_BetulaNana_Tree_2
+[2021.08.31-12.51.37:588][ 36]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.31-12.51.40:197][181]LogSlate: Window 'Message Log' being destroyed
+[2021.08.31-12.51.40:204][181]LogSlate: Window 'Message Log' being destroyed
+[2021.08.31-12.51.41:119][224]LogActorFactory: Actor Factory created MSH_BetulaNana_Tree_2
+[2021.08.31-12.51.42:319][292]LogActorFactory: Actor Factory created MSH_BetulaNana_Tree_2
+[2021.08.31-12.51.45:301][413]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Props/Trees/MSH_BetulaNana_Tree_2.MSH_BetulaNana_Tree_2
+[2021.08.31-12.51.53:582][833]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MSH_BetulaNana_Tree_2B9F926E2448316E649A782B4F3690C82.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/MSH_BetulaNana_Tree_2.uasset'
+[2021.08.31-12.51.53:695][833]AssetCheck: New page: Asset Save: MSH_BetulaNana_Tree_2
+[2021.08.31-12.51.53:702][833]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Trees/MSH_BetulaNana_Tree_2.MSH_BetulaNana_Tree_2
+[2021.08.31-12.51.54:732][870]LogSlate: Window 'MSH_BetulaNana_Tree_2' being destroyed
+[2021.08.31-12.51.54:738][870]LogSlate: Window 'MSH_BetulaNana_Tree_2' being destroyed
+[2021.08.31-12.51.54:743][870]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-12.51.54:743][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-12.51.56:129][946]LogEditorViewport: Clicking Background
+[2021.08.31-12.52.01:596][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_Tree_2)
+[2021.08.31-12.52.02:603][308]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.31-12.52.03:700][368]LogEditorViewport: Clicking Background
+[2021.08.31-12.52.39:718][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_Tree_2)
+[2021.08.31-12.52.49:217][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Betula_Nana_Tree_01)
+[2021.08.31-12.52.50:685][130]LogEditorViewport: Clicking Background
+[2021.08.31-12.52.52:353][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Betula_Nana_Tree_01)
+[2021.08.31-12.52.54:110][324]Cmd: DELETE
+[2021.08.31-12.52.54:110][324]Cmd: ACTOR DELETE
+[2021.08.31-12.52.54:122][324]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.31-12.52.54:144][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.08.31-12.52.54:190][324]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2021.08.31-12.52.55:146][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_Tree_2)
+[2021.08.31-12.53.00:067][663]LogEditorViewport: Clicking Background
+[2021.08.31-12.55.55:666][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.08.31-12.55.57:064][161]LogSlate: Window 'Save Content' being destroyed
+[2021.08.31-12.55.57:106][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.31-12.55.57:222][161]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MainLevelD099716243434AD267BE94B4ADE48740.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/MainLevel.umap'
+[2021.08.31-12.55.57:233][161]LogFileHelpers: Saving map 'MainLevel' took 0.137
+[2021.08.31-12.55.57:237][161]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_BetulaNana_S660F73CD49D20C886651E0BFFFE27CA0.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S.uasset'
+[2021.08.31-12.55.57:384][161]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.31-12.55.57:384][161]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S.MI_BetulaNana_S
+[2021.08.31-12.55.57:384][161]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2021.08.31-12.56.19:750][777]LogActorFactory: Actor Factory created MSH_Betula_Nana_Tree_01
+[2021.08.31-12.56.22:532][  9]LogActorFactory: Actor Factory created MSH_Betula_Nana_Tree_01
+[2021.08.31-12.56.23:122][ 42]LogActorFactory: Actor Factory created MSH_Betula_Nana_Tree_01
+[2021.08.31-12.56.23:977][ 88]Cmd: DELETE
+[2021.08.31-12.56.23:977][ 88]Cmd: ACTOR DELETE
+[2021.08.31-12.56.23:987][ 88]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.31-12.56.23:997][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.08.31-12.56.23:999][ 88]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.08.31-12.56.27:270][407]LogMetaData: Removing '/Game/Assets/Props/Trees/Remove/MSH_Betula_Nana_Tree_01.MSH_Betula_Nana_Tree_01' ref from Metadata '/Game/Assets/Props/Trees/MSH_Betula_Nana_Tree_01.PackageMetaData'
+[2021.08.31-12.56.27:346][407]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MSH_Betula_Nana_Tree_01D05FB584488EFEE94226EEB7B5A828E5.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Remove/MSH_Betula_Nana_Tree_01.uasset'
+[2021.08.31-12.56.27:348][407]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MSH_Betula_Nana_Tree_0143F741C14EFE1C1C634CF0A278B785F3.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/MSH_Betula_Nana_Tree_01.uasset'
+[2021.08.31-12.56.27:468][407]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.31-12.56.27:468][407]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Trees/Remove/MSH_Betula_Nana_Tree_01.MSH_Betula_Nana_Tree_01
+[2021.08.31-12.56.27:468][407]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Props/Trees/MSH_Betula_Nana_Tree_01.MSH_Betula_Nana_Tree_01
+[2021.08.31-12.56.30:250][656]LogActorFactory: Actor Factory created MSH_BetulaNana_Tree_2
+[2021.08.31-12.56.31:482][744]LogActorFactory: Actor Factory created MSH_BetulaNana_Tree_2
+[2021.08.31-12.56.32:601][788]Cmd: DELETE
+[2021.08.31-12.56.32:601][788]Cmd: ACTOR DELETE
+[2021.08.31-12.56.32:610][788]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.31-12.56.32:623][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.31-12.56.32:625][788]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.08.31-12.56.52:261][943]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Betula_Nana_Tree_01_SSSF1FC31AC4119CAF9572F2D851B9CE2B6.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Remove/T_Betula_Nana_Tree_01_SSS.uasset'
+[2021.08.31-12.56.52:283][943]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Betula_Nana_Plant_01_A3CDFBCD148461856920563A9BFFAE1B2.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Remove/T_Betula_Nana_Plant_01_A.uasset'
+[2021.08.31-12.56.52:308][943]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Betula_Nana_Tree_01_AD154735041EE18B4F422358487D5F288.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Remove/T_Betula_Nana_Tree_01_A.uasset'
+[2021.08.31-12.56.52:327][943]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Betula_Nana_Tree_01_AORM803991754E540B9249EF41A80BAE4807.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Remove/T_Betula_Nana_Tree_01_AORM.uasset'
+[2021.08.31-12.56.52:353][943]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Betula_Nana_Tree_01_NB55F28C24E219F15C7102CBF90AB28E3.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Remove/T_Betula_Nana_Tree_01_N.uasset'
+[2021.08.31-12.56.52:363][943]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Betula_Nana_Tree_01_OE21EEA9645296717EBC8EF8099D481C3.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Remove/T_Betula_Nana_Tree_01_O.uasset'
+[2021.08.31-12.56.52:384][943]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Betula_Nana_AOR7E21B05C4E4BD141B1CDD68D154E3AB0.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Remove/T_Betula_Nana_AOR.uasset'
+[2021.08.31-12.56.52:404][943]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_Betula_Nana_AORM_01CA00A31244D951130E850B9C6D0B037D.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Remove/T_Betula_Nana_AORM_01.uasset'
+[2021.08.31-12.56.52:899][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.08.31-12.56.52:909][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.31-12.56.52:916][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.31-12.56.52:923][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.31-12.56.52:931][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.08.31-12.56.52:940][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.08.31-12.56.52:947][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.31-12.56.52:954][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.31-12.56.52:998][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.31-12.56.53:031][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.08.31-12.56.53:246][943]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_BetulaNana49867CA6421EFC3E408DAA91D5DEBDEE.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Material_Instances/MI_BetulaNana.uasset'
+[2021.08.31-12.56.53:366][943]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.31-12.56.53:366][943]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Remove/T_Betula_Nana_Tree_01_O.T_Betula_Nana_Tree_01_O
+[2021.08.31-12.56.53:366][943]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Remove/T_Betula_Nana_AORM_01.T_Betula_Nana_AORM_01
+[2021.08.31-12.56.53:366][943]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Remove/T_Betula_Nana_Tree_01_A.T_Betula_Nana_Tree_01_A
+[2021.08.31-12.56.53:366][943]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Remove/T_Betula_Nana_Tree_01_N.T_Betula_Nana_Tree_01_N
+[2021.08.31-12.56.53:366][943]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Trees/Material_Instances/MI_BetulaNana.MI_BetulaNana
+[2021.08.31-12.56.53:366][943]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Remove/T_Betula_Nana_AOR.T_Betula_Nana_AOR
+[2021.08.31-12.56.53:366][943]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Remove/T_Betula_Nana_Tree_01_AORM.T_Betula_Nana_Tree_01_AORM
+[2021.08.31-12.56.53:366][943]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Remove/T_Betula_Nana_Plant_01_A.T_Betula_Nana_Plant_01_A
+[2021.08.31-12.56.53:366][943]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Remove/T_Betula_Nana_Tree_01_SSS.T_Betula_Nana_Tree_01_SSS
+[2021.08.31-12.57.42:765][ 23]LogContentBrowser: Attempting asset rename: T_BetulaNana_A_S -> T_BetulaNana_A
+[2021.08.31-12.57.42:864][ 23]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_BetulaNana_AFFADB15E47BEB5093AAEC9B8AC7F989E.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Undergrowth/Textures/T_BetulaNana_A.uasset'
+[2021.08.31-12.57.42:993][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.08.31-12.57.43:021][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.31-12.57.43:029][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.31-12.57.43:204][ 23]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_BetulaNana_S8828D3C442B09CE9850417A1527995AB.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S.uasset'
+[2021.08.31-12.57.43:309][ 23]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.31-12.57.43:309][ 23]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Undergrowth/Textures/T_BetulaNana_A.T_BetulaNana_A
+[2021.08.31-12.57.43:309][ 23]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S.MI_BetulaNana_S
+[2021.08.31-12.57.45:792][180]LogContentBrowser: Attempting asset rename: T_BetulaNana_A -> T_BetulaNana_A
+[2021.08.31-12.57.48:597][362]LogContentBrowser: Attempting asset rename: T_BetulaNana_AORM_S -> T_BetulaNana_AORM
+[2021.08.31-12.57.48:686][362]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_BetulaNana_AORM1F0B312C4663ABE02A82D1AFB9524212.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Undergrowth/Textures/T_BetulaNana_AORM.uasset'
+[2021.08.31-12.57.48:814][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.08.31-12.57.48:853][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.31-12.57.48:917][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.08.31-12.57.49:092][362]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_BetulaNana_SC3C7B77B4562C20DB6C57CBF498B0A36.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S.uasset'
+[2021.08.31-12.57.49:193][362]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.31-12.57.49:193][362]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Undergrowth/Textures/T_BetulaNana_AORM.T_BetulaNana_AORM
+[2021.08.31-12.57.49:193][362]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S.MI_BetulaNana_S
+[2021.08.31-12.57.56:489][827]LogContentBrowser: Attempting asset rename: T_BetulaNana_S -> T_BetulaNana
+[2021.08.31-12.57.56:585][827]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_BetulaNanaFA8780D64C91180AD0240CB9691B1AAC.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Undergrowth/Textures/T_BetulaNana.uasset'
+[2021.08.31-12.57.56:704][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.08.31-12.57.56:722][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.08.31-12.57.56:754][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.31-12.57.56:916][827]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_BetulaNana_S5AF23803473CF019109733883BD925B0.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S.uasset'
+[2021.08.31-12.57.57:015][827]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.31-12.57.57:015][827]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Undergrowth/Textures/T_BetulaNana.T_BetulaNana
+[2021.08.31-12.57.57:015][827]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S.MI_BetulaNana_S
+[2021.08.31-12.58.08:478][532]LogContentBrowser: Attempting asset rename: T_BetulaNana -> T_BetulaNana_N
+[2021.08.31-12.58.08:579][532]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_BetulaNana_NE20E66504150125F35016F8611DD4230.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Undergrowth/Textures/T_BetulaNana_N.uasset'
+[2021.08.31-12.58.08:697][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.08.31-12.58.08:716][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.08.31-12.58.08:727][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.31-12.58.08:891][532]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_BetulaNana_SC364A8744C502FB742E912A991C26DFD.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S.uasset'
+[2021.08.31-12.58.08:992][532]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.31-12.58.08:992][532]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Undergrowth/Textures/T_BetulaNana_N.T_BetulaNana_N
+[2021.08.31-12.58.08:992][532]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana_S.MI_BetulaNana_S
+[2021.08.31-12.58.11:468][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_BetulaNana_S)
+[2021.08.31-12.58.17:948][958]LogContentBrowser: Attempting asset rename: MI_BetulaNana_S -> MI_BetulaNana
+[2021.08.31-12.58.18:050][958]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MI_BetulaNana01D8C40340E3A9049B088E95C77C51B9.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana.uasset'
+[2021.08.31-12.58.18:172][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.08.31-12.58.18:190][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.08.31-12.58.18:199][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.31-12.58.18:385][958]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MSH_BetulaNana_S24DD9FA44229B879B2D773BD8A027E96.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Undergrowth/MSH_BetulaNana_S.uasset'
+[2021.08.31-12.58.18:392][958]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MSH_BetulaNana_Tree_25F717F7247D728A9C7346FB856A0EEB4.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/MSH_BetulaNana_Tree_2.uasset'
+[2021.08.31-12.58.18:495][958]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.31-12.58.18:495][958]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Trees/MSH_BetulaNana_Tree_2.MSH_BetulaNana_Tree_2
+[2021.08.31-12.58.18:495][958]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana.MI_BetulaNana
+[2021.08.31-12.58.18:495][958]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Undergrowth/MSH_BetulaNana_S.MSH_BetulaNana_S
+[2021.08.31-12.58.20:800][ 56]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Props/Undergrowth/Material_Instances/MI_BetulaNana.MI_BetulaNana
+[2021.08.31-12.58.24:658][271]LogSlate: Window 'MI_BetulaNana' being destroyed
+[2021.08.31-12.58.24:667][271]LogSlate: Window 'MI_BetulaNana' being destroyed
+[2021.08.31-12.58.24:678][271]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-12.58.24:678][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-12.58.26:677][389]LogEditorViewport: Clicking Background
+[2021.08.31-12.58.29:476][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.08.31-12.58.30:968][547]LogSlate: Window 'Save Content' being destroyed
+[2021.08.31-12.58.31:001][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.08.31-12.58.31:105][547]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/MainLevel05D3F01B4B26BD5F93B03EB29D8B7B9E.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/MainLevel.umap'
+[2021.08.31-12.58.31:116][547]LogFileHelpers: Saving map 'MainLevel' took 0.124
+[2021.08.31-12.58.31:128][547]AssetCheck: New page: Asset Save: MainLevel
+[2021.08.31-12.58.31:128][547]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
