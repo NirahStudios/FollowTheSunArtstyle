@@ -2578,3 +2578,18 @@ Purging the undo buffer...
 [2021.09.03-13.28.45:143][ 54]LogEditorViewport: Clicking Background
 [2021.09.03-13.29.02:076][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
 [2021.09.03-13.29.04:771][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.09.03-13.48.51:351][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_CedrusTree_bulorsvamp_more_done)
+[2021.09.03-13.52.17:191][870]LogEditorFactories: Performing atomic reimport of [D:/NIRAH STUDIOS/Meshes_v2/CedrusTree_Thick/Ny Normalmap Trunk/T_CedrusTrunk_N.png]
+[2021.09.03-13.52.17:198][870]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/NIRAH STUDIOS/Meshes_v2/CedrusTree_Thick/Ny Normalmap Trunk/T_CedrusTrunk_N.png)
+[2021.09.03-13.52.17:446][870]LogTexture: Display: Building textures: T_CedrusTrunk_N (BC5, 1024X1024)
+[2021.09.03-13.52.17:540][870]LogEditorFactories: -- imported successfully
+[2021.09.03-13.52.19:270][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_CedrusTree_bulorsvamp_more_done)
+[2021.09.03-13.52.32:139][670]LogEditorViewport: Clicking Background
+[2021.09.03-13.52.48:426][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.09.03-13.52.49:769][721]LogSlate: Window 'Save Content' being destroyed
+[2021.09.03-13.52.49:977][721]LogSavePackage: Moving '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/T_CedrusTrunk_N52CEA59642D8E00D1FC7209FEDAE13A8.tmp' to '../../../../../../Users/Emelie/Documents/GitHub/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Assets/Props/Trees/Textures/T_CedrusTrunk_N.uasset'
+[2021.09.03-13.52.49:987][721]AssetCheck: New page: Asset Save: T_CedrusTrunk_N
+[2021.09.03-13.52.49:987][721]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Trees/Textures/T_CedrusTrunk_N.T_CedrusTrunk_N
+[2021.09.03-13.53.01:056][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.09.03-13.53.04:988][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.09.03-13.53.06:089][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
