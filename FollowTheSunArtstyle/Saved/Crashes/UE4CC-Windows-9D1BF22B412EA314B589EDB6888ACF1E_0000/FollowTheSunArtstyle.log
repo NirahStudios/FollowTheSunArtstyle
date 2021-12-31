@@ -1,0 +1,1941 @@
+﻿Log file open, 12/31/21 10:01:24
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FollowTheSunArtstyle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.158221
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogXGEController: Cleaning working directory: C:/Users/anicl/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 1700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[r.SSGI.Enable:1]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.12.31-09.01.32:386][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.31-09.01.32:386][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.31-09.01.32:387][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.12.31-09.01.32:387][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.12.31-09.01.32:455][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.31-09.01.32:455][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.31-09.01.32:456][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.12.31-09.01.32:463][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:463][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.31-09.01.32:463][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.31-09.01.32:463][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:463][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.31-09.01.32:463][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.31-09.01.32:463][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.31-09.01.32:475][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.31-09.01.32:480][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.31-09.01.32:494][  0]LogHAL: Display: Platform has ~ 16 GB [17110548480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.31-09.01.32:494][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.31-09.01.32:496][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.31-09.01.32:496][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.31-09.01.32:497][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.31-09.01.32:534][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.31-09.01.32:534][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.31-09.01.32:534][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.31-09.01.32:534][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Engine.ini]
+[2021.12.31-09.01.32:535][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Config/Windows/Editor.ini]
+[2021.12.31-09.01.32:545][  0]LogInit: Computer: DESKTOP-Q73MJ4L
+[2021.12.31-09.01.32:545][  0]LogInit: User: anicl
+[2021.12.31-09.01.32:545][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.12.31-09.01.32:545][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.31-09.01.32:545][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.12.31-09.01.32:546][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.31-09.01.32:546][  0]LogMemory: Process Physical Memory: 144.91 MB used, 144.92 MB peak
+[2021.12.31-09.01.32:546][  0]LogMemory: Process Virtual Memory: 132.22 MB used, 132.22 MB peak
+[2021.12.31-09.01.32:546][  0]LogMemory: Physical Memory: 8034.95 MB used,  8282.94 MB free, 16317.89 MB total
+[2021.12.31-09.01.32:546][  0]LogMemory: Virtual Memory: 134201416.00 MB used,  16308.44 MB free, 134217728.00 MB total
+[2021.12.31-09.01.32:565][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.31-09.01.33:375][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.31-09.01.33:447][  0]LogInit: Using OS detected language (sv-SE).
+[2021.12.31-09.01.33:447][  0]LogInit: Using OS detected locale (sv-SE).
+[2021.12.31-09.01.33:596][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2021.12.31-09.01.34:288][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.31-09.01.34:598][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.31-09.01.35:035][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.31-09.01.35:035][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.31-09.01.39:604][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.31-09.01.39:604][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.31-09.01.39:604][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.31-09.01.39:604][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.31-09.01.39:755][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2021.12.31-09.01.39:755][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.12.31-09.01.39:758][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.31-09.01.39:758][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.31-09.01.39:758][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.31-09.01.39:785][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.31-09.01.39:785][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.31-09.01.39:785][  0]LogWindows: EnumDisplayDevices:
+[2021.12.31-09.01.39:786][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2021.12.31-09.01.39:786][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2021.12.31-09.01.39:786][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2021.12.31-09.01.39:786][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2021.12.31-09.01.39:787][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.12.31-09.01.39:787][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2021.12.31-09.01.39:787][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2021.12.31-09.01.39:787][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2021.12.31-09.01.39:787][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.12.31-09.01.39:883][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.31-09.01.39:883][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.31-09.01.39:883][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.31-09.01.40:309][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.31-09.01.40:317][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.31-09.01.41:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.31-09.01.41:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.31-09.01.41:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.31-09.01.41:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.31-09.01.41:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.31-09.01.41:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.31-09.01.41:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.31-09.01.41:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.31-09.01.41:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.31-09.01.41:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.31-09.01.41:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.31-09.01.41:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.31-09.01.41:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.31-09.01.41:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.31-09.01.41:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.31-09.01.41:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.31-09.01.41:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.31-09.01.41:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.31-09.01.41:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.31-09.01.41:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.31-09.01.41:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.31-09.01.41:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.31-09.01.41:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.31-09.01.41:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.31-09.01.41:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.31-09.01.42:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.31-09.01.42:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.31-09.01.42:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.31-09.01.42:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.31-09.01.42:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.31-09.01.42:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.31-09.01.42:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.31-09.01.42:229][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.31-09.01.42:610][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.31-09.01.43:695][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.31-09.01.43:708][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Intermediate/Shaders/WorkingDirectory/5900/).
+[2021.12.31-09.01.43:708][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/anicl/AppData/Local/Temp/UnrealShaderWorkingDir/AD2B231141F4883E86ED5AA275F7A384/'.
+[2021.12.31-09.01.43:718][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.31-09.01.43:718][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.31-09.01.49:878][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.31-09.01.50:103][  0]LogDerivedDataCache: Loaded boot cache 0.22s 78MB C:/Users/anicl/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.31-09.01.50:103][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/anicl/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.12.31-09.01.50:103][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.31-09.01.50:103][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.31-09.01.50:103][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.31-09.01.50:103][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.31-09.01.50:178][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.31-09.01.50:178][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.31-09.01.50:178][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.31-09.01.50:256][  0]LogDerivedDataCache: Speed tests for C:/Users/anicl/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.08 seconds
+[2021.12.31-09.01.50:256][  0]LogDerivedDataCache: Display: Performance to C:/Users/anicl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.38ms. RandomReadSpeed=15.05MBs, RandomWriteSpeed=84.28MBs. Assigned SpeedClass 'Local'
+[2021.12.31-09.01.50:258][  0]LogDerivedDataCache: Using Local data cache path C:/Users/anicl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.31-09.01.50:258][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.31-09.01.50:258][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.31-09.01.50:416][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.31-09.01.50:489][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.31-09.01.51:450][  0]LogAssetRegistry: FAssetRegistry took 0.0197 seconds to start up
+[2021.12.31-09.02.07:768][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.31-09.02.07:768][  0]LogInit: Active device profile: [000001F6AB7BE100][000001F6A87E2100 49] Windows
+[2021.12.31-09.02.07:768][  0]LogInit: Profiles: [000001F6AB7BE100][000001F6A87E2100 49] Windows, [000001F6AB6EDF00][000001F6A87EA280 49] WindowsNoEditor, [000001F6AB7BD700][000001F6A87EE400 49] WindowsServer, [000001F6AB6ED400][000001F6A87F2580 49] WindowsClient, [000001F6AB7BDF00][000001F6A87F6700 49] IOS, [000001F6AB6EF200][000001F6A87FA880 49] iPadAir, [000001F6AB7BC400][000001F6A8122A00 49] iPadAir2, [000001F6AB6AA200][000001F6A8130CC0 49] IPadPro, [000001F6AB6AA300][000001F6A8126D00 49] iPadAir3, [000001F6AB6ED600][000001F6A813AE80 49] iPadAir4, [000001F6AB6AA400][000001F6A813F000 49] iPadMini2, [000001F6AB6ED700][000001F6A8143180 49] iPadMini3, [000001F6AB6A9200][000001F6A8147300 49] iPadMini4, [000001F6AB6EF300][000001F6A814B480 49] iPadMini5, [000001F6AB6CDB00][000001F6A87E7700 49] iPhone6, [000001F6AB6CDC00][000001F6A814F740 49] iPodTouch6, [000001F6AB6ABE00][000001F6A8157980 49] iPhone7, [000001F6AB6AA100][000001F6A81539C0 49] iPodTouch7, [000001F6AB6CF300][000001F6A815BB00 49] iPhone5S, [000001F6AB6AAD00][000001F6A8163C80 49] iPhone6Plus, [000001F6AB6CD400][000001F6A8166140 49] iPhone6S, [000001F6AB6AB500][000001F6A816A2C0 49] iPhone6SPlus, [000001F6AB6CC200][000001F6A816E440 49] iPhone7Plus, [000001F6AB6AAC00][000001F6A81725C0 49] iPhoneSE, [000001F6AB6CE200][000001F6A8176740 49] iPhone8, [000001F6AB6A9A00][000001F6A817A8C0 49] iPhone8Plus, [000001F6AB6CFF00][000001F6A817EA40 49] iPhoneX, [000001F6AB6AA500][000001F6A8182BC0 49] iPhoneXS, [000001F6AB6CC300][000001F6A8186D40 49] iPhoneXSMax, [000001F6AB6A9D00][000001F6A818AEC0 49] iPhoneXR, [000001F6AB6CF000][000001F6A818F040 49] iPhone11, [000001F6AB6A8D00][000001F6A81931C0 49] iPhone11Pro, [000001F6AB6CE700][000001F6A8197340 49] iPhone11ProMax, [000001F6AB6A9600][000001F6A819B4C0 49] iPhoneSE2, [000001F6AB6CDE00][000001F6A819F640 49] iPhone12Mini, [000001F6AB6A8400][000001F6A81A37C0 49] iPhone12, [000001F6AB6CF800][000001F6A815F900 49] iPhone12Pro, [000001F6AB6A9000][000001F6A81A7A40 49] iPhone12ProMax, [000001F6AB6CFE00][000001F6A81ABB80 49] iPadPro105, [000001F6AB6AA600][000001F6A81B3D00 49] iPadPro129, [000001F6AB6CC400][000001F6A81B61C0 49] iPadPro97, [000001F6AB7BD800][000001F6A81BA340 49] iPadPro2_129, [000001F6AB6CEC00][000001F6A81BE4C0 49] iPad5, [000001F6AB7BF300][000001F6A81C2640 49] iPad6, [000001F6AB6CD100][000001F6A81C67C0 49] iPad7, [000001F6AB7BE400][000001F6A81CA940 49] iPad8, [000001F6AB6CCC00][000001F6A81CEAC0 49] iPadPro11, [000001F6AB7BE800][000001F6A81D2C40 49] iPadPro2_11, [000001F6AB6CDD00][000001F6A81D6DC0 49] iPadPro3_129, [000001F6AB7BDC00][000001F6A81DAF40 49] iPadPro4_129, [000001F6AB6CF900][000001F6A81DF0C0 49] AppleTV, [000001F6AB7BC900][000001F6A81E3240 49] AppleTV4K, [000001F6AB6CE800][000001F6A81E73C0 49] TVOS, [000001F6AB7BE500][000001F6A81EB540 49] Mac, [000001F6AB6CE600][000001F6A81EF6C0 49] MacClient, [000001F6AB7BCD00][000001F6A81F3840 49] MacNoEditor, [000001F6AB6CC700][000001F6A81AF980 49] MacServer, [000001F6AB7BCA00][000001F6A81F7AC0 49] Linux, [000001F6AB6CC800][000001F6A81FBC00 49] LinuxAArch64, [000001F6AB7BDA00][000001F6A82020C0 49] LinuxNoEditor, [000001F6AB6CD300][000001F6A8206240 49] LinuxAArch64NoEditor, [000001F6AB7BDE00][000001F6A820A3C0 49] LinuxClient, [000001F6AB6CD600][000001F6A820E540 49] LinuxAArch64Client, [000001F6AB7BD200][000001F6A82126C0 49] LinuxServer, [000001F6AB6CE300][000001F6A8216840 49] LinuxAArch64Server, [000001F6AB7BC600][000001F6A821A9C0 49] Android, [000001F6AB6CE900][000001F6A821EB40 49] Android_Low, [000001F6AB7BC500][000001F6A8222CC0 49] Android_Mid, [000001F6AB6CEA00][000001F6A8226E40 49] Android_High, [000001F6AB7BEC00][000001F6A822AFC0 49] Android_Default, [000001F6AB6CD900][000001F6A822F140 49] Android_Adreno4xx, [000001F6AB7BCB00][000001F6A82332C0 49] Android_Adreno5xx_Low, [000001F6AB6CC100][000001F6A8237440 49] Android_Adreno5xx, [000001F6AB7BC300][000001F6A823B5C0 49] Android_Adreno6xx, [000001F6AB6CC900][000001F6A823F740 49] Android_Adreno6xx_Vulkan, [000001F6AB7BC700][000001F6A82438C0 49] Android_Mali_T6xx, [000001F6AB6CF200][000001F6A81FFA00 49] Android_Mali_T7xx, [000001F6AB6ABD00][000001F6A8247B40 49] Android_Mali_T8xx, [000001F6AB6ECF00][000001F6A824BC80 49] Android_Mali_G71, [000001F6AB6ABA00][000001F6A824E100 49] Android_Mali_G72, [000001F6AB6EF700][000001F6A8256280 49] Android_Mali_G72_Vulkan, [000001F6AB6AAB00][000001F6A825A400 49] Android_Mali_G76, [000001F6AB6EF500][000001F6A825E580 49] Android_Mali_G76_Vulkan, [000001F6AB6AA800][000001F6A8262700 49] Android_Mali_G77, [000001F6AB6ED200][000001F6A8266880 49] Android_Mali_G77_Vulkan, [000001F6AB6AB100][000001F6A826AA00 49] Android_Vulkan_SM5, [000001F6AB6EFB00][000001F6A826EB80 49] Android_PowerVR_G6xxx, [000001F6AB6A8300][000001F6A8272D00 49] Android_PowerVR_GT7xxx, [000001F6AB6EE500][000001F6A8276E80 49] Android_PowerVR_GE8xxx, [000001F6AB6A8C00][000001F6A827B000 49] Android_PowerVR_GM9xxx, [000001F6AB6EC100][000001F6A827F180 49] Android_PowerVR_GM9xxx_Vulkan, [000001F6AB6A9100][000001F6A8283300 49] Android_TegraK1, [000001F6AB6EE100][000001F6A8287480 49] Android_Unknown_Vulkan, [000001F6AB6AAA00][000001F6A828B600 49] Lumin, [000001F6AB6EFF00][000001F6A828F780 49] Lumin_Desktop, [000001F6AB6ABC00][000001F6A8293900 49] HoloLens, 
+[2021.12.31-09.02.24:141][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.31-09.02.24:141][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.31-09.02.24:141][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.31-09.02.24:141][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.31-09.02.24:239][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.31-09.02.28:584][  0]LogNetVersion: FollowTheSunArtstyle 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 501863915)
+[2021.12.31-09.03.11:166][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.31-09.03.11:553][  0]LogPackageLocalizationCache: Processed 25 localized package path(s) for 1 prioritized culture(s) in 0.342442 seconds
+[2021.12.31-09.03.11:578][  0]LogUObjectArray: 17492 objects as part of root set at end of initial load.
+[2021.12.31-09.03.11:578][  0]LogUObjectAllocator: 4476304 out of 0 bytes used by permanent object pool.
+[2021.12.31-09.03.11:578][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.31-09.03.14:156][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.31-09.03.14:228][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.31-09.03.17:813][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2021.12.31-09.03.19:391][  0]SourceControl: Source control is disabled
+[2021.12.31-09.03.19:391][  0]SourceControl: Source control is disabled
+[2021.12.31-09.03.19:507][  0]SourceControl: Source control is disabled
+[2021.12.31-09.03.19:547][  0]SourceControl: Source control is disabled
+[2021.12.31-09.03.19:658][  0]SourceControl: Source control is disabled
+[2021.12.31-09.03.19:724][  0]LogUProjectInfo: Found projects:
+[2021.12.31-09.03.19:763][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.12.31-09.03.19:763][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.12.31-09.03.21:904][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.31-09.03.22:181][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.31-09.03.22:181][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.31-09.03.22:798][  0]LogCollectionManager: Loaded 0 collections in 0.001404 seconds
+[2021.12.31-09.03.22:841][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Saved/Collections/' took 0.02s
+[2021.12.31-09.03.22:841][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Developers/anicl/Collections/' took 0.01s
+[2021.12.31-09.03.22:841][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Collections/' took 0.01s
+[2021.12.31-09.03.23:008][  0]LogOcInput: OculusInput pre-init called
+[2021.12.31-09.03.23:283][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.12.31-09.03.23:283][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.12.31-09.03.23:453][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' (GetLastError=126)
+[2021.12.31-09.03.23:453][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' does not exist
+[2021.12.31-09.03.23:454][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' (GetLastError=126)
+[2021.12.31-09.03.23:454][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' does not exist
+[2021.12.31-09.03.24:504][  0]LogEngine: Initializing Engine...
+[2021.12.31-09.03.24:614][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.31-09.03.24:618][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.31-09.03.24:658][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.12.31-09.03.25:032][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.31-09.03.25:468][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.31-09.03.25:542][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.31-09.03.25:608][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.31-09.03.25:608][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.31-09.03.25:628][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.31-09.03.25:628][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.31-09.03.25:628][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.31-09.03.25:628][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.31-09.03.25:628][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.31-09.03.25:628][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.31-09.03.25:628][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.31-09.03.25:628][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.31-09.03.25:653][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.31-09.03.25:653][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.31-09.03.25:811][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.31-09.03.25:812][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.31-09.03.25:869][  0]LogAudioMixer: Display: Using Audio Device Hörlurar (Arctis 7 Game)
+[2021.12.31-09.03.25:896][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.31-09.03.25:897][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.31-09.03.25:898][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.31-09.03.25:904][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.31-09.03.25:905][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.31-09.03.25:905][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.31-09.03.25:906][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.31-09.03.25:906][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.31-09.03.25:906][  0]LogInit: FAudioDevice initialized.
+[2021.12.31-09.03.25:907][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.31-09.03.25:922][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.31-09.03.26:018][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/anicl/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.31-09.03.26:018][  0]LogInit: Texture streaming: Enabled
+[2021.12.31-09.03.26:182][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.12.31-09.03.26:244][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.31-09.03.26:244][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.31-09.03.26:277][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.31-09.03.26:542][  0]LogInit: Transaction tracking system initialized
+[2021.12.31-09.03.26:958][  0]BlueprintLog: New page: Editor Load
+[2021.12.31-09.03.28:299][  0]LocalizationService: Localization service is disabled
+[2021.12.31-09.03.28:962][  0]TimingProfiler: Initialize
+[2021.12.31-09.03.28:964][  0]TimingProfiler: OnSessionChanged
+[2021.12.31-09.03.28:965][  0]LoadingProfiler: Initialize
+[2021.12.31-09.03.28:965][  0]LoadingProfiler: OnSessionChanged
+[2021.12.31-09.03.28:965][  0]NetworkingProfiler: Initialize
+[2021.12.31-09.03.28:965][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.31-09.03.28:965][  0]MemoryProfiler: Initialize
+[2021.12.31-09.03.28:965][  0]MemoryProfiler: OnSessionChanged
+[2021.12.31-09.03.29:778][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.12.31-09.03.29:779][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.12.31-09.03.31:136][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/' took 0.05s
+[2021.12.31-09.03.31:136][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.31-09.03.31:136][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.31-09.03.35:416][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.31-09.03.35:516][  0]SourceControl: Source control is disabled
+[2021.12.31-09.03.35:523][  0]LogUnrealEdMisc: Loading editor; pre map load, took 158.855
+[2021.12.31-09.03.35:558][  0]Cmd: MAP LOAD FILE="../../../../../GitHub - Nirah Studios/FollowTheSunArtstyle/FollowTheSunArtstyle/Content/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.31-09.03.35:560][  0]LightingResults: New page: Lighting Build
+[2021.12.31-09.03.35:613][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-09.03.35:659][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-09.03.35:692][  0]MapCheck: New page: Map Check
+[2021.12.31-09.03.35:692][  0]LightingResults: New page: Lighting Build
+[2021.12.31-09.03.35:949][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.12.31-09.03.37:583][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Action' for  InputAction Action
+[2021.12.31-09.03.37:583][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Command 1' for  InputAction Command 1
+[2021.12.31-09.03.37:583][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Command 2' for  InputAction Command 2
+[2021.12.31-09.03.37:584][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Command 3' for  InputAction Command 3
+[2021.12.31-09.03.37:584][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Command 4' for  InputAction Command 4
+[2021.12.31-09.03.37:584][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Command 5' for  InputAction Command 5
+[2021.12.31-09.03.37:584][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'SummonPet' for  InputAction SummonPet
+[2021.12.31-09.03.37:584][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Command 6' for  InputAction Command 6
+[2021.12.31-09.03.37:584][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'RotateCompanions' for  InputAction RotateCompanions
+[2021.12.31-09.03.37:585][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ToggleGodMode' for  InputAction ToggleGodMode
+[2021.12.31-09.03.37:585][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2021.12.31-09.03.37:586][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'AimMode' for  InputAction AimMode
+[2021.12.31-09.03.37:587][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ZoomIn' for  InputAction ZoomIn
+[2021.12.31-09.03.37:587][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ZoomOut' for  InputAction ZoomOut
+[2021.12.31-09.03.37:588][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ToggleVisibility' for  InputAction ToggleVisibility
+[2021.12.31-09.03.37:588][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ToggleBaitType' for  InputAction ToggleBaitType
+[2021.12.31-09.03.37:589][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AdvancedTaming\Blueprints\Characters\Player\BP_ATS_PlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ShootBait' for  InputAction ShootBait
+[2021.12.31-09.03.40:330][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AnimalBehaviorKit\Blueprints\Characters\Animals\GroundAnimals\BP_GroundAnimalBase.uasset: [Compiler] InputAction Event references unknown Action 'ZoomIn' for  InputAction ZoomIn
+[2021.12.31-09.03.40:330][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AnimalBehaviorKit\Blueprints\Characters\Animals\GroundAnimals\BP_GroundAnimalBase.uasset: [Compiler] InputAction Event references unknown Action 'ZoomOut' for  InputAction ZoomOut
+[2021.12.31-09.03.40:330][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub - Nirah Studios\FollowTheSunArtstyle\FollowTheSunArtstyle\Content\AnimalBehaviorKit\Blueprints\Characters\Animals\GroundAnimals\BP_GroundAnimalBase.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2021.12.31-09.03.49:651][  0]LogStaticMesh: Building static mesh MSH_Boulder_L_02...
+[2021.12.31-09.03.49:805][  0]LogStaticMesh: Built static mesh [0.15s] /Game/Assets/Props/Stones/MSH_Boulder_L_02.MSH_Boulder_L_02
+[2021.12.31-09.03.49:932][  0]LogStaticMesh: Building static mesh MSH_CedrusTreebumps_01...
+[2021.12.31-09.03.49:970][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Props/Trees/MSH_CedrusTreebumps_01.MSH_CedrusTreebumps_01
+[2021.12.31-09.03.50:022][  0]LogStaticMesh: Building static mesh MSH_Cliff1_M_01...
+[2021.12.31-09.03.50:034][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Props/Stones/MSH_Cliff1_M_01.MSH_Cliff1_M_01
+[2021.12.31-09.03.50:049][  0]LogStaticMesh: Building static mesh MSH_CliffEdge_04...
+[2021.12.31-09.03.50:063][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Props/Stones/MSH_CliffEdge_04.MSH_CliffEdge_04
+[2021.12.31-09.03.50:076][  0]LogStaticMesh: Building static mesh MSH_CliffThin_02...
+[2021.12.31-09.03.50:086][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Props/Stones/MSH_CliffThin_02.MSH_CliffThin_02
+[2021.12.31-09.03.50:097][  0]LogStaticMesh: Building static mesh MSH_CliffWall_08...
+[2021.12.31-09.03.50:109][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Props/Stones/MSH_CliffWall_08.MSH_CliffWall_08
+[2021.12.31-09.03.51:758][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2021.12.31-09.03.51:760][  0]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.31-09.03.52:468][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.31-09.03.52:653][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.12.31-09.03.52:670][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.31-09.03.52:670][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,205ms to complete.
+[2021.12.31-09.03.52:670][  0]LogFileHelpers: Loading map 'MainLevel' took 17.119
+[2021.12.31-09.03.52:693][  0]LogAssetRegistry: Flushing asset discovery search because of synchronous request, this can take several seconds...
+[2021.12.31-09.03.52:767][  0]LogAssetRegistry: Asset discovery search completed in 0.0735 seconds
+[2021.12.31-09.03.52:799][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.12.31-09.03.53:861][  0]LogUnrealEdMisc: Total Editor Startup Time, took 177.192
+[2021.12.31-09.03.54:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-09.03.54:815][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-09.03.54:822][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-09.03.54:867][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-09.03.55:094][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0149 seconds. Added 3670 classes and 880 folders.
+[2021.12.31-09.03.55:267][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.12.31-09.03.55:406][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.31-09.03.55:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.31-09.03.55:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.12.31-09.03.55:419][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.31-09.03.55:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.31-09.03.55:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.12.31-09.03.55:455][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.31-09.03.55:455][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.31-09.03.55:455][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.12.31-09.03.55:472][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.31-09.03.55:472][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:472][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.31-09.03.55:472][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.12.31-09.03.55:491][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.31-09.03.55:491][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:491][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.31-09.03.55:491][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.12.31-09.03.55:507][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.31-09.03.55:507][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:507][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.31-09.03.55:507][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.12.31-09.03.55:519][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.31-09.03.55:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.31-09.03.55:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.12.31-09.03.55:536][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.31-09.03.55:536][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:537][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.31-09.03.55:537][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.12.31-09.03.55:601][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.31-09.03.55:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.31-09.03.55:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.12.31-09.03.55:615][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.31-09.03.55:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.31-09.03.55:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.12.31-09.03.55:630][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.31-09.03.55:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.31-09.03.55:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.12.31-09.03.55:647][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.31-09.03.55:647][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:647][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.31-09.03.55:647][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.12.31-09.03.55:686][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.31-09.03.55:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.31-09.03.55:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.12.31-09.03.55:706][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.31-09.03.55:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.31-09.03.55:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2021.12.31-09.03.55:712][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.31-09.03.55:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.31-09.03.55:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.12.31-09.03.55:726][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.31-09.03.55:726][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.31-09.03.55:726][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.12.31-09.03.55:739][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.31-09.03.55:739][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:739][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.31-09.03.55:739][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.12.31-09.03.55:754][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.31-09.03.55:754][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:754][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.31-09.03.55:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.12.31-09.03.55:768][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.31-09.03.55:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.31-09.03.55:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.12.31-09.03.55:786][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.31-09.03.55:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.31-09.03.55:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.12.31-09.03.55:805][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.31-09.03.55:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.31-09.03.55:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2021.12.31-09.03.55:821][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.31-09.03.55:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.31-09.03.55:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2021.12.31-09.03.55:828][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.31-09.03.55:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.31-09.03.55:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2021.12.31-09.03.55:835][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.31-09.03.55:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.31-09.03.55:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000127
+[2021.12.31-09.03.55:848][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.31-09.03.55:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.31-09.03.55:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2021.12.31-09.03.55:867][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.31-09.03.55:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.31-09.03.55:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.31-09.03.55:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000137
+[2021.12.31-09.03.57:187][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.31-09.03.57:223][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.12.31-09.03.58:509][  0]LogSlate: Took 0.032789 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.31-09.03.58:519][  0]LogSlate: Took 0.008149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.31-09.03.58:555][  0]LogSlate: Took 0.013488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.31-09.03.58:582][  0]LogSlate: Took 0.014325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.31-09.03.58:878][  0]LogRenderer: Reallocating scene render targets to support 1240x596 Format 10 NumSamples 1 (Frame:1).
+[2021.12.31-09.03.59:266][  0]LogSlate: Took 0.037487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.31-09.03.59:532][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.31-09.03.59:532][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.12.31-09.03.59:532][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.12.31-09.03.59:532][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.12.31-09.03.59:532][  0]LogLoad: (Engine Initialization) Total time: 182.86 seconds
+[2021.12.31-09.03.59:532][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.31-09.03.59:539][  0]LogInit: First time updating LLM stats...
+[2021.12.31-09.03.59:951][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.31-09.04.00:128][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2021.12.31-09.09.00:263][576]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.31-09.10.40:603][469]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.31-09.10.40:739][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.31-09.10.40:860][469]PIE: New page: PIE session: MainLevel (31 dec. 2021 11:10:40)
+[2021.12.31-09.10.40:975][469]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.31-09.10.40:977][469]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.31-09.10.40:993][469]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2021.12.31-09.10.41:255][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.254386s)
+[2021.12.31-09.10.41:263][469]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.31-09.10.41:273][469]LogPlayLevel: PIE: World Init took: (0.017925s)
+[2021.12.31-09.10.41:273][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.279879s)
+[2021.12.31-09.10.41:311][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.12.31-09.10.41:359][469]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.31-09.10.41:359][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.31-09.10.41:359][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.31-09.10.41:360][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.31-09.10.41:360][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.31-09.10.41:360][469]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.31-09.10.41:360][469]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.31-09.10.41:360][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.31-09.10.41:360][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.31-09.10.41:360][469]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.31-09.10.41:360][469]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.31-09.10.41:365][469]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.31-09.10.41:365][469]LogAudioMixer: Display: 1: FrontRight
+[2021.12.31-09.10.41:402][469]LogAudioMixer: Display: Using Audio Device Hörlurar (Arctis 7 Game)
+[2021.12.31-09.10.41:402][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.31-09.10.41:402][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.31-09.10.41:402][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.31-09.10.41:403][469]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.31-09.10.41:403][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.31-09.10.41:403][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.31-09.10.41:424][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.31-09.10.41:424][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.31-09.10.41:424][469]LogInit: FAudioDevice initialized.
+[2021.12.31-09.10.41:424][469]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel'.
+[2021.12.31-09.10.41:465][469]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.31-09.10.41:687][469]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.31-10.10.41
+[2021.12.31-09.10.41:855][469]LogWorld: Bringing up level for play took: 0.236244
+[2021.12.31-09.10.41:876][469]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.12.31-09.10.41:946][469]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.12.31-09.10.45:586][469]LogStreaming: Display: FlushAsyncLoading: 27 QueuedPackages, 0 AsyncPackages
+[2021.12.31-09.10.46:176][469]LogStreaming: Error: Couldn't find file for package /Game/Assets/Landscape_Materials/Layer_Info/Wettness_LayerInfo requested by async loading code. NameToLoad: /Game/Assets/Landscape_Materials/Layer_Info/Wettness_LayerInfo
+[2021.12.31-09.10.47:142][469]PIE: Server logged in
+[2021.12.31-09.10.47:144][469]PIE: Play in editor total start time 6,511 seconds.
+[2021.12.31-09.10.47:252][469]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:505][470]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:588][471]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:603][472]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:648][473]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:716][474]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:737][475]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:762][476]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:786][477]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:809][478]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:822][479]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:836][480]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:851][481]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:864][482]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:877][483]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:891][484]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:905][485]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:917][486]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:934][487]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:955][488]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:967][489]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:981][490]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.47:993][491]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:006][492]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:019][493]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:032][494]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:044][495]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:057][496]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:070][497]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:083][498]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:096][499]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:109][500]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:123][501]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:135][502]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:148][503]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:161][504]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:175][505]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:188][506]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:201][507]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:214][508]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:226][509]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:239][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:251][511]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:264][512]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:277][513]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:289][514]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:301][515]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:314][516]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:327][517]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:340][518]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:353][519]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:365][520]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:378][521]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:392][522]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:404][523]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:417][524]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:446][525]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:459][526]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:473][527]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:486][528]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:499][529]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:530][530]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:542][531]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:555][532]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:568][533]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:581][534]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:594][535]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:606][536]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:619][537]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:632][538]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:645][539]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:658][540]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:671][541]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:683][542]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:696][543]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:709][544]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:721][545]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:737][546]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:750][547]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:763][548]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:777][549]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:789][550]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:802][551]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:814][552]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:827][553]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:840][554]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:853][555]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:866][556]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:879][557]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:892][558]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:905][559]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:917][560]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:931][561]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:944][562]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:958][563]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:973][564]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.48:987][565]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:001][566]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:016][567]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:030][568]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:044][569]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:058][570]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:071][571]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:084][572]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:098][573]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:112][574]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:136][575]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:152][576]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:168][577]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:182][578]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:196][579]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:209][580]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:223][581]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:236][582]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:250][583]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:263][584]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:277][585]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:289][586]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:302][587]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:315][588]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:329][589]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:342][590]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:357][591]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:369][592]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:382][593]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:395][594]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:409][595]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:422][596]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:436][597]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:450][598]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:463][599]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:477][600]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:491][601]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:504][602]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:517][603]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:530][604]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:543][605]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:557][606]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:571][607]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:585][608]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:600][609]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:614][610]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:628][611]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:642][612]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:656][613]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:670][614]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:684][615]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:698][616]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:712][617]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:725][618]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:738][619]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:752][620]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:766][621]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:781][622]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:794][623]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:807][624]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:820][625]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:833][626]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:847][627]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:861][628]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:876][629]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:891][630]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:905][631]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:919][632]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:934][633]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:948][634]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:962][635]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:976][636]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.49:991][637]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:004][638]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:017][639]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:031][640]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:044][641]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:057][642]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:087][643]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:100][644]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:113][645]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:126][646]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:138][647]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:151][648]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:164][649]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:178][650]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:190][651]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:203][652]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:216][653]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:229][654]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:242][655]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:255][656]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:268][657]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:281][658]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:294][659]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:308][660]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:321][661]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:333][662]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:346][663]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:360][664]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:373][665]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:385][666]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:399][667]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:414][668]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:427][669]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:441][670]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:454][671]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:467][672]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:481][673]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:494][674]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:506][675]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:519][676]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:533][677]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:546][678]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:560][679]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:573][680]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:586][681]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:600][682]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:614][683]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:629][684]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:643][685]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:657][686]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:673][687]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:687][688]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:701][689]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:715][690]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:730][691]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:744][692]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:758][693]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:772][694]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:786][695]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:801][696]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:815][697]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:830][698]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:844][699]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:858][700]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:872][701]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:886][702]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:900][703]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:914][704]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:929][705]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:943][706]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:956][707]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:969][708]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:983][709]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.50:996][710]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:009][711]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:022][712]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:034][713]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:047][714]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:060][715]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:073][716]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:087][717]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:099][718]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:113][719]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:125][720]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:138][721]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:151][722]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:163][723]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:176][724]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:190][725]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:202][726]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:215][727]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:228][728]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:241][729]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:254][730]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:267][731]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:281][732]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:293][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:306][734]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:318][735]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:331][736]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:344][737]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:357][738]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:371][739]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:383][740]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:396][741]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:409][742]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:421][743]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:433][744]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:446][745]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:458][746]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:471][747]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:483][748]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:495][749]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:508][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:520][751]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:533][752]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:545][753]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:558][754]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:569][755]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:582][756]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:596][757]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:609][758]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:621][759]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:633][760]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:645][761]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:659][762]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:673][763]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:685][764]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:698][765]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:711][766]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:724][767]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:736][768]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:749][769]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:762][770]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:775][771]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:787][772]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:800][773]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:813][774]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:826][775]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:839][776]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:851][777]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:864][778]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:877][779]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:890][780]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:902][781]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:914][782]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:927][783]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:941][784]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:953][785]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:966][786]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:979][787]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.51:992][788]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:006][789]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:019][790]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:033][791]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:045][792]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:058][793]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:073][794]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:085][795]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:098][796]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:110][797]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:123][798]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:136][799]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:149][800]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:162][801]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:176][802]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:189][803]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:202][804]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:215][805]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:228][806]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:241][807]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:253][808]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:266][809]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:280][810]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:293][811]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:307][812]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:320][813]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:333][814]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:346][815]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:359][816]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:372][817]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:385][818]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:399][819]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:412][820]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:425][821]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:439][822]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:452][823]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:466][824]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:479][825]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:492][826]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:505][827]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:519][828]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:532][829]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:545][830]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:558][831]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:575][831]LogAnimMontage: Warning: Playing a Montage (Stag_montag) for the wrong Skeleton (SK_DeerStag_Skeleton) instead of (SK_DeerDoe_Skeleton).
+[2021.12.31-09.10.52:588][832]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:601][833]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:614][834]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:627][835]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:641][836]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:654][837]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:667][838]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:681][839]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:695][840]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:707][841]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:720][842]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:733][843]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:746][844]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:759][845]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:772][846]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:785][847]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:798][848]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:810][849]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:823][850]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:835][851]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:847][852]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:860][853]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:873][854]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:885][855]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:899][856]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:912][857]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:925][858]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:939][859]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:952][860]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:965][861]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:979][862]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.52:993][863]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:008][864]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:023][865]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:036][866]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:049][867]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:062][868]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:076][869]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:089][870]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:102][871]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:115][872]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:115][872]LogAnimMontage: Warning: Playing a Montage (Stag_montag) for the wrong Skeleton (SK_DeerStag_Skeleton) instead of (SK_DeerDoe_Skeleton).
+[2021.12.31-09.10.53:129][873]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:142][874]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:156][875]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:168][876]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:182][877]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:195][878]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:209][879]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:224][880]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:243][881]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:261][882]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:275][883]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:288][884]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:301][885]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:314][886]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:327][887]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:340][888]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:352][889]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:366][890]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:366][890]LogAnimMontage: Warning: Playing a Montage (Stag_montag) for the wrong Skeleton (SK_DeerStag_Skeleton) instead of (SK_DeerDoe_Skeleton).
+[2021.12.31-09.10.53:382][891]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:396][892]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:411][893]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:424][894]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:438][895]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:450][896]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:464][897]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:477][898]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:491][899]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:503][900]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:517][901]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:531][902]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:544][903]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:557][904]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:570][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:583][906]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:597][907]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:610][908]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:623][909]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:636][910]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:650][911]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:663][912]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:677][913]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:690][914]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:703][915]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:716][916]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:730][917]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:743][918]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:756][919]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:768][920]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:782][921]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:796][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:809][923]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:822][924]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:835][925]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:849][926]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:862][927]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:876][928]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:891][929]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:904][930]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:917][931]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:932][932]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:946][933]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:961][934]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:975][935]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.53:989][936]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:003][937]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:017][938]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:030][939]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:043][940]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:056][941]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:070][942]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:084][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:097][944]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:110][945]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:123][946]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:136][947]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:150][948]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:163][949]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:177][950]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:191][951]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:205][952]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:218][953]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:231][954]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:245][955]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:258][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:271][957]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:285][958]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:298][959]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:312][960]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:325][961]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:339][962]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:353][963]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:366][964]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:379][965]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:394][966]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:408][967]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:408][967]LogAnimMontage: Warning: Playing a Montage (Stag_montag) for the wrong Skeleton (SK_DeerStag_Skeleton) instead of (SK_DeerDoe_Skeleton).
+[2021.12.31-09.10.54:421][968]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:435][969]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:448][970]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:461][971]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:475][972]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:488][973]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:501][974]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:514][975]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:527][976]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:540][977]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:554][978]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:567][979]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:581][980]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:594][981]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:607][982]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:619][983]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:633][984]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:646][985]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:659][986]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:659][986]LogAnimMontage: Warning: Playing a Montage (Stag_montag) for the wrong Skeleton (SK_DeerStag_Skeleton) instead of (SK_DeerDoe_Skeleton).
+[2021.12.31-09.10.54:674][987]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:687][988]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:700][989]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:714][990]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:727][991]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:740][992]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:753][993]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:768][994]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:783][995]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:797][996]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:811][997]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:824][998]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:836][999]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:849][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:863][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:876][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:890][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:904][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:919][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:937][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:952][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:965][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:980][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.54:993][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:007][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:020][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:034][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:047][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:060][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:074][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:086][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:099][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:112][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:125][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:139][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:152][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:167][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:183][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:197][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:210][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:224][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:237][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:251][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:264][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:278][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:290][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:303][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:316][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:329][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:342][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:355][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:368][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:381][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:395][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:407][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:421][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:434][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:447][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:461][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:474][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:488][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:488][ 47]LogAnimMontage: Warning: Playing a Montage (Stag_montag) for the wrong Skeleton (SK_DeerStag_Skeleton) instead of (SK_DeerDoe_Skeleton).
+[2021.12.31-09.10.55:501][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:515][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:528][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:542][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:555][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:568][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:582][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:595][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:609][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:622][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:635][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:649][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:663][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:677][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:691][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:704][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:718][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:731][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:745][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:757][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:771][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:784][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:798][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:811][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:825][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:838][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:851][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:865][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:878][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:891][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:904][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:917][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:930][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:944][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:957][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:970][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:983][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.55:995][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:009][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:022][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:036][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:036][ 88]LogAnimMontage: Warning: Playing a Montage (Stag_montag) for the wrong Skeleton (SK_DeerStag_Skeleton) instead of (SK_DeerDoe_Skeleton).
+[2021.12.31-09.10.56:049][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:062][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:062][ 90]LogAnimMontage: Warning: Playing a Montage (Stag_montag) for the wrong Skeleton (SK_DeerStag_Skeleton) instead of (SK_DeerDoe_Skeleton).
+[2021.12.31-09.10.56:076][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:089][ 92]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:102][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:115][ 94]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:128][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:142][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:155][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:168][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:184][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:198][100]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:212][101]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:226][102]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:240][103]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:253][104]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:267][105]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:281][106]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:295][107]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:309][108]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:323][109]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:337][110]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:351][111]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:365][112]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:378][113]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:393][114]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:406][115]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:406][115]LogAnimMontage: Warning: Playing a Montage (Stag_montag) for the wrong Skeleton (SK_DeerStag_Skeleton) instead of (SK_DeerDoe_Skeleton).
+[2021.12.31-09.10.56:421][116]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:435][117]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:450][118]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:464][119]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:479][120]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:493][121]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:507][122]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:521][123]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:534][124]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:548][125]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:562][126]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:575][127]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:588][128]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:601][129]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:613][130]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:628][131]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:641][132]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:654][133]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:667][134]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:682][135]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:695][136]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:708][137]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:721][138]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:734][139]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:747][140]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:760][141]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:773][142]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:786][143]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:800][144]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:813][145]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:826][146]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:839][147]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:852][148]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:866][149]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:879][150]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:891][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:904][152]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:917][153]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:930][154]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:944][155]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:958][156]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:971][157]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.56:984][158]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:007][159]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:022][160]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:034][161]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:047][162]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:060][163]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:074][164]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:087][165]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:102][166]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:115][167]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:128][168]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:141][169]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:155][170]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:168][171]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:182][172]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:196][173]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:208][174]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:221][175]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:234][176]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:247][177]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:261][178]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:275][179]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:287][180]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:300][181]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:314][182]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:327][183]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:340][184]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:353][185]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:367][186]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:381][187]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:394][188]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:407][189]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:422][190]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:435][191]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:447][192]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:460][193]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:473][194]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:487][195]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:499][196]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:513][197]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:527][198]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:541][199]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:554][200]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:567][201]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:581][202]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:595][203]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:608][204]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:622][205]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:636][206]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:650][207]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:663][208]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:677][209]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:690][210]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:704][211]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:717][212]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:731][213]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:745][214]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:759][215]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:772][216]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:786][217]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:799][218]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:812][219]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:826][220]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:840][221]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:853][222]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:866][223]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:879][224]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:892][225]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:905][226]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:918][227]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:932][228]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:945][229]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:959][230]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:974][231]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.57:988][232]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:002][233]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:016][234]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:029][235]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:043][236]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:056][237]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:070][238]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:084][239]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:097][240]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:111][241]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:126][242]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:140][243]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:154][244]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:168][245]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:182][246]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:196][247]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:210][248]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:223][249]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:236][250]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:250][251]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:264][252]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:277][253]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:290][254]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:304][255]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:318][256]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:332][257]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:345][258]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:359][259]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:372][260]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:386][261]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:400][262]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:413][263]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:426][264]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:440][265]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:454][266]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:468][267]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:482][268]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:495][269]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:509][270]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:522][271]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:535][272]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:548][273]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:561][274]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:574][275]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:587][276]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:600][277]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:613][278]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:626][279]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:639][280]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:652][281]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:666][282]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:679][283]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:692][284]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:704][285]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:717][286]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:731][287]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:745][288]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:758][289]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:772][290]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:785][291]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:799][292]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:812][293]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:825][294]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:838][295]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:850][296]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:863][297]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:877][298]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:890][299]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:903][300]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:917][301]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:931][302]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:944][303]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:958][304]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:971][305]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:984][306]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.58:997][307]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:011][308]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:024][309]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:037][310]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:051][311]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:063][312]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:077][313]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:090][314]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:102][315]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:116][316]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:131][317]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:145][318]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:159][319]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:172][320]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:186][321]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:200][322]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:213][323]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:227][324]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:240][325]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:253][326]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:266][327]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:280][328]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:294][329]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:307][330]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:319][331]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:334][332]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:348][333]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:361][334]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:375][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:388][336]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:401][337]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:414][338]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:427][339]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:441][340]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:453][341]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:466][342]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:480][343]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:493][344]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:505][345]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:518][346]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:531][347]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:544][348]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:558][349]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:570][350]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:583][351]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:597][352]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:610][353]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:623][354]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:636][355]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:649][356]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:663][357]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:677][358]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:690][359]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:702][360]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:715][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:728][362]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:742][363]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:754][364]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:767][365]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:780][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:793][367]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:805][368]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:818][369]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:831][370]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:845][371]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:858][372]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:871][373]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:884][374]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:898][375]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:912][376]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:925][377]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:939][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:953][379]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:967][380]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:982][381]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.10.59:997][382]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:012][383]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:026][384]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:040][385]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:053][386]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:066][387]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:079][388]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:093][389]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:107][390]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:107][390]LogAnimMontage: Warning: Playing a Montage (Stag_montag) for the wrong Skeleton (SK_DeerStag_Skeleton) instead of (SK_DeerDoe_Skeleton).
+[2021.12.31-09.11.00:120][391]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:134][392]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:148][393]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:161][394]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:175][395]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:189][396]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:202][397]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:215][398]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:229][399]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:243][400]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:256][401]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:270][402]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:284][403]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:297][404]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:311][405]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:325][406]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:338][407]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:351][408]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:364][409]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:378][410]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:391][411]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:405][412]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:418][413]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:431][414]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:445][415]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:458][416]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:471][417]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:484][418]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:498][419]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:515][420]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:530][421]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:544][422]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:558][423]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:572][424]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:585][425]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:599][426]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:612][427]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:625][428]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:638][429]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:652][430]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:665][431]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:678][432]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:692][433]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:705][434]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:718][435]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:731][436]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:744][437]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:757][438]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:770][439]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:784][440]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:797][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:811][442]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:824][443]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:838][444]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:852][445]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:865][446]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:879][447]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:892][448]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:905][449]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:918][450]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:932][451]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:945][452]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 350.0
+[2021.12.31-09.11.00:965][453]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. None CameraShakeBase
+[2021.12.31-09.11.00:972][453]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+ThirdPersonCharacter_C.ExecuteUbergraph_ThirdPersonCharacter
+ThirdPersonCharacter_C.InpAxisEvt_LookUp_K2Node_InputAxisEvent_1
+
+[2021.12.31-09.11.03:364][453]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.393 s
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: === Handled ensure: ===
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: 
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/UObjectGlobals.cpp] [Line: 2249]
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. None CameraShakeBase
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: Stack: 
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35c771e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35b9d1fa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35b9b969 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35b9dbb9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff36619230 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff370c394d UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff37913788 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff358a2604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35b18176 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35b2f7b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35b5d4ef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35b322fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35b06b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35b31ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35b322fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35b31704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff358a2604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff35b30e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff362fc435 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff376121f3 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff370b7769 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff370cafc2 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff370b56eb UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff370c8e8e UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff362df78d UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff374c297e UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff374cb56f UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff3920ecdc UE4Editor-Core.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff3920f0ce UE4Editor-Core.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff392208fd UE4Editor-Core.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff374e8464 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff374eedaa UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff36c0ad8f UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff36c155f7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff335d9423 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fff33ef50e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007ff64e799bc2 UE4Editor.exe!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007ff64e7b117c UE4Editor.exe!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007ff64e7b125a UE4Editor.exe!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007ff64e7c52bd UE4Editor.exe!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007ff64e7c7fea UE4Editor.exe!UnknownFunction []
+[2021.12.31-09.11.03:367][453]LogOutputDevice: Error: [Callstack] 0x00007fffc2687034 KERNEL32.DLL!UnknownFunction []
+[2021.12.31-09.11.03:368][453]LogOutputDevice: Error: [Callstack] 0x00007fffc2c02651 ntdll.dll!UnknownFunction []
+[2021.12.31-09.11.03:368][453]LogOutputDevice: Error: 
